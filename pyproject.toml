@@ -1,0 +1,9 @@
+[project]
+name = "deployez-un-modele-de-machine-learning"
+version = "0.1.0"
+description = "OpenClassrooms | P5 : Déployez un modèle de Machine Learning"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "pytest>=9.0.3",
+]
