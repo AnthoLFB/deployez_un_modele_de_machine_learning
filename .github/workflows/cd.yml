@@ -21,8 +21,16 @@ jobs:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
 
         run: |
-          git remote remove space || true
-          git remote add space https://user:$HF_TOKEN@huggingface.co/spaces/AnthoLFB/deployez_un_modele_de_machine_learning
-          
-          git pull space main --rebase || true
-          git push space main
+          git clone https://user:$HF_TOKEN@huggingface.co/spaces/AnthoLFB/deployez_un_modele_de_machine_learning space_repo
+
+          rsync -av --exclude='.git' ./ space_repo/
+
+          cd space_repo
+
+          git config user.email "github-actions@example.com"
+          git config user.name "github-actions"
+
+          git add .
+          git commit -m "Deploy from GitHub Actions" || echo "No changes"
+
+          git push
