@@ -10,5 +10,6 @@ load_dotenv("configuration/.env")
 def main():
     print(f"Bonjour ! Bienvenue sur le projet : {os.getenv('APP_NAME')}")
 
+
 if __name__ == "__main__":
     main()
