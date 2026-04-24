@@ -23,4 +23,6 @@ jobs:
         run: |
           git remote remove space || true
           git remote add space https://user:$HF_TOKEN@huggingface.co/spaces/AnthoLFB/deployez_un_modele_de_machine_learning
-          git push space main:main --force
+          
+          git pull space main --rebase || true
+          git push space main
