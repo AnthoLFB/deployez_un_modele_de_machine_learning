@@ -1,2 +1,13 @@
-# deployez_un_modele_de_machine_learning
-Formation OpenClassrooms | P5 : Déployez un modèle de Machine Learning
+---
+title: Déployez un modele de machine learning
+emoji: 🎓
+colorFrom: purple
+colorTo: indigo
+sdk: gradio
+sdk_version: 6.14.0
+python_version: '3.14'
+app_file: main.py
+pinned: false
+license: mit
+short_description: Projet OC
+---
