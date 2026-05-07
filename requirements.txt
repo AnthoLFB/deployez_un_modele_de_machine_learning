@@ -1,4 +1,12 @@
-pytest
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+psycopg2-binary
+scikit-learn
+pandas
+joblib
 python-dotenv
+pytest
 black
 flake8
