@@ -1,46 +1,88 @@
-from fastapi import APIRouter, Depends, HTTPException, Query
-from sqlalchemy.orm import Session
-from ..db.database import get_db
+# Imports
+import io
+import pandas as pd
 from ..db import crud
+from ..db.database import get_db
+from sqlalchemy.orm import Session
+from ..services.trainer import Trainer
+from typing import Dict, Any, Optional
+from ..services.predictor import Predictor
 from ..schemas.input import PredictionInput
 from ..services.model_manager import ModelManager
-from ..services.trainer import Trainer
-from ..services.predictor import Predictor
+from fastapi import APIRouter, Depends, HTTPException, Query, File, UploadFile
+from ..services.meta_service import display_welcome_message, get_health_status
 
+# Création et organisation des routes via FastAPI.
 router = APIRouter()
 
+# Route de base (message de bienvenu + liste des routes dispo)
+@router.get("/")
+def welcome() :
+    return display_welcome_message()
+
+# Permte de checker si l'API est accessible
 @router.get("/health")
 def health_check():
-    return {"status": "ok bobby"}
+    return get_health_status()
 
-@router.post("/train")
-def train_model(force: bool = False, db: Session = Depends(get_db)):
-    if ModelManager.model_exists() and not force:
-        return {"message": "Le modèle existe déjà. Utilisez force=true pour réentraîner."}
+# Permet d'entrainer le modèle
+@router.post('/train')
+def train_model(force: bool = False, optimize: bool = False, param_grid: Optional[Dict[str, Any]] = None, db: Session = Depends(get_db)):
+    result = ModelManager.train(force, db, param_grid=param_grid, optimize=optimize)
     
-    if force:
-        ModelManager.archive_model()
-    
-    success, message = Trainer.train_from_db(db)
-    if not success:
-        raise HTTPException(status_code=400, detail=message)
-    
-    return {"message": message}
+    if result["status"] == "success":
+        return result
+    elif result["status"] == "conflict":
+        raise HTTPException(status_code=409, detail=result["message"])
+    else:
+        raise HTTPException(status_code=500, detail=result["message"])
 
+# Permet d'archiver le modèle actuel
 @router.post("/dump-brain")
 def dump_brain():
-    archive_path = ModelManager.archive_model()
-    if archive_path:
-        return {"message": f"Modèle archivé avec succès vers {archive_path}"}
-    return {"message": "Aucun modèle à archiver."}
+    result = ModelManager.archive_model()
+    
+    if result["status"] == "success":
+        return result
+    elif result["status"] == "not_found":
+        return result
+    else:
+        raise HTTPException(status_code=500, detail=result["message"])
 
+# Permet de lancer une prédiction sur un seul élément
 @router.post("/predict")
 def predict(data: PredictionInput, db: Session = Depends(get_db)):
-    prediction, error = Predictor.predict(db, data.age, data.salary)
-    if error:
-        raise HTTPException(status_code=400, detail=error)
-    return {"prediction": prediction}
+    result = Predictor.predict(db, data.model_dump())
+    
+    if result["status"] == "success":
+        return result["data"]
+    elif result["status"] == "not_found":
+        raise HTTPException(status_code=404, detail=result["message"])
+    else:
+        raise HTTPException(status_code=400, detail=result["message"])
 
+# Permet de lancer des prédictions sur un ensemble d'éléments via un fichier CSV
+@router.post("/predict-csv")
+async def predict_csv(file: UploadFile = File(...), db: Session = Depends(get_db)):
+    if not file.filename.endswith('.csv'):
+        raise HTTPException(status_code=400, detail="Le fichier doit être au format CSV.")
+    
+    try:
+        content = await file.read()
+        df = pd.read_csv(io.BytesIO(content))
+        
+        result = Predictor.predict_batch(db, df)
+        
+        if result["status"] == "success":
+            return {"predictions": result["data"]}
+        elif result["status"] == "not_found":
+            raise HTTPException(status_code=404, detail=result["message"])
+        else:
+            raise HTTPException(status_code=400, detail=result["message"])
+    except Exception as e:
+        raise HTTPException(status_code=400, detail=f"Erreur lors de la lecture du CSV : {str(e)}")
+
+# Permet d'afficher une liste de X predictions déjà effectuées
 @router.get("/show-list")
 def show_list(limit: int = Query(10, ge=1), offset: int = Query(0, ge=0), db: Session = Depends(get_db)):
     predictions = crud.get_predictions(db, skip=offset, limit=limit)
