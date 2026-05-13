@@ -1,14 +1,14 @@
 from sqlalchemy.orm import Session
 from . import models
 
-def create_input(db: Session, age: int, salary: float):
-    db_input = models.InputData(age=age, salary=salary)
+def create_input(db: Session, input_data: dict):
+    db_input = models.InputData(**input_data)
     db.add(db_input)
     db.commit()
     db.refresh(db_input)
     return db_input
 
-def create_prediction(db: Session, input_id: int, prediction: int):
+def create_prediction(db: Session, input_id: int, prediction: bool):
     db_prediction = models.PredictionResult(input_id=input_id, prediction=prediction)
     db.add(db_prediction)
     db.commit()
