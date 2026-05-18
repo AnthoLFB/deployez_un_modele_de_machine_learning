@@ -1,5 +1,5 @@
-from sqlalchemy import Column, Integer, Float, String, DateTime, ForeignKey, Boolean
-from sqlalchemy.dialects.postgresql import JSONB
+from sqlalchemy import Column, Integer, Float, String, DateTime, ForeignKey, Boolean, JSON
+# from sqlalchemy.dialects.postgresql import JSONB
 from sqlalchemy.orm import relationship
 from sqlalchemy.sql import func
 from .database import Base
@@ -89,8 +89,8 @@ class InteractionLog(Base):
     id = Column(Integer, primary_key=True, index=True)
     input_id = Column(Integer, ForeignKey("inputs.id"))
     prediction_id = Column(Integer, ForeignKey("predictions.id"))
-    user_input = Column(JSONB)
-    model_output = Column(JSONB)
+    user_input = Column(JSON)
+    model_output = Column(JSON)
     status = Column(String)
     created_at = Column(DateTime(timezone=True), server_default=func.now())
 

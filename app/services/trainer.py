@@ -22,7 +22,7 @@ class Trainer:
         """
         # Identification des types de colonnes
         numeric_features = X.select_dtypes(include=['int64', 'float64']).columns.tolist()
-        categorical_features = X.select_dtypes(include=['object', 'bool']).columns.tolist()
+        categorical_features = X.select_dtypes(include=['object', 'bool', 'string']).columns.tolist()
 
         print(f"Info: Features numériques: {numeric_features}")
         print(f"Info: Features catégorielles: {categorical_features}")
