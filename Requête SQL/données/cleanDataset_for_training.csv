@@ -1,0 +1,1471 @@
+revenu_mensuel,departement,poste,nombre_experiences_precedentes,annee_experience_totale,annees_dans_l_entreprise,annees_dans_le_poste_actuel,age_rh,satisfaction_employee_environnement,note_evaluation_precedente,niveau_hierarchique_poste,satisfaction_employee_nature_travail,satisfaction_employee_equipe,satisfaction_employee_equilibre_pro_perso,note_evaluation_actuelle,heure_supplementaires,augementation_salaire_precedente,a_quitte_l_entreprise,nombre_participation_pee,nb_formations_suivies,niveau_education,domaine_etude,frequence_deplacement,annees_depuis_la_derniere_promotion,annes_sous_responsable_actuel,tranche_distance_domicile_travail
+8.69851424787661,Commercial,Cadre Commercial,8,8,6,4,35-44,2,3,2,4,1,1,3,Oui,11 %,1,0,0,2,Infra & Cloud,Occasionnel,0,5,0-4 km
+8.543055850941965,Consulting,Assistant de Direction,1,10,10,7,45-59,3,2,2,2,4,3,4,Non,23 %,0,1,3,1,Infra & Cloud,Frequent,1,7,5-9 km
+7.645397699428633,Consulting,Consultant,6,7,0,0,35-44,4,2,1,3,2,3,3,Oui,15 %,1,0,3,2,Autre,Occasionnel,0,0,0-4 km
+7.975908360165538,Consulting,Assistant de Direction,1,8,8,7,25-34,4,3,1,3,3,3,3,Oui,11 %,0,0,3,4,Infra & Cloud,Frequent,3,0,0-4 km
+8.15162164696975,Consulting,Consultant,9,6,2,2,25-34,1,3,1,2,4,3,3,Non,12 %,0,1,3,1,Transformation Digitale,Occasionnel,2,2,0-4 km
+8.029107054619736,Consulting,Consultant,0,8,7,7,25-34,4,3,1,4,3,2,3,Non,13 %,0,0,2,2,Infra & Cloud,Frequent,3,6,0-4 km
+7.890208213109961,Consulting,Consultant,4,12,1,0,45-59,3,4,1,1,1,2,4,Oui,20 %,0,3,3,3,Transformation Digitale,Occasionnel,0,0,0-4 km
+7.898782356970309,Consulting,Consultant,1,1,1,0,25-34,4,3,1,3,2,3,4,Non,22 %,0,1,2,1,Infra & Cloud,Occasionnel,0,0,20-29 km
+9.161885151706779,Consulting,Tech Lead,0,10,9,7,35-44,4,2,3,3,2,3,4,Non,21 %,0,0,2,3,Infra & Cloud,Frequent,1,8,20-29 km
+8.563695025067657,Consulting,Manager,6,17,7,7,35-44,3,3,2,3,2,2,3,Non,13 %,0,2,3,3,Transformation Digitale,Occasionnel,7,7,20-29 km
+7.794411205726601,Consulting,Consultant,0,6,5,4,35-44,1,4,1,2,3,3,3,Non,13 %,0,1,5,3,Transformation Digitale,Occasionnel,0,3,15-19 km
+8.341410211461865,Consulting,Consultant,0,10,9,5,25-34,4,2,2,3,4,3,3,Oui,12 %,0,0,3,2,Infra & Cloud,Occasionnel,0,8,15-19 km
+7.976595409316577,Consulting,Assistant de Direction,1,5,5,2,25-34,1,3,1,3,4,2,3,Non,17 %,0,1,1,1,Infra & Cloud,Occasionnel,4,3,20-29 km
+7.8868329989550565,Consulting,Consultant,0,3,2,2,25-34,2,3,1,4,3,3,3,Non,11 %,0,1,2,2,Transformation Digitale,Occasionnel,1,2,15-19 km
+7.615298339825815,Consulting,Consultant,5,6,4,2,25-34,3,2,1,3,2,3,3,Oui,14 %,1,0,4,3,Infra & Cloud,Occasionnel,0,3,20-29 km
+9.208438564686587,Consulting,Tech Lead,1,10,10,9,25-34,2,4,3,1,3,3,3,Non,11 %,0,1,1,4,Infra & Cloud,Occasionnel,8,8,20-29 km
+8.101374671228582,Consulting,Assistant de Direction,0,7,6,2,25-34,1,4,1,2,4,2,3,Oui,12 %,0,2,5,2,Infra & Cloud,Occasionnel,0,5,5-9 km
+7.984803389734406,Consulting,Consultant,1,1,1,0,18-24,4,4,1,4,2,2,3,Oui,13 %,0,2,2,2,Transformation Digitale,Aucun,0,0,15-19 km
+9.643939319328119,Commercial,Senior Manager,2,31,25,8,45-59,1,2,4,4,3,3,3,Non,16 %,0,0,3,4,Infra & Cloud,Occasionnel,3,7,0-4 km
+8.280204233279974,Consulting,Assistant de Direction,5,6,3,2,35-44,4,3,1,4,3,3,3,Oui,11 %,0,0,3,3,Infra & Cloud,Occasionnel,1,2,0-4 km
+8.297045149081827,Consulting,Tech Lead,0,5,4,2,18-24,1,4,2,3,4,2,3,Non,18 %,0,1,5,2,Autre,Aucun,1,3,10-14 km
+8.133880887949207,Commercial,Représentant Commercial,7,10,5,3,35-44,3,2,1,1,2,3,4,Non,23 %,1,0,4,4,Infra & Cloud,Occasionnel,0,3,5-9 km
+9.392245175273795,Consulting,Directeur Technique,0,13,12,6,25-34,1,3,3,2,3,3,3,Non,11 %,0,0,4,4,Infra & Cloud,Occasionnel,2,11,5-9 km
+7.117205503164344,Consulting,Assistant de Direction,1,0,0,0,18-24,3,3,1,4,4,3,3,Non,14 %,0,0,6,2,Infra & Cloud,Occasionnel,0,0,15-19 km
+7.993282328101591,Consulting,Assistant de Direction,2,8,4,2,25-34,2,3,1,1,3,3,3,Non,11 %,1,0,2,1,Transformation Digitale,Occasionnel,1,3,5-9 km
+9.857181799659617,Consulting,Senior Manager,4,26,14,13,45-59,3,3,5,3,4,2,3,Non,11 %,0,1,3,3,Autre,Occasionnel,4,8,5-9 km
+8.273846932784508,Consulting,Assistant de Direction,1,10,10,2,25-34,2,1,1,1,2,3,4,Oui,22 %,1,0,5,1,Infra & Cloud,Frequent,6,7,15-19 km
+8.828494129466652,Commercial,Cadre Commercial,0,10,9,7,35-44,3,3,2,2,4,3,3,Non,11 %,0,1,2,4,Marketing,Occasionnel,4,2,5-9 km
+9.234935418831563,Consulting,Manager,3,24,22,6,35-44,1,2,3,4,4,3,3,Non,14 %,0,1,4,4,Transformation Digitale,Occasionnel,5,17,5-9 km
+9.849453664043642,Commercial,Senior Manager,3,22,2,2,45-59,2,3,5,1,4,2,3,Non,12 %,0,0,2,4,Marketing,Occasionnel,2,1,0-4 km
+7.822845290279774,Consulting,Consultant,4,7,1,1,25-34,3,3,1,4,4,3,3,Non,11 %,0,0,3,3,Transformation Digitale,Occasionnel,0,0,0-4 km
+8.774312958285378,Consulting,Manager,2,9,4,2,35-44,4,3,2,4,4,4,3,Oui,13 %,0,0,5,4,Autre,Occasionnel,1,3,10-14 km
+7.699389406256737,Consulting,Consultant,1,10,10,0,25-34,4,2,1,3,1,3,3,Non,13 %,0,0,5,2,Transformation Digitale,Occasionnel,1,8,5-9 km
+7.643482907077201,Commercial,Représentant Commercial,3,19,1,0,35-44,4,3,2,4,3,4,3,Non,14 %,1,1,6,3,Entrepreunariat,Occasionnel,0,0,5-9 km
+7.738052297689316,Consulting,Assistant de Direction,2,6,2,0,18-24,2,3,1,4,1,2,3,Oui,16 %,1,1,2,3,Transformation Digitale,Occasionnel,2,0,0-4 km
+7.880804344674901,Consulting,Assistant de Direction,1,6,5,3,35-44,4,4,1,3,4,2,3,Non,12 %,0,2,3,2,Transformation Digitale,Occasionnel,1,4,0-4 km
+7.895063498091573,Commercial,Représentant Commercial,1,3,3,2,45-59,1,2,1,3,3,3,3,Oui,14 %,1,0,2,2,Marketing,Occasionnel,0,2,0-4 km
+7.608374474380783,Commercial,Représentant Commercial,1,2,2,2,35-44,4,3,1,4,1,3,3,Non,13 %,0,0,3,3,Marketing,Occasionnel,2,2,0-4 km
+8.13739583005665,Consulting,Assistant de Direction,9,6,1,1,35-44,2,2,1,1,4,4,3,Oui,14 %,0,1,3,4,Infra & Cloud,Occasionnel,0,0,5-9 km
+8.589885876809678,Commercial,Cadre Commercial,2,10,5,3,25-34,3,4,2,1,1,3,3,Non,19 %,0,2,3,3,Infra & Cloud,Frequent,1,3,0-4 km
+7.5766097669730375,Consulting,Consultant,1,1,1,0,35-44,3,3,1,4,3,3,3,Non,12 %,0,1,3,2,Autre,Occasionnel,0,0,0-4 km
+7.758760544157663,Consulting,Consultant,1,1,1,0,25-34,4,3,1,1,4,3,3,Non,13 %,0,1,6,4,Infra & Cloud,Occasionnel,0,0,0-4 km
+7.738052297689316,Consulting,Consultant,1,1,1,0,25-34,1,1,1,3,3,2,3,Non,12 %,1,0,2,3,Infra & Cloud,Occasionnel,0,1,20-29 km
+9.074176947163311,Commercial,Cadre Commercial,1,9,9,8,25-34,4,3,3,3,4,3,3,Non,15 %,0,0,0,3,Infra & Cloud,Frequent,1,7,5-9 km
+8.297045149081827,Consulting,Consultant,1,12,12,8,25-34,3,3,2,4,4,3,4,Non,23 %,0,0,2,2,Transformation Digitale,Frequent,3,7,0-4 km
+9.880525940898782,Consulting,Directeur Technique,1,23,22,15,35-44,2,3,5,3,4,3,3,Non,12 %,1,0,0,3,Entrepreunariat,Occasionnel,15,8,10-14 km
+8.427049641563272,Commercial,Cadre Commercial,0,10,9,5,25-34,2,3,2,3,3,3,4,Non,20 %,0,0,2,4,Marketing,Aucun,8,7,20-29 km
+8.014004994779459,Consulting,Assistant de Direction,4,8,1,0,35-44,2,3,1,2,1,3,4,Non,21 %,0,0,1,2,Infra & Cloud,Occasionnel,0,0,15-19 km
+8.660947155060933,Commercial,Cadre Commercial,4,14,9,6,45-59,1,3,2,4,3,3,4,Oui,21 %,0,0,4,4,Marketing,Frequent,0,8,5-9 km
+7.727535110475448,Consulting,Consultant,1,1,1,0,35-44,4,4,1,4,4,3,3,Non,19 %,0,0,2,1,Infra & Cloud,Occasionnel,0,1,5-9 km
+8.590815331286851,Consulting,Consultant,9,23,1,0,45-59,1,2,3,3,4,3,3,Oui,13 %,1,0,2,2,Infra & Cloud,Occasionnel,0,0,0-4 km
+8.143807976771484,Consulting,Consultant,1,2,2,2,25-34,3,3,1,3,3,2,3,Oui,13 %,1,0,3,4,Entrepreunariat,Occasionnel,2,2,5-9 km
+8.604287898267172,Commercial,Cadre Commercial,5,9,4,3,35-44,2,3,2,1,3,2,4,Oui,21 %,0,1,2,5,Marketing,Occasionnel,1,3,0-4 km
+9.198773735604718,Consulting,Manager,2,10,4,0,35-44,3,2,3,1,3,3,3,Oui,13 %,0,1,3,2,Transformation Digitale,Aucun,2,3,10-14 km
+8.332789468417959,Commercial,Cadre Commercial,7,5,2,2,25-34,3,2,2,4,3,2,3,Oui,19 %,0,1,2,3,Marketing,Occasionnel,0,0,20-29 km
+9.507403306233716,Consulting,Directeur Technique,1,15,15,14,25-34,1,3,3,4,3,3,3,Oui,12 %,0,0,1,2,Infra & Cloud,Frequent,8,12,0-4 km
+9.112727543109182,Commercial,Cadre Commercial,1,9,9,8,35-44,2,3,3,1,4,2,4,Non,22 %,0,1,3,5,Infra & Cloud,Frequent,1,8,15-19 km
+8.297792626380861,Consulting,Consultant,3,4,2,2,35-44,3,3,1,1,3,3,3,Oui,15 %,0,1,3,4,Transformation Digitale,Occasionnel,2,2,20-29 km
+8.68541582383069,Consulting,Consultant,3,10,7,7,25-34,4,3,2,4,4,2,4,Non,22 %,0,1,3,4,Infra & Cloud,Occasionnel,1,7,5-9 km
+8.69851424787661,Consulting,Tech Lead,1,7,7,5,35-44,1,2,2,3,3,4,3,Non,18 %,0,1,2,4,Infra & Cloud,Occasionnel,0,7,0-4 km
+8.726318950962243,Consulting,Tech Lead,1,9,9,8,25-34,1,3,2,4,2,3,4,Oui,22 %,0,1,3,3,Transformation Digitale,Occasionnel,7,8,0-4 km
+7.786136437783072,Consulting,Consultant,1,10,10,3,35-44,4,3,2,4,4,3,3,Non,11 %,0,0,2,5,Infra & Cloud,Frequent,9,9,20-29 km
+9.838468916161679,Consulting,Directeur Technique,5,29,27,3,45-59,2,2,5,3,4,2,3,Oui,12 %,0,1,2,2,Transformation Digitale,Occasionnel,13,8,5-9 km
+8.940891067785461,Commercial,Cadre Commercial,7,28,21,16,45-59,1,3,3,1,4,2,3,Non,11 %,0,0,3,3,Infra & Cloud,Occasionnel,7,9,20-29 km
+9.219993629004321,Consulting,Manager,1,17,17,14,35-44,3,3,3,3,2,3,3,Non,13 %,0,3,2,3,Entrepreunariat,Occasionnel,12,8,5-9 km
+9.59947282546345,Consulting,Senior Manager,2,21,5,0,45-59,4,3,4,3,3,3,3,Oui,14 %,0,3,2,3,Transformation Digitale,Occasionnel,0,2,5-9 km
+8.779557455883728,Consulting,Tech Lead,1,6,6,5,35-44,2,2,2,2,3,3,3,Non,13 %,0,0,3,3,Infra & Cloud,Frequent,0,3,10-14 km
+9.182455168486648,Consulting,Assistant de Direction,2,25,1,0,45-59,2,3,3,1,3,3,3,Non,17 %,0,1,2,3,Infra & Cloud,Occasionnel,0,0,5-9 km
+7.693937325509272,Consulting,Assistant de Direction,4,5,3,2,35-44,2,3,1,1,4,2,3,Non,13 %,0,1,2,3,Transformation Digitale,Frequent,1,2,0-4 km
+8.128290171607052,Consulting,Assistant de Direction,0,2,1,0,35-44,4,2,1,3,1,2,3,Oui,17 %,1,1,0,3,Transformation Digitale,Occasionnel,0,0,5-9 km
+8.607764889600624,Commercial,Cadre Commercial,7,20,4,3,45-59,1,2,2,3,4,2,3,Non,11 %,0,0,2,1,Infra & Cloud,Frequent,1,3,0-4 km
+7.902487437162855,Consulting,Assistant de Direction,0,6,5,4,25-34,3,3,1,2,4,3,4,Non,23 %,0,1,3,3,Infra & Cloud,Occasionnel,0,4,0-4 km
+7.824845691026856,Consulting,Assistant de Direction,1,1,1,1,25-34,3,3,1,2,2,3,3,Non,17 %,0,0,4,4,Transformation Digitale,Occasionnel,1,0,0-4 km
+8.73568594451502,Consulting,Assistant de Direction,1,10,10,4,25-34,2,3,2,2,2,3,3,Non,17 %,0,2,3,3,Infra & Cloud,Occasionnel,0,9,0-4 km
+8.019283792916793,Consulting,Consultant,3,5,1,0,35-44,2,4,1,4,2,3,3,Non,12 %,0,0,3,3,Infra & Cloud,Occasionnel,0,0,5-9 km
+8.39502555744203,Consulting,Tech Lead,1,11,11,7,25-34,3,3,2,4,4,3,4,Non,23 %,0,0,2,4,Infra & Cloud,Occasionnel,1,8,5-9 km
+8.369388996647842,Commercial,Cadre Commercial,0,16,15,13,35-44,3,2,2,1,2,3,3,Non,14 %,0,0,2,4,Marketing,Occasionnel,2,8,0-4 km
+9.491450899044924,Consulting,Directeur Technique,4,17,0,0,45-59,4,3,3,1,2,4,3,Oui,14 %,0,0,3,4,Autre,Occasionnel,0,0,5-9 km
+9.522593098362169,Consulting,Directeur Technique,4,16,5,2,35-44,1,3,3,3,1,4,3,Non,13 %,0,0,3,4,Transformation Digitale,Occasionnel,0,2,5-9 km
+8.52158353971753,Ressources Humaines,Ressources Humaines,8,16,4,2,45-59,2,3,2,2,4,3,4,Oui,22 %,0,1,2,2,Transformation Digitale,Occasionnel,0,2,5-9 km
+8.5422759717837,Consulting,Consultant,1,10,10,8,25-34,4,2,2,4,3,2,3,Oui,12 %,0,2,1,1,Infra & Cloud,Occasionnel,3,0,0-4 km
+7.958576903813898,Consulting,Assistant de Direction,1,6,6,4,35-44,2,2,1,3,1,3,3,Non,18 %,0,0,3,3,Transformation Digitale,Occasionnel,0,4,0-4 km
+9.234056898593499,Commercial,Cadre Commercial,3,24,1,0,45-59,1,3,3,4,4,3,3,Non,14 %,0,1,4,2,Infra & Cloud,Occasionnel,1,0,0-4 km
+8.58110651715989,Consulting,Assistant de Direction,7,17,13,11,35-44,2,1,2,4,4,3,3,Oui,12 %,0,3,3,3,Transformation Digitale,Aucun,1,9,5-9 km
+8.372398606513004,Consulting,Tech Lead,1,5,5,2,25-34,1,3,2,2,3,3,3,Non,15 %,0,0,2,2,Transformation Digitale,Occasionnel,1,3,0-4 km
+8.890272839380247,Consulting,Tech Lead,4,37,6,4,45-59,4,1,3,4,1,2,3,Non,11 %,0,0,3,3,Infra & Cloud,Occasionnel,0,2,5-9 km
+7.750614732770409,Commercial,Représentant Commercial,3,3,0,0,18-24,3,3,1,1,3,3,3,Non,13 %,0,1,3,1,Entrepreunariat,Occasionnel,0,0,0-4 km
+7.638198244285779,Consulting,Consultant,3,10,4,2,45-59,4,3,1,4,2,3,4,Non,23 %,0,2,4,4,Infra & Cloud,Occasionnel,0,3,5-9 km
+8.331586243630754,Consulting,Manager,1,11,11,10,25-34,3,2,2,4,1,3,3,Non,19 %,0,3,3,3,Infra & Cloud,Occasionnel,10,8,0-4 km
+9.171599543659752,Commercial,Cadre Commercial,1,9,9,8,45-59,3,2,3,4,4,3,3,Non,16 %,1,0,3,2,Transformation Digitale,Occasionnel,4,7,5-9 km
+9.510741216835738,Consulting,Manager,1,22,22,3,35-44,3,2,4,2,4,2,4,Non,22 %,0,1,3,4,Infra & Cloud,Frequent,11,11,0-4 km
+8.601901919343192,Commercial,Cadre Commercial,0,11,10,7,45-59,3,3,2,4,4,1,4,Oui,22 %,0,0,2,4,Marketing,Occasionnel,1,0,20-29 km
+8.558335134747413,Commercial,Cadre Commercial,1,11,11,8,25-34,3,2,2,2,2,2,3,Oui,12 %,0,3,4,2,Transformation Digitale,Occasionnel,2,7,0-4 km
+9.27556615689389,Consulting,Manager,2,21,10,9,45-59,3,2,3,1,3,2,3,Oui,13 %,0,1,5,3,Transformation Digitale,Frequent,9,5,0-4 km
+8.519390774959724,Commercial,Cadre Commercial,1,12,11,8,25-34,2,3,2,3,1,3,3,Non,16 %,0,0,0,4,Transformation Digitale,Occasionnel,5,7,5-9 km
+9.514141826307847,Consulting,Directeur Technique,9,16,4,3,45-59,1,3,3,3,1,1,3,Non,12 %,0,1,5,4,Entrepreunariat,Occasionnel,0,3,0-4 km
+8.517193191416238,Commercial,Cadre Commercial,0,4,3,2,18-24,1,3,2,3,1,2,4,Non,21 %,0,1,2,2,Autre,Occasionnel,0,2,0-4 km
+8.348064228408266,Commercial,Cadre Commercial,1,5,5,4,25-34,2,3,2,3,2,4,3,Non,15 %,0,0,3,3,Transformation Digitale,Aucun,0,4,0-4 km
+9.537699784080726,Commercial,Cadre Commercial,0,38,37,10,45-59,4,3,4,3,3,2,3,Non,13 %,0,0,1,4,Transformation Digitale,Occasionnel,1,8,10-14 km
+7.622174594817622,Consulting,Consultant,4,17,3,2,35-44,2,3,2,2,3,4,3,Non,12 %,0,1,3,3,Transformation Digitale,Aucun,1,2,20-29 km
+7.637234388789473,Ressources Humaines,Ressources Humaines,4,7,3,2,35-44,3,3,1,1,4,3,4,Oui,22 %,1,0,3,4,Ressources Humaines,Occasionnel,0,2,5-9 km
+7.9919305198524775,Consulting,Assistant de Direction,1,1,1,0,25-34,4,3,1,1,4,3,3,Non,13 %,0,0,2,1,Infra & Cloud,Occasionnel,0,0,0-4 km
+7.9817332866918855,Consulting,Consultant,1,1,1,0,18-24,4,2,1,4,2,3,3,Oui,18 %,1,0,5,3,Infra & Cloud,Frequent,1,0,5-9 km
+8.478452363099807,Consulting,Assistant de Direction,1,16,16,13,25-34,1,3,2,3,3,3,3,Non,14 %,0,0,3,4,Autre,Occasionnel,2,10,5-9 km
+8.549466751966532,Consulting,Manager,5,17,1,0,35-44,3,2,2,4,4,4,3,Non,14 %,0,1,2,2,Infra & Cloud,Aucun,0,0,0-4 km
+9.844002905701236,Ressources Humaines,Senior Manager,9,30,3,2,45-59,3,2,5,4,4,3,4,Non,21 %,0,1,3,4,Ressources Humaines,Aucun,2,2,0-4 km
+9.807692255081262,Consulting,Directeur Technique,3,28,8,3,45-59,1,3,5,2,1,2,3,Oui,19 %,0,0,1,3,Infra & Cloud,Frequent,0,7,0-4 km
+8.656085190282855,Commercial,Cadre Commercial,1,6,6,4,25-34,3,2,2,3,4,3,3,Oui,11 %,1,0,1,3,Marketing,Occasionnel,0,3,5-9 km
+7.969011781106478,Consulting,Assistant de Direction,1,2,2,2,25-34,4,2,1,4,3,3,3,Non,11 %,0,2,2,1,Transformation Digitale,Occasionnel,2,1,5-9 km
+7.962763930168115,Consulting,Consultant,1,1,0,0,18-24,2,3,1,4,3,3,3,Non,15 %,0,0,5,3,Transformation Digitale,Occasionnel,0,0,15-19 km
+8.920656296853728,Consulting,Manager,3,23,13,12,45-59,1,2,3,1,3,2,4,Non,20 %,0,0,1,4,Transformation Digitale,Frequent,12,8,0-4 km
+8.711937268208748,Consulting,Consultant,1,9,9,7,25-34,1,1,2,3,4,3,4,Oui,24 %,1,0,3,3,Infra & Cloud,Frequent,0,6,5-9 km
+9.760136677640245,Ressources Humaines,Senior Manager,2,23,5,3,45-59,4,4,4,4,3,3,3,Oui,12 %,0,0,3,3,Ressources Humaines,Aucun,4,4,20-29 km
+7.928406026180535,Consulting,Consultant,0,6,5,3,18-24,2,3,1,3,3,3,3,Non,12 %,0,1,2,1,Infra & Cloud,Occasionnel,1,2,15-19 km
+8.41316512099219,Consulting,Assistant de Direction,6,12,1,0,25-34,3,2,2,2,3,3,3,Non,15 %,0,1,3,4,Infra & Cloud,Occasionnel,0,0,5-9 km
+8.913146539151807,Commercial,Cadre Commercial,2,12,5,3,35-44,3,3,3,4,1,3,3,Non,12 %,0,0,3,3,Infra & Cloud,Occasionnel,1,3,0-4 km
+9.3615151997733,Consulting,Senior Manager,2,14,11,10,25-34,3,2,3,1,4,3,3,Non,12 %,0,0,6,3,Transformation Digitale,Occasionnel,5,8,5-9 km
+9.1838937219612,Commercial,Cadre Commercial,0,10,9,7,35-44,2,3,3,4,3,3,3,Non,14 %,0,1,6,2,Entrepreunariat,Frequent,2,8,10-14 km
+7.950149887652018,Consulting,Consultant,5,7,1,0,35-44,1,3,1,4,1,3,4,Non,22 %,0,1,2,2,Infra & Cloud,Occasionnel,0,0,0-4 km
+9.738612909345894,Commercial,Senior Manager,1,25,25,12,35-44,3,3,4,4,4,4,3,Oui,12 %,0,2,3,2,Infra & Cloud,Frequent,4,12,20-29 km
+7.868636894184167,Consulting,Assistant de Direction,1,10,10,7,25-34,1,1,1,3,3,2,4,Non,25 %,0,3,2,3,Infra & Cloud,Frequent,0,9,20-29 km
+8.72371943690701,Commercial,Cadre Commercial,0,8,7,7,25-34,3,3,2,2,1,4,3,Non,13 %,0,1,2,2,Marketing,Aucun,0,7,20-29 km
+8.509967146324497,Consulting,Assistant de Direction,9,7,5,4,45-59,2,3,1,2,1,3,3,Oui,18 %,1,3,2,4,Infra & Cloud,Occasionnel,4,3,10-14 km
+9.880116566212887,Consulting,Directeur Technique,7,23,20,18,45-59,1,3,5,3,3,3,3,Non,13 %,0,0,5,3,Infra & Cloud,Occasionnel,15,15,5-9 km
+8.727940222393896,Commercial,Cadre Commercial,4,12,7,7,25-34,2,1,2,3,2,2,3,Oui,18 %,1,0,3,4,Infra & Cloud,Occasionnel,7,7,5-9 km
+7.7702232041587855,Consulting,Assistant de Direction,1,5,5,4,25-34,3,2,1,2,3,2,3,Non,19 %,0,0,3,3,Autre,Occasionnel,4,3,5-9 km
+9.24116051431607,Consulting,Manager,1,40,40,10,45-59,4,3,3,4,4,2,3,Non,12 %,1,1,3,4,Transformation Digitale,Occasionnel,15,6,20-29 km
+7.424165281042028,Commercial,Représentant Commercial,1,0,0,0,18-24,4,3,1,3,4,2,3,Oui,19 %,1,0,2,1,Marketing,Occasionnel,0,0,20-29 km
+7.8336002236611035,Consulting,Consultant,0,3,2,1,18-24,3,3,1,4,3,3,3,Non,14 %,0,1,2,1,Entrepreunariat,Occasionnel,2,1,0-4 km
+8.789964651132264,Consulting,Tech Lead,1,16,15,11,45-59,3,3,2,1,3,2,3,Non,14 %,0,0,2,4,Transformation Digitale,Occasionnel,5,11,20-29 km
+8.463792414689122,Consulting,Assistant de Direction,4,18,3,2,35-44,2,4,1,3,4,3,3,Non,12 %,0,0,2,3,Transformation Digitale,Frequent,1,2,20-29 km
+9.127936545721367,Commercial,Cadre Commercial,4,16,2,2,45-59,3,3,3,4,4,3,3,Non,11 %,0,0,3,3,Marketing,Frequent,2,1,10-14 km
+8.425077902508432,Commercial,Cadre Commercial,3,4,2,2,25-34,2,1,2,3,3,3,3,Oui,11 %,1,1,2,3,Infra & Cloud,Occasionnel,2,2,20-29 km
+9.010669176847115,Commercial,Cadre Commercial,3,12,9,7,35-44,3,3,3,3,3,3,3,Oui,13 %,0,1,2,1,Infra & Cloud,Occasionnel,0,7,5-9 km
+7.987184748233473,Ressources Humaines,Ressources Humaines,1,8,8,7,25-34,3,3,1,3,4,3,4,Non,23 %,0,1,3,1,Infra & Cloud,Occasionnel,5,7,20-29 km
+8.505525386548555,Consulting,Tech Lead,6,7,3,2,35-44,2,3,2,2,4,3,4,Non,20 %,0,2,0,2,Transformation Digitale,Occasionnel,0,1,5-9 km
+9.273409063443166,Consulting,Tech Lead,2,18,4,2,45-59,1,1,3,4,4,3,3,Non,15 %,1,0,2,4,Infra & Cloud,Frequent,0,3,5-9 km
+8.683215975240689,Commercial,Cadre Commercial,4,17,15,11,35-44,4,2,2,3,3,4,3,Non,14 %,0,1,1,4,Infra & Cloud,Occasionnel,5,9,0-4 km
+9.064157861798101,Commercial,Cadre Commercial,2,6,2,2,25-34,1,2,2,3,4,3,3,Non,18 %,0,0,3,3,Infra & Cloud,Occasionnel,2,2,20-29 km
+8.7558950816463,Ressources Humaines,Ressources Humaines,0,12,11,9,25-34,3,3,2,4,4,1,3,Oui,19 %,0,0,2,3,Ressources Humaines,Occasionnel,4,7,5-9 km
+8.343077871169383,Consulting,Consultant,7,10,5,4,25-34,1,3,1,1,1,4,4,Non,22 %,1,0,2,3,Transformation Digitale,Occasionnel,0,4,5-9 km
+8.146998697389993,Consulting,Assistant de Direction,5,9,6,5,45-59,3,3,1,4,2,2,3,Non,13 %,0,0,2,3,Transformation Digitale,Occasionnel,0,3,20-29 km
+8.370547611074752,Consulting,Assistant de Direction,3,19,3,2,35-44,4,3,2,3,2,3,4,Oui,20 %,0,0,2,5,Entrepreunariat,Occasionnel,2,2,0-4 km
+7.87587915949631,Consulting,Assistant de Direction,1,5,5,4,25-34,1,3,1,3,3,2,3,Non,14 %,0,0,4,3,Infra & Cloud,Occasionnel,0,4,15-19 km
+8.448700194970938,Commercial,Cadre Commercial,0,9,8,7,25-34,4,1,2,4,4,4,3,Non,17 %,0,3,2,2,Transformation Digitale,Frequent,0,7,5-9 km
+8.07246736935477,Consulting,Assistant de Direction,5,8,3,2,25-34,4,3,1,1,4,3,3,Non,14 %,0,1,3,3,Entrepreunariat,Occasionnel,2,2,5-9 km
+7.908754738783246,Consulting,Consultant,0,6,5,3,25-34,2,2,1,4,4,3,3,Non,13 %,0,0,3,1,Transformation Digitale,Occasionnel,1,2,0-4 km
+9.751617603198001,Consulting,Senior Manager,4,21,7,6,35-44,4,2,4,1,2,2,3,Non,13 %,0,1,2,3,Infra & Cloud,Frequent,7,7,10-14 km
+7.713784616598755,Consulting,Consultant,2,7,5,0,35-44,3,3,1,1,4,3,4,Non,21 %,0,1,2,4,Infra & Cloud,Occasionnel,1,4,5-9 km
+7.302496423727326,Consulting,Consultant,1,1,1,0,18-24,2,3,1,2,4,3,3,Non,14 %,0,0,3,1,Transformation Digitale,Occasionnel,0,0,0-4 km
+8.631592731724734,Consulting,Assistant de Direction,1,20,20,7,35-44,2,3,2,2,1,3,3,Non,11 %,0,1,2,3,Transformation Digitale,Frequent,2,13,20-29 km
+8.895081531754167,Commercial,Cadre Commercial,1,10,10,8,35-44,3,3,3,2,1,3,3,Non,13 %,0,2,3,5,Marketing,Occasionnel,0,6,0-4 km
+7.7437032581737535,Commercial,Représentant Commercial,2,13,7,7,45-59,2,3,2,3,4,1,4,Oui,20 %,0,1,3,2,Marketing,Occasionnel,4,5,5-9 km
+7.761744984658913,Consulting,Consultant,8,20,17,9,45-59,2,3,2,2,3,1,3,Non,18 %,0,1,2,3,Infra & Cloud,Occasionnel,0,15,5-9 km
+9.104868739033948,Commercial,Cadre Commercial,1,9,9,8,25-34,2,3,3,4,4,3,3,Non,14 %,0,0,2,3,Marketing,Frequent,3,7,5-9 km
+8.371010681238156,Consulting,Tech Lead,1,10,10,7,25-34,4,3,2,3,1,3,3,Non,13 %,0,1,1,1,Entrepreunariat,Aucun,0,9,0-4 km
+8.721439305625983,Consulting,Tech Lead,2,10,1,0,45-59,2,2,2,3,3,3,3,Non,17 %,0,0,2,4,Transformation Digitale,Occasionnel,0,0,5-9 km
+8.115819701211327,Consulting,Assistant de Direction,4,9,1,0,45-59,2,2,1,2,2,2,4,Oui,20 %,0,1,3,3,Transformation Digitale,Occasionnel,0,0,5-9 km
+9.292473201514705,Commercial,Cadre Commercial,7,15,12,11,35-44,3,2,3,4,1,2,3,Non,11 %,0,1,2,4,Marketing,Occasionnel,2,11,0-4 km
+7.710653323501202,Commercial,Représentant Commercial,6,6,4,3,25-34,3,3,1,3,4,3,3,Non,18 %,0,1,3,4,Marketing,Frequent,1,2,0-4 km
+7.751045117971802,Consulting,Assistant de Direction,1,2,2,2,18-24,3,3,1,4,1,3,4,Non,24 %,0,2,6,1,Transformation Digitale,Occasionnel,2,2,15-19 km
+7.613324979540639,Consulting,Assistant de Direction,6,6,2,2,25-34,4,3,1,2,4,1,3,Non,18 %,0,1,1,3,Transformation Digitale,Aucun,2,2,5-9 km
+7.906178840394815,Consulting,Assistant de Direction,1,5,5,2,25-34,3,3,1,4,3,1,3,Non,11 %,0,1,2,3,Transformation Digitale,Occasionnel,0,2,20-29 km
+9.152711259139547,Consulting,Manager,3,12,5,3,45-59,3,4,3,4,2,1,3,Oui,16 %,0,1,2,2,Infra & Cloud,Occasionnel,1,4,20-29 km
+7.8504931808711405,Consulting,Assistant de Direction,1,1,1,1,25-34,3,2,1,3,4,2,3,Oui,15 %,0,1,2,3,Transformation Digitale,Aucun,0,1,0-4 km
+9.899830875032585,Consulting,Senior Manager,3,21,5,4,45-59,3,3,5,2,2,3,3,Non,15 %,0,0,5,3,Infra & Cloud,Occasionnel,4,4,10-14 km
+7.804659297056102,Consulting,Assistant de Direction,4,13,9,8,35-44,1,3,1,3,1,3,3,Non,12 %,0,1,2,3,Infra & Cloud,Occasionnel,1,8,10-14 km
+9.150590367570409,Commercial,Cadre Commercial,2,12,10,9,25-34,2,3,3,4,3,3,3,Non,12 %,0,1,2,3,Infra & Cloud,Occasionnel,7,4,5-9 km
+9.06958293425992,Commercial,Cadre Commercial,4,12,8,3,35-44,1,2,2,4,3,4,4,Non,22 %,0,0,2,4,Infra & Cloud,Occasionnel,0,7,0-4 km
+8.019283792916793,Consulting,Assistant de Direction,3,8,5,4,25-34,3,3,1,3,1,3,4,Non,20 %,0,0,2,5,Infra & Cloud,Occasionnel,1,4,5-9 km
+8.025843344150903,Consulting,Assistant de Direction,0,6,5,2,25-34,3,3,1,2,4,2,3,Oui,16 %,0,1,3,3,Entrepreunariat,Occasionnel,1,1,15-19 km
+7.75190533307861,Commercial,Représentant Commercial,0,1,0,0,18-24,3,1,1,1,1,4,4,Non,21 %,1,0,5,1,Entrepreunariat,Frequent,0,0,0-4 km
+7.644440761556566,Consulting,Consultant,4,13,8,7,35-44,4,3,1,2,3,2,3,Non,12 %,0,0,3,2,Transformation Digitale,Frequent,7,2,0-4 km
+8.030409562130485,Consulting,Consultant,1,12,12,9,25-34,3,3,2,1,3,3,3,Non,11 %,0,2,4,3,Transformation Digitale,Aucun,6,10,5-9 km
+8.518592212329946,Commercial,Cadre Commercial,4,9,5,4,45-59,3,3,2,1,1,4,3,Oui,11 %,0,1,3,2,Infra & Cloud,Occasionnel,0,3,0-4 km
+8.356554845453426,Consulting,Assistant de Direction,4,19,2,2,45-59,3,3,1,1,3,3,3,Oui,18 %,0,1,3,3,Infra & Cloud,Occasionnel,2,2,5-9 km
+7.824445930877619,Consulting,Assistant de Direction,0,4,3,1,25-34,3,3,1,4,1,4,3,Non,14 %,0,0,2,3,Infra & Cloud,Occasionnel,0,2,0-4 km
+7.005789019253503,Consulting,Consultant,1,1,1,0,18-24,2,2,1,4,3,2,4,Non,22 %,1,0,3,3,Infra & Cloud,Occasionnel,1,0,0-4 km
+9.254739959272866,Commercial,Cadre Commercial,1,24,24,13,45-59,2,3,3,1,3,3,4,Non,25 %,0,3,2,2,Marketing,Occasionnel,15,7,0-4 km
+7.735870319952567,Consulting,Consultant,1,2,2,2,35-44,3,3,1,4,3,3,3,Non,12 %,0,0,3,2,Infra & Cloud,Occasionnel,2,1,5-9 km
+8.276394704863307,Consulting,Assistant de Direction,8,7,4,2,25-34,3,3,1,4,3,3,4,Oui,23 %,0,1,0,1,Transformation Digitale,Occasionnel,0,2,10-14 km
+7.7458682297922685,Consulting,Assistant de Direction,2,9,3,2,25-34,4,3,1,2,4,3,3,Non,15 %,0,0,3,2,Transformation Digitale,Occasionnel,1,2,20-29 km
+8.052296499538647,Commercial,Représentant Commercial,1,4,4,3,35-44,2,3,1,2,4,2,4,Oui,22 %,1,0,5,2,Marketing,Occasionnel,0,2,20-29 km
+8.213652703029998,Consulting,Consultant,2,5,3,2,45-59,3,2,1,3,4,2,3,Non,15 %,0,1,2,3,Transformation Digitale,Occasionnel,0,2,0-4 km
+8.400884069015854,Consulting,Tech Lead,1,5,4,2,45-59,4,4,2,1,3,3,3,Non,11 %,0,2,3,2,Transformation Digitale,Occasionnel,1,3,10-14 km
+7.921898411023797,Consulting,Assistant de Direction,1,8,8,7,25-34,4,3,1,2,4,3,3,Non,13 %,0,1,5,3,Transformation Digitale,Occasionnel,1,6,10-14 km
+9.85398213263229,Consulting,Senior Manager,1,21,20,8,35-44,4,3,5,3,2,3,3,Non,14 %,0,1,2,1,Transformation Digitale,Occasionnel,9,9,0-4 km
+9.837507993602152,Consulting,Directeur Technique,8,36,24,15,45-59,3,4,5,2,4,3,3,Non,11 %,0,0,3,4,Transformation Digitale,Occasionnel,2,15,10-14 km
+9.16408698745872,Consulting,Tech Lead,1,10,10,9,25-34,4,2,2,3,3,2,3,Non,17 %,0,0,2,1,Infra & Cloud,Frequent,1,9,0-4 km
+9.527702598529375,Consulting,Manager,3,21,7,7,45-59,4,3,4,2,3,3,3,Non,18 %,0,0,6,3,Transformation Digitale,Occasionnel,1,0,0-4 km
+9.903487552536127,Consulting,Senior Manager,0,34,33,18,45-59,3,2,5,3,1,3,3,Non,14 %,0,1,5,4,Infra & Cloud,Occasionnel,11,9,0-4 km
+7.731930721948486,Consulting,Assistant de Direction,1,7,7,7,25-34,4,3,1,2,4,2,3,Non,16 %,0,0,2,3,Transformation Digitale,Occasionnel,0,3,5-9 km
+8.685584842676693,Consulting,Tech Lead,3,8,1,0,35-44,2,2,2,3,1,3,3,Oui,13 %,1,0,1,2,Infra & Cloud,Occasionnel,0,1,20-29 km
+7.644919344958857,Consulting,Assistant de Direction,4,7,5,4,35-44,4,4,1,4,4,4,3,Non,14 %,0,3,3,3,Transformation Digitale,Aucun,2,2,5-9 km
+9.728717411895008,Consulting,Senior Manager,9,22,20,8,45-59,1,2,4,4,4,3,4,Non,23 %,0,1,1,2,Transformation Digitale,Aucun,11,8,0-4 km
+8.178919332848396,Consulting,Assistant de Direction,1,8,8,7,35-44,2,4,1,1,1,2,3,Oui,12 %,0,1,3,3,Infra & Cloud,Occasionnel,1,7,20-29 km
+8.395251520610994,Consulting,Consultant,5,10,6,2,35-44,2,3,2,2,4,3,3,Non,11 %,0,0,5,3,Transformation Digitale,Frequent,1,2,0-4 km
+8.569026340056254,Consulting,Tech Lead,2,11,5,3,35-44,3,3,2,3,2,3,3,Non,16 %,0,1,5,2,Transformation Digitale,Aucun,0,2,20-29 km
+8.787830829258759,Consulting,Tech Lead,9,14,1,0,35-44,4,3,2,3,2,3,3,Non,14 %,0,0,3,4,Infra & Cloud,Occasionnel,0,0,0-4 km
+8.742254901886351,Consulting,Tech Lead,3,9,7,7,35-44,4,3,2,4,1,1,3,Non,18 %,0,1,3,3,Entrepreunariat,Occasionnel,1,7,20-29 km
+8.366137716496281,Consulting,Tech Lead,5,6,2,2,25-34,3,2,2,1,3,3,3,Non,19 %,0,1,1,1,Entrepreunariat,Frequent,2,0,0-4 km
+8.825412915085566,Consulting,Tech Lead,1,7,7,7,45-59,4,3,2,4,1,3,3,Oui,15 %,0,2,0,4,Infra & Cloud,Aucun,1,7,15-19 km
+8.246958032568177,Consulting,Assistant de Direction,1,5,5,3,25-34,4,3,1,3,4,4,3,Oui,17 %,0,1,4,4,Transformation Digitale,Frequent,2,0,10-14 km
+7.91644286012226,Consulting,Consultant,8,15,7,2,35-44,3,3,2,4,3,4,3,Oui,15 %,0,1,2,2,Transformation Digitale,Occasionnel,3,7,15-19 km
+8.80597465931132,Consulting,Manager,7,17,1,0,35-44,2,3,2,1,2,3,3,Oui,19 %,1,0,2,1,Transformation Digitale,Occasionnel,0,0,20-29 km
+8.941152882160566,Commercial,Cadre Commercial,1,10,10,4,25-34,2,3,3,4,4,2,4,Non,22 %,1,3,3,3,Marketing,Occasionnel,1,9,20-29 km
+7.753194269884341,Consulting,Assistant de Direction,1,4,4,2,18-24,4,4,1,2,1,2,3,Oui,16 %,0,1,2,3,Infra & Cloud,Occasionnel,2,2,5-9 km
+7.675081857716334,Consulting,Consultant,1,8,8,1,35-44,2,3,1,4,1,3,3,Non,13 %,0,0,2,1,Transformation Digitale,Frequent,1,7,15-19 km
+8.492285555710053,Consulting,Manager,9,5,3,2,35-44,4,2,2,4,4,1,3,Non,14 %,0,1,5,5,Infra & Cloud,Aucun,0,2,5-9 km
+9.148145768383065,Consulting,Manager,7,17,4,2,45-59,4,3,3,1,3,3,3,Non,16 %,0,1,3,4,Transformation Digitale,Occasionnel,0,3,0-4 km
+9.249657234353133,Commercial,Cadre Commercial,1,14,14,8,25-34,4,1,3,4,3,2,3,Non,11 %,1,0,2,4,Transformation Digitale,Occasionnel,9,8,0-4 km
+9.044875932248651,Consulting,Tech Lead,1,12,11,8,25-34,3,2,3,3,3,3,4,Non,22 %,0,0,2,1,Infra & Cloud,Aucun,5,8,0-4 km
+9.208538750029554,Commercial,Cadre Commercial,1,7,7,7,25-34,4,3,2,3,4,3,3,Non,14 %,0,0,2,3,Infra & Cloud,Frequent,0,7,20-29 km
+9.43276366396591,Consulting,Directeur Technique,5,16,10,9,45-59,2,2,3,2,4,1,3,Non,16 %,0,2,5,4,Infra & Cloud,Occasionnel,4,7,5-9 km
+7.885329239273191,Consulting,Assistant de Direction,5,8,5,2,25-34,4,3,1,1,3,3,3,Oui,11 %,1,0,5,3,Entrepreunariat,Occasionnel,0,4,0-4 km
+9.517236663351769,Commercial,Senior Manager,3,16,1,0,35-44,4,3,3,4,3,3,3,Oui,18 %,0,0,3,3,Infra & Cloud,Occasionnel,0,0,5-9 km
+8.80941494391005,Commercial,Cadre Commercial,5,9,6,3,25-34,3,2,2,1,3,2,3,Non,15 %,1,0,5,4,Marketing,Frequent,0,1,20-29 km
+7.629975707027789,Consulting,Assistant de Direction,0,7,6,2,25-34,3,3,1,3,4,2,3,Non,14 %,1,0,1,3,Entrepreunariat,Occasionnel,1,5,0-4 km
+9.089979015305,Commercial,Cadre Commercial,6,23,19,7,45-59,4,2,3,4,4,3,3,Non,12 %,0,0,2,3,Transformation Digitale,Aucun,12,8,5-9 km
+8.689632748355741,Commercial,Cadre Commercial,2,16,6,2,45-59,4,3,2,1,4,3,3,Non,14 %,0,1,4,3,Marketing,Occasionnel,0,5,0-4 km
+8.685246776412487,Consulting,Consultant,8,16,13,11,35-44,4,3,2,2,4,4,3,Non,16 %,0,0,3,2,Infra & Cloud,Occasionnel,3,7,5-9 km
+7.872073979866873,Consulting,Assistant de Direction,6,7,3,2,25-34,3,2,1,2,4,3,4,Non,21 %,0,0,3,4,Transformation Digitale,Occasionnel,1,1,0-4 km
+9.40804303080844,Consulting,Directeur Technique,1,10,10,8,35-44,2,3,3,4,3,3,3,Oui,14 %,0,3,1,3,Autre,Frequent,0,7,10-14 km
+9.26955223160803,Commercial,Cadre Commercial,0,17,16,10,35-44,1,3,3,3,3,2,3,Non,12 %,0,2,6,3,Infra & Cloud,Occasionnel,5,13,0-4 km
+8.377011160816375,Consulting,Tech Lead,0,6,5,4,25-34,3,1,2,3,4,3,3,Non,12 %,0,1,2,4,Transformation Digitale,Aucun,1,4,0-4 km
+7.686162303492906,Consulting,Assistant de Direction,3,7,1,0,45-59,3,2,1,4,1,3,3,Non,17 %,0,1,6,3,Infra & Cloud,Occasionnel,0,0,0-4 km
+7.935229539816907,Commercial,Représentant Commercial,4,13,9,8,35-44,1,3,1,4,3,3,3,Non,17 %,0,1,2,4,Marketing,Frequent,5,8,0-4 km
+8.977020214210413,Commercial,Cadre Commercial,1,11,11,10,25-34,2,3,3,4,4,3,3,Non,14 %,0,1,5,1,Transformation Digitale,Frequent,4,1,0-4 km
+9.081369990679223,Commercial,Cadre Commercial,1,10,10,7,35-44,3,3,3,3,1,4,3,Non,14 %,0,0,3,3,Marketing,Frequent,0,8,0-4 km
+7.779048644925556,Consulting,Assistant de Direction,1,4,4,3,25-34,3,2,1,4,3,2,3,Oui,13 %,1,0,3,1,Transformation Digitale,Occasionnel,0,1,15-19 km
+8.074960359115858,Consulting,Consultant,7,6,2,2,45-59,3,2,1,4,2,2,3,Non,15 %,0,0,3,3,Infra & Cloud,Occasionnel,2,2,0-4 km
+9.864382832655368,Consulting,Senior Manager,1,22,22,17,35-44,3,3,5,4,4,3,3,Non,11 %,0,0,3,2,Entrepreunariat,Occasionnel,11,15,0-4 km
+7.7266536648476425,Ressources Humaines,Ressources Humaines,8,7,2,2,45-59,2,3,1,3,4,2,3,Non,17 %,0,0,2,2,Transformation Digitale,Occasionnel,2,2,5-9 km
+9.879092395701406,Commercial,Senior Manager,3,32,7,0,45-59,4,3,5,4,3,2,3,Non,11 %,0,1,3,4,Transformation Digitale,Occasionnel,0,6,0-4 km
+7.798523053625206,Consulting,Consultant,5,8,5,4,25-34,3,3,1,4,3,1,3,Oui,13 %,1,1,2,3,Transformation Digitale,Occasionnel,0,4,10-14 km
+9.68439827154996,Commercial,Senior Manager,5,22,17,13,35-44,4,3,4,4,3,3,4,Oui,22 %,0,1,3,3,Marketing,Occasionnel,1,9,15-19 km
+7.903965634032166,Consulting,Consultant,7,13,9,7,25-34,1,3,1,1,1,4,4,Non,20 %,1,0,3,2,Infra & Cloud,Occasionnel,1,7,0-4 km
+9.855819258834627,Commercial,Senior Manager,1,33,33,7,45-59,1,2,5,3,4,4,3,Oui,18 %,0,0,2,4,Infra & Cloud,Aucun,15,12,0-4 km
+8.276903481267057,Commercial,Représentant Commercial,2,6,4,3,25-34,3,3,1,2,1,3,3,Non,11 %,0,1,5,2,Infra & Cloud,Occasionnel,1,2,0-4 km
+8.224431573221159,Consulting,Consultant,0,4,3,2,25-34,4,2,1,3,4,1,3,Oui,14 %,1,0,2,3,Infra & Cloud,Occasionnel,1,2,0-4 km
+7.711101251840158,Consulting,Consultant,7,7,3,2,35-44,3,3,1,3,3,3,3,Non,14 %,0,3,1,4,Transformation Digitale,Occasionnel,1,2,0-4 km
+8.404248432400102,Commercial,Cadre Commercial,0,4,3,2,25-34,3,3,2,4,1,3,3,Non,18 %,0,0,2,4,Marketing,Aucun,2,2,20-29 km
+8.030409562130485,Consulting,Assistant de Direction,2,17,1,0,35-44,3,3,2,1,1,2,3,Non,16 %,0,2,2,2,Infra & Cloud,Occasionnel,0,0,15-19 km
+8.107720061910534,Consulting,Assistant de Direction,1,9,9,8,35-44,1,3,2,4,1,3,3,Non,17 %,0,2,3,2,Entrepreunariat,Occasionnel,4,7,20-29 km
+9.862821795810113,Consulting,Senior Manager,0,25,24,0,45-59,3,4,5,4,3,3,3,Non,11 %,0,1,2,3,Autre,Occasionnel,1,7,0-4 km
+9.523397750759193,Consulting,Directeur Technique,9,9,2,2,25-34,2,3,3,3,1,3,3,Non,12 %,0,1,3,4,Transformation Digitale,Frequent,2,2,0-4 km
+7.976595409316577,Consulting,Assistant de Direction,1,2,2,2,25-34,3,2,1,4,3,2,3,Non,13 %,0,1,2,4,Infra & Cloud,Occasionnel,0,2,5-9 km
+8.692490133273228,Consulting,Tech Lead,6,13,11,9,25-34,4,2,2,1,2,3,3,Non,13 %,0,1,3,4,Infra & Cloud,Occasionnel,5,9,0-4 km
+8.27410200229233,Consulting,Assistant de Direction,2,17,3,1,35-44,3,2,1,1,1,2,3,Non,14 %,0,1,2,2,Transformation Digitale,Occasionnel,0,2,0-4 km
+8.769507120030227,Consulting,Tech Lead,4,9,3,2,45-59,1,4,2,3,4,3,3,Non,17 %,0,1,1,4,Infra & Cloud,Frequent,0,2,5-9 km
+9.21522840604896,Consulting,Tech Lead,6,17,1,0,35-44,1,3,3,3,2,3,3,Non,11 %,1,2,5,3,Transformation Digitale,Frequent,0,0,10-14 km
+9.30008966411979,Consulting,Manager,0,20,19,6,35-44,3,3,3,3,4,3,4,Non,25 %,0,0,1,4,Entrepreunariat,Frequent,11,8,0-4 km
+7.75833346749091,Consulting,Assistant de Direction,1,6,6,5,25-34,3,3,1,4,1,3,3,Non,19 %,0,0,1,3,Infra & Cloud,Occasionnel,1,5,15-19 km
+8.786609455061125,Consulting,Assistant de Direction,3,10,3,2,35-44,4,4,2,1,3,3,3,Oui,13 %,0,0,1,2,Infra & Cloud,Occasionnel,0,2,15-19 km
+8.843903650835497,Commercial,Cadre Commercial,2,10,3,2,25-34,4,3,2,4,4,3,3,Non,14 %,0,1,2,2,Marketing,Occasionnel,0,2,20-29 km
+8.496786381638575,Consulting,Tech Lead,0,5,4,2,25-34,1,3,2,3,4,3,3,Non,12 %,0,2,3,3,Infra & Cloud,Occasionnel,1,2,0-4 km
+7.860956364876389,Consulting,Consultant,0,10,9,6,35-44,4,2,1,1,3,3,3,Oui,11 %,0,1,4,3,Transformation Digitale,Occasionnel,7,8,0-4 km
+9.874933745118067,Consulting,Directeur Technique,0,22,21,7,35-44,1,3,5,3,4,3,3,Non,19 %,0,1,5,2,Transformation Digitale,Occasionnel,3,9,0-4 km
+7.909856667269403,Consulting,Assistant de Direction,1,1,1,0,45-59,3,3,1,4,2,2,3,Non,11 %,0,0,0,3,Infra & Cloud,Occasionnel,0,0,0-4 km
+8.15478757276852,Consulting,Consultant,0,6,5,4,25-34,3,2,1,2,2,4,3,Non,11 %,1,0,2,2,Transformation Digitale,Frequent,1,4,20-29 km
+7.9355873855892,Consulting,Consultant,1,5,5,1,25-34,2,4,1,2,3,1,4,Non,20 %,0,0,3,3,Infra & Cloud,Frequent,0,3,5-9 km
+8.565983355585669,Commercial,Cadre Commercial,3,13,8,7,35-44,4,2,2,4,4,3,3,Non,18 %,0,1,0,2,Infra & Cloud,Aucun,7,5,0-4 km
+7.685703061234547,Consulting,Consultant,4,9,6,2,25-34,4,2,2,1,4,3,3,Non,13 %,0,0,5,1,Entrepreunariat,Occasionnel,0,4,0-4 km
+9.733469990198337,Commercial,Senior Manager,3,28,7,7,45-59,3,1,4,2,2,2,3,Oui,12 %,0,1,2,3,Entrepreunariat,Occasionnel,7,7,0-4 km
+8.156510226079966,Consulting,Consultant,2,5,0,0,25-34,1,3,1,3,3,1,3,Non,11 %,1,0,5,4,Infra & Cloud,Occasionnel,0,0,0-4 km
+8.801619971147346,Commercial,Cadre Commercial,2,10,0,0,25-34,1,2,2,2,2,3,3,Non,19 %,0,2,2,3,Transformation Digitale,Occasionnel,0,0,0-4 km
+8.62748154531036,Consulting,Manager,0,10,9,0,25-34,2,2,2,4,2,3,4,Non,21 %,0,1,2,3,Transformation Digitale,Occasionnel,7,8,20-29 km
+8.294299608857235,Consulting,Manager,1,6,6,3,25-34,2,4,2,1,4,3,3,Non,12 %,0,2,2,2,Infra & Cloud,Aucun,1,5,5-9 km
+9.510222717509283,Consulting,Manager,0,21,20,7,45-59,3,3,4,4,2,3,3,Oui,14 %,0,0,2,2,Transformation Digitale,Occasionnel,4,10,20-29 km
+8.074337694089515,Consulting,Consultant,0,16,15,13,35-44,4,3,1,4,3,3,3,Non,11 %,0,1,4,3,Infra & Cloud,Occasionnel,10,11,5-9 km
+9.854612384753992,Consulting,Senior Manager,0,37,36,10,45-59,4,3,5,1,3,3,3,Oui,14 %,0,0,2,3,Transformation Digitale,Occasionnel,4,13,0-4 km
+9.380083146563278,Consulting,Senior Manager,1,10,10,7,45-59,1,3,3,2,4,2,3,Oui,12 %,1,1,2,4,Infra & Cloud,Aucun,9,9,20-29 km
+7.635786861395585,Consulting,Assistant de Direction,1,5,5,2,25-34,4,3,1,4,4,2,4,Non,23 %,0,1,3,3,Transformation Digitale,Occasionnel,0,4,5-9 km
+8.780018887869153,Commercial,Cadre Commercial,4,7,5,4,35-44,3,3,2,4,2,4,3,Non,14 %,0,1,5,4,Transformation Digitale,Occasionnel,0,1,5-9 km
+8.080546965824498,Consulting,Assistant de Direction,1,3,3,2,18-24,4,2,1,3,1,4,3,Non,17 %,0,0,4,2,Transformation Digitale,Occasionnel,1,0,0-4 km
+9.518119146127086,Consulting,Directeur Technique,2,15,5,2,35-44,1,3,3,4,1,3,3,Oui,18 %,0,2,2,4,Transformation Digitale,Aucun,0,2,0-4 km
+9.392411897514927,Consulting,Senior Manager,7,10,7,7,35-44,2,4,3,2,2,2,3,Non,18 %,0,1,6,3,Infra & Cloud,Occasionnel,6,2,20-29 km
+8.631592731724734,Commercial,Cadre Commercial,1,8,8,0,35-44,1,4,2,1,3,3,4,Oui,24 %,0,1,3,2,Transformation Digitale,Occasionnel,7,7,5-9 km
+8.763740720509464,Consulting,Tech Lead,1,6,6,5,25-34,3,3,2,2,1,1,4,Non,20 %,0,1,6,3,Infra & Cloud,Frequent,1,4,0-4 km
+9.859796863911395,Consulting,Directeur Technique,3,28,10,4,45-59,1,3,5,2,1,2,3,Non,14 %,0,2,4,1,Infra & Cloud,Occasionnel,1,6,0-4 km
+9.774801544908083,Consulting,Directeur Technique,3,21,5,3,45-59,3,3,4,3,4,2,3,Oui,16 %,0,3,5,4,Transformation Digitale,Occasionnel,1,3,0-4 km
+8.498621805830801,Commercial,Cadre Commercial,1,20,20,16,35-44,2,3,2,3,3,3,4,Non,25 %,0,0,3,1,Infra & Cloud,Occasionnel,11,6,0-4 km
+8.423980809694058,Commercial,Cadre Commercial,1,10,10,7,25-34,2,3,2,4,1,2,3,Non,18 %,0,0,3,2,Infra & Cloud,Frequent,0,9,0-4 km
+8.59711281459211,Consulting,Consultant,3,12,10,7,45-59,2,3,2,4,4,3,3,Oui,19 %,0,1,4,2,Entrepreunariat,Occasionnel,0,8,20-29 km
+8.464214266625351,Consulting,Manager,1,5,5,3,25-34,1,3,2,1,3,3,3,Oui,13 %,0,1,3,2,Transformation Digitale,Frequent,3,3,10-14 km
+7.65728279297819,Consulting,Assistant de Direction,1,17,17,12,35-44,4,3,1,4,2,3,3,Non,12 %,0,0,3,3,Infra & Cloud,Occasionnel,5,7,0-4 km
+8.058960017769417,Consulting,Consultant,3,19,1,0,35-44,4,3,1,3,4,1,4,Oui,22 %,1,1,0,3,Infra & Cloud,Frequent,0,0,20-29 km
+8.656259239539235,Consulting,Manager,9,10,2,2,35-44,4,3,2,4,2,3,3,Non,14 %,0,1,2,4,Infra & Cloud,Occasionnel,1,2,20-29 km
+7.772331575169614,Consulting,Consultant,2,5,3,2,25-34,1,3,1,2,4,3,3,Oui,13 %,1,1,2,4,Transformation Digitale,Occasionnel,0,2,15-19 km
+8.105005537547246,Consulting,Assistant de Direction,1,5,5,3,25-34,4,3,1,4,4,3,4,Non,21 %,0,0,3,2,Infra & Cloud,Occasionnel,0,2,5-9 km
+9.834458966125691,Consulting,Directeur Technique,9,22,3,2,45-59,3,3,5,1,4,3,3,Oui,11 %,0,0,4,4,Infra & Cloud,Frequent,1,2,10-14 km
+8.408716715080153,Consulting,Assistant de Direction,4,10,8,0,35-44,3,3,2,2,4,3,3,Non,12 %,0,0,2,3,Entrepreunariat,Occasionnel,7,7,0-4 km
+7.933796874815411,Commercial,Représentant Commercial,1,2,2,2,25-34,4,3,1,2,3,2,3,Non,11 %,0,1,5,3,Marketing,Frequent,2,2,5-9 km
+8.67060073804555,Commercial,Cadre Commercial,1,8,8,7,25-34,4,2,2,4,2,3,3,Oui,12 %,1,0,0,4,Marketing,Occasionnel,7,4,0-4 km
+7.752335163302292,Consulting,Assistant de Direction,1,4,4,2,35-44,2,3,1,4,3,2,3,Oui,12 %,0,3,3,3,Transformation Digitale,Frequent,1,2,5-9 km
+9.512369038134885,Commercial,Cadre Commercial,5,23,20,4,35-44,3,3,4,2,4,4,3,Non,14 %,0,1,2,3,Marketing,Frequent,4,8,20-29 km
+7.259116128097101,Consulting,Consultant,1,0,0,0,18-24,3,3,1,3,3,3,3,Non,13 %,1,0,2,3,Infra & Cloud,Occasionnel,0,0,0-4 km
+8.989818381366925,Commercial,Cadre Commercial,0,12,11,9,35-44,3,3,3,2,3,2,3,Non,15 %,0,2,3,3,Marketing,Occasionnel,6,9,15-19 km
+8.213110697596676,Consulting,Consultant,4,4,1,0,35-44,3,4,1,4,4,3,3,Non,18 %,0,2,2,4,Infra & Cloud,Frequent,0,0,15-19 km
+8.609407675404048,Consulting,Tech Lead,5,13,4,1,45-59,4,1,2,2,4,3,3,Non,18 %,0,1,3,3,Transformation Digitale,Occasionnel,1,2,0-4 km
+9.681343501555002,Commercial,Senior Manager,1,22,22,10,35-44,4,3,4,2,2,3,3,Non,19 %,0,0,2,4,Infra & Cloud,Occasionnel,0,4,0-4 km
+7.0909098220799835,Commercial,Représentant Commercial,1,0,0,0,18-24,4,2,1,3,1,3,3,Non,12 %,0,0,2,3,Transformation Digitale,Occasionnel,0,0,10-14 km
+8.641532465671846,Consulting,Manager,0,9,8,3,25-34,2,4,2,1,3,3,3,Non,19 %,0,0,2,2,Transformation Digitale,Occasionnel,0,7,15-19 km
+8.84361509218395,Commercial,Cadre Commercial,4,10,8,7,25-34,2,4,2,4,2,2,3,Non,11 %,0,1,3,3,Entrepreunariat,Occasionnel,7,7,5-9 km
+9.170975648453906,Consulting,Manager,0,19,18,10,35-44,3,4,3,4,1,2,3,Non,17 %,0,3,5,3,Transformation Digitale,Occasionnel,3,7,0-4 km
+8.643825842349603,Consulting,Consultant,7,11,9,8,35-44,2,3,2,2,3,3,3,Non,15 %,0,1,3,4,Infra & Cloud,Aucun,0,8,20-29 km
+8.609772372709331,Commercial,Cadre Commercial,1,13,13,8,25-34,4,2,2,3,3,2,3,Non,14 %,0,1,3,3,Infra & Cloud,Occasionnel,4,8,5-9 km
+9.397815294010933,Consulting,Directeur Technique,3,19,10,8,35-44,1,2,3,2,3,3,3,Non,17 %,0,1,2,2,Infra & Cloud,Occasionnel,0,1,20-29 km
+8.64135583403666,Consulting,Manager,2,12,5,3,45-59,4,1,2,3,4,3,3,Oui,13 %,0,1,2,4,Infra & Cloud,Aucun,1,2,0-4 km
+8.480944058741116,Consulting,Assistant de Direction,0,6,5,2,25-34,3,3,1,4,3,3,3,Oui,12 %,0,1,4,4,Entrepreunariat,Occasionnel,0,3,5-9 km
+8.765770543987257,Ressources Humaines,Ressources Humaines,3,9,2,2,25-34,1,2,2,1,4,3,3,Non,12 %,0,0,1,3,Ressources Humaines,Occasionnel,1,0,0-4 km
+8.558527054909215,Consulting,Consultant,1,24,24,9,45-59,1,3,3,1,1,3,3,Non,18 %,0,1,2,3,Infra & Cloud,Frequent,9,11,5-9 km
+7.899524472032198,Consulting,Assistant de Direction,0,3,2,2,25-34,3,3,1,4,2,1,3,Oui,18 %,0,1,2,4,Infra & Cloud,Occasionnel,2,2,0-4 km
+9.38252741428954,Consulting,Senior Manager,6,12,10,6,25-34,4,3,3,2,2,3,3,Non,11 %,0,2,2,4,Infra & Cloud,Frequent,8,8,5-9 km
+9.745019231764333,Consulting,Senior Manager,1,21,21,9,35-44,3,3,4,1,4,3,3,Oui,14 %,0,0,3,1,Transformation Digitale,Occasionnel,11,10,10-14 km
+7.806289289267033,Consulting,Consultant,0,9,8,7,35-44,3,3,1,4,1,3,3,Non,19 %,0,0,5,4,Infra & Cloud,Frequent,1,7,10-14 km
+9.544309478379278,Consulting,Manager,7,25,7,1,45-59,3,2,4,3,4,3,3,Oui,12 %,0,0,2,2,Entrepreunariat,Occasionnel,0,7,0-4 km
+8.505525386548555,Consulting,Assistant de Direction,2,11,8,2,45-59,3,2,2,2,1,2,3,Non,15 %,1,0,3,4,Transformation Digitale,Occasionnel,7,7,5-9 km
+7.8156105320351905,Consulting,Assistant de Direction,1,4,4,3,25-34,3,3,1,2,2,2,3,Oui,12 %,0,0,2,3,Infra & Cloud,Occasionnel,1,2,5-9 km
+8.56197533418813,Commercial,Cadre Commercial,1,13,13,12,25-34,3,2,2,2,4,3,3,Oui,11 %,0,0,2,2,Entrepreunariat,Occasionnel,11,9,5-9 km
+8.4071550862073,Commercial,Cadre Commercial,1,5,5,4,25-34,4,3,2,3,1,3,3,Oui,11 %,0,0,3,3,Infra & Cloud,Occasionnel,0,4,0-4 km
+8.92903790648844,Commercial,Cadre Commercial,4,13,7,7,25-34,4,3,2,4,4,3,3,Non,12 %,0,3,3,3,Marketing,Occasionnel,1,7,5-9 km
+8.528330935826693,Consulting,Assistant de Direction,7,10,7,7,25-34,1,4,2,4,3,2,3,Non,16 %,0,0,0,4,Transformation Digitale,Occasionnel,0,7,0-4 km
+8.150467911624004,Consulting,Assistant de Direction,5,5,3,2,25-34,1,1,1,4,4,2,3,Oui,13 %,1,0,4,4,Transformation Digitale,Occasionnel,2,2,0-4 km
+8.661466680572662,Consulting,Assistant de Direction,1,11,10,8,25-34,4,3,2,4,4,3,3,Non,13 %,0,2,2,2,Transformation Digitale,Occasionnel,1,9,20-29 km
+9.09873819539488,Consulting,Tech Lead,1,10,10,9,25-34,3,2,3,3,1,3,4,Non,24 %,0,1,2,2,Infra & Cloud,Frequent,8,9,5-9 km
+9.866460431699052,Consulting,Senior Manager,1,21,21,9,35-44,3,2,5,4,1,3,3,Non,15 %,0,1,2,2,Transformation Digitale,Frequent,13,3,5-9 km
+8.56388591940822,Commercial,Cadre Commercial,4,12,1,0,35-44,4,3,2,3,1,2,3,Oui,18 %,1,0,3,2,Transformation Digitale,Occasionnel,0,0,0-4 km
+8.451694209183541,Commercial,Cadre Commercial,3,9,7,7,25-34,2,2,2,4,3,2,3,Non,14 %,0,0,6,3,Marketing,Frequent,0,1,10-14 km
+9.814710982145282,Consulting,Directeur Technique,4,21,3,2,45-59,4,3,5,3,2,3,3,Non,11 %,0,1,2,5,Infra & Cloud,Occasionnel,1,1,5-9 km
+8.567506005289827,Consulting,Consultant,1,9,9,7,35-44,3,2,2,3,2,4,3,Non,11 %,0,1,3,4,Infra & Cloud,Frequent,0,0,10-14 km
+8.756210091886738,Commercial,Cadre Commercial,0,6,5,4,25-34,3,3,2,2,4,3,3,Oui,13 %,0,1,0,1,Marketing,Aucun,1,4,0-4 km
+8.490849216076635,Consulting,Assistant de Direction,3,20,4,3,45-59,4,3,2,3,4,2,3,Non,12 %,0,0,4,4,Infra & Cloud,Frequent,0,3,20-29 km
+9.208939391060555,Consulting,Manager,8,10,1,0,35-44,3,3,3,1,1,2,3,Non,16 %,0,1,1,3,Infra & Cloud,Occasionnel,0,0,5-9 km
+8.21554741194707,Consulting,Assistant de Direction,9,12,10,9,45-59,4,3,2,4,1,3,3,Non,14 %,0,2,3,4,Autre,Occasionnel,9,8,5-9 km
+8.917042560738766,Commercial,Cadre Commercial,2,6,4,3,35-44,2,1,2,4,3,2,4,Oui,22 %,0,3,2,2,Transformation Digitale,Occasionnel,0,2,0-4 km
+7.659171367666058,Consulting,Consultant,1,7,7,7,25-34,2,1,1,1,4,2,3,Oui,11 %,1,0,4,4,Autre,Occasionnel,0,7,5-9 km
+8.290041618704489,Consulting,Consultant,0,4,3,2,25-34,2,2,1,4,3,3,3,Non,17 %,0,0,2,5,Autre,Occasionnel,2,2,5-9 km
+8.71915396346254,Commercial,Cadre Commercial,1,10,10,9,25-34,4,2,2,3,3,3,3,Non,13 %,0,3,2,3,Marketing,Occasionnel,1,2,5-9 km
+8.734721003944811,Commercial,Cadre Commercial,1,8,8,7,25-34,2,3,2,2,1,3,3,Non,18 %,0,1,3,4,Marketing,Occasionnel,0,7,5-9 km
+8.7558950816463,Consulting,Tech Lead,7,8,6,2,35-44,4,3,2,4,3,2,3,Non,16 %,0,2,2,2,Transformation Digitale,Occasionnel,0,4,5-9 km
+9.351058378915061,Consulting,Directeur Technique,0,12,11,10,35-44,3,2,3,4,2,3,3,Oui,14 %,0,1,3,2,Infra & Cloud,Occasionnel,2,9,15-19 km
+8.874028122556336,Consulting,Tech Lead,1,11,11,9,25-34,3,3,3,4,3,2,3,Oui,14 %,0,0,2,4,Transformation Digitale,Occasionnel,4,10,5-9 km
+9.020268861722167,Commercial,Cadre Commercial,1,7,7,7,25-34,4,2,2,2,1,3,3,Oui,14 %,0,2,2,1,Marketing,Occasionnel,1,7,10-14 km
+8.999125391527247,Consulting,Tech Lead,0,17,16,6,35-44,3,3,3,2,4,3,3,Non,13 %,0,0,5,4,Entrepreunariat,Occasionnel,0,13,5-9 km
+7.974188669286011,Consulting,Assistant de Direction,1,4,4,2,18-24,3,3,1,4,3,2,3,Non,12 %,0,2,2,1,Infra & Cloud,Occasionnel,0,2,20-29 km
+8.704999678440762,Consulting,Tech Lead,6,8,5,4,35-44,4,2,2,2,4,3,3,Oui,15 %,0,0,3,3,Transformation Digitale,Occasionnel,1,2,5-9 km
+7.998671361015776,Commercial,Représentant Commercial,3,5,0,0,45-59,2,3,2,3,1,3,3,Non,19 %,0,0,3,1,Transformation Digitale,Frequent,0,0,0-4 km
+9.67990640549087,Consulting,Directeur Technique,2,16,1,0,35-44,1,3,4,4,2,3,3,Non,14 %,0,0,2,5,Infra & Cloud,Occasionnel,0,0,20-29 km
+8.444622498581403,Commercial,Cadre Commercial,1,4,4,3,25-34,4,3,2,3,1,2,3,Non,14 %,0,1,3,3,Infra & Cloud,Aucun,0,2,0-4 km
+7.89989532313973,Ressources Humaines,Ressources Humaines,0,4,3,2,35-44,3,3,1,3,3,3,3,Oui,11 %,0,1,5,1,Entrepreunariat,Occasionnel,1,0,0-4 km
+7.771067086065406,Consulting,Consultant,1,8,8,0,25-34,3,3,1,2,3,3,3,Non,13 %,0,1,4,3,Transformation Digitale,Occasionnel,0,7,0-4 km
+9.433883843311719,Commercial,Senior Manager,3,15,0,0,45-59,1,3,3,3,2,1,4,Non,21 %,0,1,3,1,Transformation Digitale,Occasionnel,0,0,20-29 km
+8.695339376799712,Consulting,Assistant de Direction,4,13,7,7,35-44,3,4,2,1,1,3,3,Oui,13 %,0,2,2,3,Transformation Digitale,Occasionnel,6,7,5-9 km
+8.463159302923751,Commercial,Cadre Commercial,7,4,2,2,25-34,4,3,2,3,2,4,3,Oui,12 %,0,1,2,2,Entrepreunariat,Aucun,2,2,20-29 km
+8.574895901544526,Commercial,Cadre Commercial,1,8,8,7,25-34,3,3,2,3,2,3,3,Non,17 %,0,1,3,3,Infra & Cloud,Occasionnel,7,7,0-4 km
+8.822027322685583,Consulting,Manager,3,14,1,0,35-44,1,2,2,4,2,3,4,Non,23 %,0,0,6,4,Autre,Occasionnel,0,0,0-4 km
+7.684783943522785,Commercial,Représentant Commercial,1,3,3,2,18-24,1,2,1,2,3,3,3,Oui,11 %,1,0,3,1,Entrepreunariat,Frequent,1,2,0-4 km
+8.802973456578423,Commercial,Cadre Commercial,4,7,1,0,35-44,4,3,2,4,2,3,3,Non,15 %,0,0,6,5,Transformation Digitale,Aucun,0,0,0-4 km
+9.179881164491475,Commercial,Cadre Commercial,4,16,13,9,35-44,1,2,3,4,1,3,3,Non,11 %,0,1,2,4,Transformation Digitale,Frequent,1,12,0-4 km
+8.81818627792769,Consulting,Manager,2,15,3,2,45-59,4,3,2,3,3,3,3,Non,11 %,0,0,2,4,Transformation Digitale,Occasionnel,1,2,0-4 km
+7.7025561132685825,Consulting,Consultant,3,10,7,7,35-44,4,4,1,3,3,3,3,Oui,13 %,0,1,3,4,Infra & Cloud,Occasionnel,1,7,10-14 km
+7.8674885686991285,Commercial,Représentant Commercial,1,3,3,2,18-24,1,3,1,4,3,2,4,Non,24 %,0,0,3,2,Transformation Digitale,Aucun,2,2,5-9 km
+7.955775781534187,Commercial,Représentant Commercial,1,1,1,0,25-34,4,3,1,3,2,3,3,Oui,13 %,1,0,2,3,Marketing,Occasionnel,0,0,5-9 km
+8.146998697389993,Consulting,Consultant,6,17,5,4,35-44,3,3,1,1,2,3,4,Non,20 %,0,1,3,3,Transformation Digitale,Occasionnel,0,3,10-14 km
+8.567696173589344,Consulting,Tech Lead,2,7,1,0,45-59,3,3,2,3,3,4,3,Non,14 %,0,0,2,4,Transformation Digitale,Aucun,0,0,5-9 km
+9.143773127704069,Commercial,Cadre Commercial,1,8,8,7,35-44,1,3,2,2,3,3,3,Non,18 %,1,0,5,3,Marketing,Frequent,7,7,0-4 km
+9.258844781035798,Consulting,Manager,6,20,4,3,45-59,4,2,3,4,4,3,3,Non,15 %,0,0,2,3,Entrepreunariat,Occasionnel,1,3,10-14 km
+8.761080103868347,Commercial,Cadre Commercial,2,8,6,4,35-44,3,2,2,3,1,3,3,Oui,12 %,1,2,6,2,Marketing,Occasionnel,1,0,20-29 km
+7.885329239273191,Consulting,Assistant de Direction,0,3,2,2,25-34,3,2,1,2,4,3,3,Oui,16 %,0,0,5,4,Infra & Cloud,Occasionnel,2,2,5-9 km
+7.907283609426348,Commercial,Représentant Commercial,1,1,1,0,18-24,3,4,1,2,4,3,3,Non,15 %,1,0,0,3,Infra & Cloud,Occasionnel,0,0,10-14 km
+7.697121317282625,Consulting,Assistant de Direction,9,6,3,2,25-34,4,3,1,4,4,3,3,Non,16 %,0,0,4,3,Infra & Cloud,Occasionnel,1,2,20-29 km
+8.785845337961213,Consulting,Manager,9,10,1,1,35-44,3,2,2,2,3,3,3,Non,19 %,0,0,5,4,Infra & Cloud,Occasionnel,0,0,5-9 km
+8.247220052745229,Consulting,Consultant,1,5,5,2,25-34,4,3,1,2,2,3,3,Non,11 %,0,1,2,2,Transformation Digitale,Occasionnel,0,4,0-4 km
+8.566744970245486,Commercial,Cadre Commercial,1,7,7,5,25-34,2,3,2,4,4,3,3,Non,16 %,0,0,1,4,Infra & Cloud,Occasionnel,0,7,5-9 km
+9.302554855963994,Consulting,Manager,8,26,5,2,45-59,2,2,3,3,3,3,4,Non,24 %,0,0,2,3,Autre,Occasionnel,0,0,5-9 km
+8.504513138258863,Commercial,Cadre Commercial,4,18,7,7,45-59,3,3,2,4,3,2,3,Non,11 %,0,1,2,2,Infra & Cloud,Occasionnel,0,7,10-14 km
+7.841492924460013,Consulting,Assistant de Direction,4,6,2,2,35-44,4,3,1,3,2,3,3,Non,13 %,0,1,3,3,Infra & Cloud,Occasionnel,2,2,0-4 km
+8.576405051048084,Commercial,Cadre Commercial,8,9,5,2,25-34,1,4,2,4,2,2,3,Oui,13 %,1,0,3,3,Marketing,Aucun,0,4,15-19 km
+9.720765915720834,Consulting,Senior Manager,2,30,5,4,45-59,3,3,4,4,3,3,3,Oui,13 %,0,0,2,3,Infra & Cloud,Occasionnel,1,2,0-4 km
+8.357259153499912,Commercial,Cadre Commercial,1,5,5,2,18-24,4,3,2,3,4,4,3,Oui,12 %,0,1,2,4,Marketing,Occasionnel,0,3,10-14 km
+7.814803429489359,Commercial,Représentant Commercial,1,1,1,0,25-34,3,3,1,2,1,3,3,Non,18 %,0,1,3,1,Entrepreunariat,Occasionnel,0,0,0-4 km
+8.04012466444838,Consulting,Assistant de Direction,0,7,6,4,25-34,3,3,1,1,3,3,4,Non,22 %,1,0,2,1,Entrepreunariat,Frequent,0,4,0-4 km
+7.716460800176355,Consulting,Assistant de Direction,1,2,2,1,18-24,1,3,1,2,4,3,3,Non,13 %,0,1,1,3,Transformation Digitale,Occasionnel,1,2,10-14 km
+8.935508711503221,Commercial,Cadre Commercial,1,10,10,9,35-44,2,2,3,3,2,3,3,Non,13 %,0,2,2,2,Transformation Digitale,Occasionnel,9,0,0-4 km
+7.734558844354756,Consulting,Assistant de Direction,9,3,1,0,25-34,3,3,1,4,3,3,4,Oui,23 %,1,0,4,3,Entrepreunariat,Frequent,0,0,0-4 km
+8.017966703493599,Consulting,Consultant,1,18,18,7,35-44,4,3,1,1,3,2,3,Non,12 %,0,1,2,3,Infra & Cloud,Occasionnel,12,17,10-14 km
+8.651024539049757,Commercial,Cadre Commercial,7,8,5,4,35-44,4,3,2,2,3,3,3,Non,12 %,0,2,5,2,Marketing,Occasionnel,1,3,0-4 km
+7.854381210652365,Consulting,Consultant,3,8,5,2,35-44,2,3,1,1,2,3,3,Non,16 %,0,1,5,4,Infra & Cloud,Occasionnel,1,2,0-4 km
+8.342363500380579,Consulting,Tech Lead,2,18,1,0,35-44,3,3,2,2,4,2,3,Oui,12 %,0,0,2,4,Infra & Cloud,Occasionnel,0,1,10-14 km
+9.570598887246268,Consulting,Directeur Technique,1,25,25,10,35-44,1,2,4,2,3,3,3,Non,11 %,0,1,3,3,Infra & Cloud,Occasionnel,3,9,10-14 km
+8.145839612936841,Consulting,Consultant,6,20,1,0,35-44,2,2,2,3,2,3,4,Non,22 %,0,1,3,3,Transformation Digitale,Occasionnel,0,0,0-4 km
+9.873389104712095,Consulting,Directeur Technique,4,24,4,2,45-59,1,3,5,1,3,2,3,Non,11 %,0,1,4,2,Transformation Digitale,Occasionnel,1,2,5-9 km
+8.785539527561276,Commercial,Cadre Commercial,9,6,3,2,25-34,3,3,2,3,1,3,3,Non,15 %,0,1,3,4,Marketing,Aucun,1,2,0-4 km
+8.36799688505411,Consulting,Tech Lead,1,13,13,10,25-34,2,3,2,1,2,1,3,Non,12 %,0,1,5,2,Transformation Digitale,Occasionnel,3,12,5-9 km
+7.7226775164680035,Consulting,Consultant,7,8,3,2,35-44,4,3,1,4,1,3,4,Non,20 %,0,1,1,3,Transformation Digitale,Frequent,1,2,20-29 km
+8.416930769477844,Consulting,Manager,4,8,5,2,35-44,3,3,2,3,4,3,3,Oui,14 %,0,0,3,4,Autre,Occasionnel,0,2,5-9 km
+8.409162447202533,Commercial,Cadre Commercial,1,5,5,4,25-34,2,2,2,4,2,3,3,Oui,11 %,0,0,3,2,Infra & Cloud,Occasionnel,1,3,0-4 km
+8.400659375160286,Consulting,Assistant de Direction,3,15,13,11,35-44,2,3,2,3,1,3,3,Oui,15 %,0,2,2,5,Transformation Digitale,Aucun,10,7,20-29 km
+7.704811922932594,Consulting,Consultant,1,4,4,2,25-34,4,2,1,1,3,3,3,Non,12 %,0,1,3,2,Infra & Cloud,Occasionnel,3,2,0-4 km
+9.862561385923483,Consulting,Senior Manager,1,21,21,8,35-44,2,3,5,3,3,3,3,Oui,14 %,0,1,3,1,Infra & Cloud,Frequent,1,6,0-4 km
+9.488956472414216,Commercial,Cadre Commercial,9,36,7,7,45-59,3,4,4,1,4,2,3,Non,11 %,0,3,0,3,Infra & Cloud,Frequent,7,7,5-9 km
+8.791486026749002,Commercial,Cadre Commercial,0,6,5,4,25-34,2,3,2,3,2,3,3,Non,11 %,0,0,6,3,Entrepreunariat,Occasionnel,4,4,10-14 km
+9.035153304082828,Commercial,Cadre Commercial,1,10,10,7,35-44,2,4,3,1,3,3,3,Non,16 %,0,1,2,3,Marketing,Occasionnel,0,7,0-4 km
+8.424858580213442,Consulting,Consultant,1,10,10,0,25-34,3,3,2,1,4,3,3,Non,12 %,0,1,2,2,Transformation Digitale,Occasionnel,1,8,15-19 km
+8.302017809751204,Consulting,Consultant,5,6,2,2,25-34,1,3,1,1,3,3,3,Non,13 %,1,1,5,3,Transformation Digitale,Occasionnel,0,2,0-4 km
+8.98343977178426,Consulting,Tech Lead,2,28,5,4,45-59,4,2,3,3,3,3,3,Oui,14 %,0,0,4,3,Transformation Digitale,Occasionnel,0,4,0-4 km
+7.884199933676039,Consulting,Assistant de Direction,3,8,2,2,45-59,1,3,1,4,4,2,4,Non,21 %,0,2,3,2,Infra & Cloud,Occasionnel,0,2,10-14 km
+9.714503852868623,Consulting,Senior Manager,2,31,5,2,45-59,4,3,4,4,4,1,3,Non,13 %,0,0,2,2,Infra & Cloud,Occasionnel,1,4,0-4 km
+8.424419791263883,Consulting,Assistant de Direction,2,19,5,4,35-44,1,3,2,3,2,3,3,Non,11 %,0,1,3,2,Infra & Cloud,Frequent,0,2,20-29 km
+8.714731714015052,Consulting,Tech Lead,2,11,5,4,25-34,3,1,2,4,3,3,4,Non,20 %,0,0,2,3,Infra & Cloud,Occasionnel,0,2,0-4 km
+9.881599752778099,Consulting,Senior Manager,5,33,29,8,,1,3,5,1,4,1,3,Non,11 %,0,0,5,3,Infra & Cloud,Occasionnel,11,10,5-9 km
+8.478660241699453,Consulting,Tech Lead,2,19,10,7,45-59,3,3,2,3,3,2,3,Non,14 %,0,1,5,3,Transformation Digitale,Occasionnel,0,8,15-19 km
+8.41715183723601,Consulting,Manager,0,7,6,5,35-44,4,2,2,4,4,4,3,Non,11 %,0,3,4,4,Entrepreunariat,Frequent,0,4,20-29 km
+8.071843149609158,Commercial,Représentant Commercial,1,6,5,3,18-24,1,3,1,2,2,3,3,Oui,16 %,1,0,4,1,Entrepreunariat,Occasionnel,1,4,0-4 km
+7.763021309018518,Commercial,Représentant Commercial,0,3,2,2,25-34,4,1,1,3,4,2,3,Non,16 %,1,1,3,2,Marketing,Frequent,1,0,5-9 km
+7.440146680662688,Consulting,Consultant,1,1,1,0,35-44,4,3,1,4,3,3,4,Oui,23 %,0,1,3,2,Infra & Cloud,Frequent,0,0,0-4 km
+9.800457652216584,Commercial,Senior Manager,0,21,20,15,35-44,3,3,5,3,4,3,3,Non,14 %,0,0,2,4,Infra & Cloud,Occasionnel,1,12,0-4 km
+7.967973179662935,Consulting,Assistant de Direction,1,3,3,2,25-34,1,3,1,4,2,1,4,Non,22 %,0,2,3,3,Infra & Cloud,Occasionnel,0,2,20-29 km
+7.6487397889562425,Consulting,Consultant,4,9,5,3,25-34,3,3,1,4,3,1,3,Non,15 %,0,1,3,3,Infra & Cloud,Aucun,1,4,0-4 km
+9.387314322443542,Consulting,Directeur Technique,1,10,10,2,25-34,2,2,3,3,3,3,3,Non,18 %,0,0,2,4,Transformation Digitale,Occasionnel,0,7,0-4 km
+7.842671474979457,Consulting,Assistant de Direction,5,6,2,2,25-34,3,2,1,2,2,4,3,Non,16 %,1,0,2,5,Entrepreunariat,Occasionnel,1,1,20-29 km
+7.84971375760487,Ressources Humaines,Ressources Humaines,1,1,1,0,18-24,1,2,1,4,3,4,3,Non,12 %,1,0,3,2,Entrepreunariat,Occasionnel,0,0,0-4 km
+9.037533407550814,Commercial,Cadre Commercial,0,10,9,8,25-34,3,3,3,1,3,3,3,Non,11 %,0,0,3,4,Autre,Aucun,7,8,20-29 km
+9.555276687009526,Commercial,Senior Manager,3,32,1,0,45-59,1,2,4,4,3,2,3,Non,12 %,0,1,3,3,Marketing,Occasionnel,0,0,20-29 km
+9.743729514150925,Consulting,Senior Manager,0,28,27,10,45-59,2,2,4,3,2,3,3,Non,15 %,0,1,2,4,Infra & Cloud,Occasionnel,15,7,20-29 km
+7.84971375760487,Consulting,Consultant,0,12,11,7,25-34,3,3,1,4,3,2,3,Non,14 %,0,0,2,3,Transformation Digitale,Aucun,6,7,0-4 km
+9.236690147298965,Commercial,Cadre Commercial,4,22,18,13,,3,2,3,1,4,4,3,Non,19 %,0,0,5,3,Marketing,Frequent,13,11,20-29 km
+8.531293315795018,Consulting,Tech Lead,5,20,5,0,45-59,1,3,2,4,3,3,3,Non,13 %,0,3,2,2,Transformation Digitale,Occasionnel,0,4,0-4 km
+9.790430830243832,Consulting,Directeur Technique,6,26,3,2,45-59,1,3,4,3,3,1,3,Non,13 %,0,0,2,3,Infra & Cloud,Occasionnel,0,1,0-4 km
+8.350193650720067,Consulting,Consultant,0,6,5,4,35-44,4,1,1,3,3,3,3,Non,15 %,0,0,2,3,Infra & Cloud,Occasionnel,4,3,20-29 km
+8.237743803890933,Consulting,Consultant,7,19,1,0,45-59,3,3,2,3,3,3,3,Non,11 %,0,0,3,4,Infra & Cloud,Occasionnel,0,0,5-9 km
+7.926241523170962,Consulting,Assistant de Direction,3,14,7,3,25-34,4,2,1,3,3,3,3,Non,12 %,0,1,3,4,Infra & Cloud,Occasionnel,5,7,0-4 km
+9.112948025967533,Commercial,Cadre Commercial,2,15,3,2,45-59,3,2,3,4,3,3,3,Oui,19 %,0,1,3,3,Marketing,Occasionnel,1,2,10-14 km
+9.273221270015384,Consulting,Tech Lead,1,13,13,8,25-34,3,3,3,2,4,4,4,Non,25 %,0,1,6,1,Infra & Cloud,Occasionnel,0,8,5-9 km
+9.518633568332074,Consulting,Senior Manager,7,15,7,6,25-34,2,3,3,3,4,4,3,Oui,12 %,1,0,2,1,Transformation Digitale,Occasionnel,7,7,15-19 km
+8.134174272137903,Consulting,Consultant,7,8,4,3,25-34,1,1,1,4,1,3,3,Non,13 %,1,3,2,1,Transformation Digitale,Occasionnel,1,3,10-14 km
+8.001019961323651,Commercial,Représentant Commercial,0,4,3,2,25-34,4,3,1,2,1,3,3,Non,14 %,0,0,3,1,Marketing,Occasionnel,1,2,5-9 km
+8.94023623179847,Consulting,Manager,4,10,8,7,35-44,4,3,3,3,3,3,3,Oui,12 %,0,0,2,3,Infra & Cloud,Occasionnel,0,0,15-19 km
+9.192685436737461,Consulting,Manager,3,12,1,0,25-34,1,3,3,3,1,3,3,Non,12 %,1,0,2,3,Infra & Cloud,Frequent,0,0,20-29 km
+9.205428327615163,Ressources Humaines,Ressources Humaines,9,11,3,2,25-34,2,3,3,1,3,3,3,Oui,15 %,1,3,2,3,Ressources Humaines,Frequent,0,2,20-29 km
+7.646831391430482,Consulting,Consultant,4,8,2,2,35-44,2,3,1,3,4,3,3,Non,17 %,0,1,4,2,Autre,Frequent,2,0,5-9 km
+9.208438564686587,Commercial,Cadre Commercial,1,10,10,3,35-44,2,3,3,4,4,2,3,Non,14 %,0,0,3,4,Transformation Digitale,Aucun,9,7,10-14 km
+8.267448958304849,Consulting,Consultant,5,4,2,2,18-24,3,2,1,3,3,3,3,Non,16 %,1,0,3,1,Entrepreunariat,Frequent,1,2,0-4 km
+8.306965865368573,Commercial,Cadre Commercial,2,14,9,7,45-59,2,3,2,4,1,3,3,Non,14 %,0,1,2,5,Marketing,Occasionnel,6,7,0-4 km
+9.731274729890462,Commercial,Senior Manager,3,37,10,9,45-59,1,3,4,2,4,3,4,Non,23 %,0,0,2,5,Infra & Cloud,Occasionnel,7,7,15-19 km
+8.737292112544221,Commercial,Cadre Commercial,7,16,14,3,35-44,4,3,2,4,4,3,3,Non,14 %,0,0,3,2,Infra & Cloud,Aucun,1,10,10-14 km
+8.45914025996762,Commercial,Cadre Commercial,9,15,11,9,35-44,2,3,2,3,3,3,3,Non,11 %,0,0,2,3,Marketing,Occasionnel,6,9,0-4 km
+9.490846760678869,Consulting,Tech Lead,7,22,20,6,35-44,2,3,4,3,3,3,3,Non,15 %,0,0,3,3,Infra & Cloud,Occasionnel,5,13,5-9 km
+8.231109840328154,Consulting,Consultant,1,8,8,3,35-44,3,3,1,3,1,3,3,Non,11 %,0,1,3,1,Infra & Cloud,Frequent,0,7,5-9 km
+8.792245847467877,Commercial,Cadre Commercial,4,10,6,5,25-34,2,3,2,4,3,4,3,Oui,13 %,0,0,2,1,Infra & Cloud,Occasionnel,0,5,0-4 km
+8.91018077801329,Consulting,Tech Lead,1,10,10,9,35-44,4,3,3,1,4,2,4,Oui,21 %,0,1,5,3,Transformation Digitale,Occasionnel,5,8,20-29 km
+8.477620416296414,Commercial,Cadre Commercial,0,9,8,7,45-59,4,3,2,2,2,4,3,Non,19 %,0,1,3,3,Autre,Occasionnel,3,7,0-4 km
+7.91644286012226,Ressources Humaines,Ressources Humaines,0,8,7,7,25-34,2,3,1,3,2,2,3,Oui,11 %,1,1,2,4,Infra & Cloud,Frequent,1,0,15-19 km
+8.35772841676521,Consulting,Tech Lead,4,8,3,2,25-34,4,3,2,4,2,4,3,Non,12 %,0,2,2,3,Entrepreunariat,Occasionnel,1,2,15-19 km
+9.691840166360345,Consulting,Directeur Technique,4,10,6,1,25-34,1,4,4,3,3,3,3,Non,19 %,0,1,2,5,Transformation Digitale,Occasionnel,0,5,0-4 km
+9.355133116877724,Commercial,Senior Manager,9,10,5,4,25-34,3,2,3,4,3,2,4,Non,21 %,0,1,3,3,Infra & Cloud,Occasionnel,0,1,5-9 km
+7.538494999413465,Commercial,Représentant Commercial,1,0,0,0,18-24,2,3,1,2,4,3,3,Oui,14 %,1,0,3,3,Marketing,Frequent,0,0,5-9 km
+9.299541017434485,Commercial,Cadre Commercial,3,20,1,0,35-44,3,1,3,1,3,3,3,Non,15 %,0,1,2,3,Autre,Aucun,0,1,20-29 km
+8.826441041782578,Consulting,Manager,2,10,8,7,35-44,1,2,2,3,1,3,3,Oui,17 %,0,0,3,4,Autre,Aucun,0,7,0-4 km
+8.36799688505411,Commercial,Cadre Commercial,5,8,0,0,25-34,1,3,2,3,1,3,3,Non,12 %,0,2,5,2,Transformation Digitale,Occasionnel,0,0,20-29 km
+8.48879371689454,Commercial,Cadre Commercial,1,5,5,4,35-44,1,3,2,3,4,3,3,Non,16 %,0,0,3,3,Transformation Digitale,Occasionnel,0,3,0-4 km
+8.58260632996447,Commercial,Cadre Commercial,1,10,10,7,25-34,4,4,2,4,4,3,3,Non,12 %,0,0,3,4,Infra & Cloud,Occasionnel,5,7,20-29 km
+7.75833346749091,Consulting,Consultant,1,1,1,0,25-34,3,1,1,4,2,1,3,Oui,18 %,1,0,3,3,Entrepreunariat,Occasionnel,0,0,20-29 km
+8.921591063563978,Consulting,Tech Lead,4,12,6,5,35-44,2,3,3,4,4,4,3,Non,17 %,0,0,3,3,Entrepreunariat,Occasionnel,1,2,0-4 km
+9.261793653565098,Consulting,Manager,5,28,2,2,45-59,1,3,3,3,4,2,3,Non,11 %,0,0,3,1,Transformation Digitale,Frequent,1,2,15-19 km
+9.716916981452759,Commercial,Senior Manager,7,22,18,16,35-44,2,3,4,1,2,3,3,Non,16 %,0,1,2,5,Infra & Cloud,Occasionnel,11,8,0-4 km
+9.086476384753796,Commercial,Cadre Commercial,1,9,9,5,35-44,1,3,3,2,4,3,3,Non,13 %,0,1,6,4,Transformation Digitale,Aucun,7,7,5-9 km
+8.626585568187433,Consulting,Assistant de Direction,3,18,10,9,45-59,4,3,2,1,2,3,3,Oui,12 %,0,2,3,2,Entrepreunariat,Occasionnel,6,9,5-9 km
+8.457018468380168,Commercial,Cadre Commercial,8,6,4,2,25-34,4,4,2,3,4,3,3,Non,12 %,1,0,2,4,Autre,Aucun,1,2,10-14 km
+7.783640596221253,Commercial,Représentant Commercial,0,3,2,2,18-24,4,3,1,4,3,3,3,Non,13 %,0,2,3,3,Transformation Digitale,Frequent,2,1,20-29 km
+9.192685436737461,Consulting,Manager,3,18,1,0,35-44,3,3,2,3,3,3,3,Non,19 %,0,1,4,3,Transformation Digitale,Occasionnel,0,0,10-14 km
+8.771525284186465,Consulting,Tech Lead,6,8,6,5,35-44,2,3,2,2,2,2,3,Non,12 %,0,1,2,4,Infra & Cloud,Occasionnel,4,3,0-4 km
+9.878323578872578,Consulting,Directeur Technique,1,31,31,9,45-59,4,2,5,3,3,3,3,Oui,17 %,0,1,5,4,Infra & Cloud,Occasionnel,0,9,15-19 km
+7.9105906122564775,Consulting,Assistant de Direction,1,6,6,5,18-24,2,4,1,4,2,3,3,Oui,11 %,0,2,3,3,Transformation Digitale,Occasionnel,1,4,20-29 km
+8.744009988096744,Commercial,Cadre Commercial,1,6,5,3,25-34,1,3,2,2,4,4,4,Non,20 %,0,2,5,2,Marketing,Occasionnel,1,4,20-29 km
+7.662937850461535,Consulting,Consultant,1,1,1,0,18-24,4,2,1,2,4,3,4,Non,21 %,0,1,2,2,Autre,Occasionnel,0,0,15-19 km
+9.809231816610408,Ressources Humaines,Senior Manager,1,32,32,5,45-59,1,3,5,2,3,3,3,Non,11 %,0,1,2,3,Transformation Digitale,Frequent,10,7,0-4 km
+7.64826303090192,Commercial,Représentant Commercial,1,7,7,4,25-34,2,3,1,3,3,3,3,Non,11 %,0,0,1,1,Transformation Digitale,Occasionnel,0,6,10-14 km
+7.967973179662935,Consulting,Consultant,1,6,6,3,18-24,1,3,1,3,4,3,3,Oui,16 %,1,1,4,3,Infra & Cloud,Frequent,1,2,5-9 km
+7.617759576608505,Commercial,Représentant Commercial,1,1,1,0,25-34,2,2,1,1,3,4,3,Non,18 %,1,1,2,4,Infra & Cloud,Frequent,0,0,10-14 km
+8.195057690895077,Consulting,Assistant de Direction,1,6,6,5,25-34,2,2,1,4,4,3,3,Oui,13 %,0,1,3,2,Infra & Cloud,Occasionnel,1,3,0-4 km
+8.350902451694811,Commercial,Cadre Commercial,2,9,3,1,25-34,2,3,2,1,3,1,3,Non,17 %,1,0,2,4,Transformation Digitale,Occasionnel,1,2,10-14 km
+8.211211361793023,Consulting,Consultant,4,9,3,2,35-44,1,2,2,4,4,3,3,Non,14 %,0,0,3,2,Autre,Occasionnel,0,2,20-29 km
+8.605387202152153,Commercial,Cadre Commercial,4,13,7,7,25-34,1,4,2,4,4,4,4,Non,22 %,0,2,4,4,Transformation Digitale,Occasionnel,5,7,5-9 km
+7.690743163541872,Consulting,Assistant de Direction,0,6,5,3,25-34,1,2,1,3,3,2,3,Non,12 %,0,2,5,4,Transformation Digitale,Occasionnel,0,3,5-9 km
+9.169830828637973,Commercial,Cadre Commercial,4,17,3,0,35-44,4,3,2,3,3,2,3,Oui,11 %,0,1,3,3,Marketing,Occasionnel,1,0,0-4 km
+7.950502434808851,Consulting,Assistant de Direction,1,1,1,0,18-24,4,2,1,2,4,4,3,Non,13 %,0,0,0,3,Infra & Cloud,Occasionnel,0,0,0-4 km
+8.316300249036848,Consulting,Manager,1,10,10,2,35-44,3,3,2,4,2,3,3,Non,13 %,0,2,4,4,Infra & Cloud,Occasionnel,2,2,0-4 km
+9.718843300372528,Consulting,Directeur Technique,4,21,1,0,35-44,2,2,4,4,3,2,3,Oui,14 %,0,1,3,4,Autre,Occasionnel,0,0,5-9 km
+7.8709295967551425,Consulting,Assistant de Direction,3,8,0,0,35-44,3,3,1,1,4,2,3,Non,17 %,0,0,3,1,Infra & Cloud,Occasionnel,0,0,0-4 km
+8.644706511715198,Consulting,Consultant,3,10,8,7,35-44,4,3,2,3,2,3,3,Oui,13 %,0,1,3,5,Transformation Digitale,Frequent,4,7,5-9 km
+9.642317574624458,Consulting,Senior Manager,7,21,3,2,45-59,4,2,4,1,1,1,3,Non,11 %,0,1,3,4,Infra & Cloud,Occasionnel,0,2,0-4 km
+8.697178688412643,Ressources Humaines,Ressources Humaines,4,10,2,2,35-44,1,2,2,3,2,4,3,Non,11 %,0,0,1,4,Infra & Cloud,Occasionnel,0,2,0-4 km
+7.855544677915663,Commercial,Représentant Commercial,1,8,8,2,25-34,3,3,1,3,4,3,3,Oui,18 %,0,2,3,3,Entrepreunariat,Occasionnel,0,6,10-14 km
+8.020270472819238,Commercial,Représentant Commercial,0,5,4,3,25-34,3,3,1,1,2,3,3,Non,11 %,1,1,3,1,Marketing,Occasionnel,0,2,0-4 km
+8.145549631783584,Commercial,Représentant Commercial,1,3,3,2,18-24,3,3,1,3,3,3,3,Non,11 %,0,0,2,1,Entrepreunariat,Occasionnel,1,2,20-29 km
+9.878887435667895,Consulting,Senior Manager,4,26,2,2,35-44,4,3,5,4,1,4,3,Oui,12 %,0,1,2,4,Autre,Occasionnel,0,1,0-4 km
+7.928045600874777,Consulting,Assistant de Direction,0,3,2,2,18-24,1,3,1,3,4,3,4,Non,20 %,0,0,3,1,Transformation Digitale,Occasionnel,2,2,5-9 km
+8.868554040531201,Commercial,Cadre Commercial,0,6,5,0,25-34,3,3,2,3,4,3,3,Non,12 %,0,0,3,4,Marketing,Occasionnel,1,2,5-9 km
+8.751949058058614,Consulting,Assistant de Direction,1,6,6,4,25-34,1,3,2,4,4,2,3,Oui,12 %,0,1,2,4,Infra & Cloud,Occasionnel,0,5,5-9 km
+7.642044402873258,Consulting,Assistant de Direction,1,1,1,0,25-34,3,3,1,3,3,3,4,Non,20 %,0,1,2,3,Transformation Digitale,Frequent,0,0,0-4 km
+9.033841828485016,Commercial,Cadre Commercial,7,18,14,7,45-59,4,3,2,1,4,4,4,Non,20 %,0,0,2,1,Transformation Digitale,Occasionnel,8,10,0-4 km
+7.898039690764619,Consulting,Assistant de Direction,1,10,10,9,25-34,2,3,1,4,4,2,3,Non,12 %,0,1,4,5,Infra & Cloud,Occasionnel,8,8,0-4 km
+8.363342466597977,Commercial,Cadre Commercial,2,5,1,1,45-59,1,3,2,1,4,3,3,Non,14 %,1,2,4,4,Infra & Cloud,Frequent,0,0,20-29 km
+7.886081401775745,Consulting,Consultant,1,3,3,2,25-34,3,3,1,4,3,3,3,Oui,13 %,0,1,2,3,Infra & Cloud,Occasionnel,0,2,5-9 km
+9.152181457802651,Consulting,Tech Lead,1,10,10,7,35-44,3,3,3,3,3,3,3,Non,15 %,0,1,2,3,Autre,Occasionnel,7,8,0-4 km
+8.62371303479391,Commercial,Cadre Commercial,1,6,6,0,25-34,2,3,2,3,1,2,3,Non,14 %,0,1,5,2,Transformation Digitale,Occasionnel,1,2,0-4 km
+8.801920904041582,Consulting,Assistant de Direction,1,17,17,11,35-44,2,1,2,4,2,3,3,Non,13 %,0,0,3,4,Infra & Cloud,Occasionnel,11,8,5-9 km
+8.952346543226227,Consulting,Manager,3,15,13,11,25-34,3,3,2,4,3,1,4,Non,23 %,0,1,2,3,Infra & Cloud,Frequent,4,7,5-9 km
+9.280425979542871,Ressources Humaines,Ressources Humaines,2,16,9,7,45-59,3,3,3,2,3,4,3,Non,15 %,0,1,1,4,Transformation Digitale,Occasionnel,7,1,15-19 km
+9.087946723762116,Consulting,Tech Lead,2,13,3,2,35-44,2,2,2,2,3,3,3,Oui,11 %,0,1,2,2,Transformation Digitale,Occasionnel,0,2,5-9 km
+7.6236419465115715,Consulting,Assistant de Direction,0,5,4,2,25-34,1,2,1,4,4,3,3,Non,13 %,0,0,0,4,Transformation Digitale,Occasionnel,1,1,0-4 km
+6.917705609835305,Consulting,Assistant de Direction,1,1,1,0,18-24,4,3,1,3,4,3,3,Oui,11 %,1,0,5,1,Transformation Digitale,Occasionnel,1,1,10-14 km
+8.116417072794205,Consulting,Assistant de Direction,1,10,10,8,25-34,1,3,1,1,1,3,3,Oui,11 %,1,0,3,3,Infra & Cloud,Frequent,9,7,0-4 km
+7.156176637480615,Consulting,Consultant,1,1,1,0,35-44,3,2,1,3,3,3,3,Non,18 %,0,2,3,3,Infra & Cloud,Aucun,0,0,0-4 km
+7.944492163932159,Consulting,Assistant de Direction,2,5,3,2,18-24,1,4,1,1,1,4,3,Non,16 %,0,1,3,3,Transformation Digitale,Occasionnel,0,2,0-4 km
+8.48714627006394,Commercial,Cadre Commercial,0,4,3,2,25-34,4,4,2,2,3,3,4,Non,22 %,0,1,4,3,Infra & Cloud,Occasionnel,1,2,5-9 km
+8.301273485191347,Commercial,Cadre Commercial,0,8,7,7,35-44,4,2,2,4,1,3,4,Non,20 %,0,0,2,4,Marketing,Occasionnel,0,5,5-9 km
+7.908754738783246,Consulting,Assistant de Direction,1,10,10,7,25-34,2,1,1,4,4,3,3,Non,18 %,0,1,5,4,Infra & Cloud,Frequent,2,8,0-4 km
+9.002208578282412,Commercial,Cadre Commercial,3,12,2,2,45-59,2,4,2,2,4,3,3,Non,12 %,0,0,3,1,Marketing,Occasionnel,2,2,0-4 km
+8.444192298531748,Commercial,Cadre Commercial,1,6,6,5,25-34,4,4,2,4,2,3,4,Oui,20 %,0,2,3,1,Transformation Digitale,Frequent,0,4,0-4 km
+8.45126704130007,Consulting,Assistant de Direction,3,4,1,0,35-44,4,4,1,4,1,3,3,Non,17 %,0,0,2,2,Infra & Cloud,Occasionnel,0,0,10-14 km
+8.07775756373692,Consulting,Consultant,1,20,20,8,45-59,4,4,1,3,3,3,3,Oui,11 %,0,3,3,1,Transformation Digitale,Occasionnel,3,8,20-29 km
+9.06207235530708,Consulting,Manager,1,9,8,7,25-34,4,2,3,2,2,4,3,Non,14 %,0,0,3,3,Transformation Digitale,Occasionnel,7,7,5-9 km
+8.429017500512511,Commercial,Cadre Commercial,9,4,2,2,18-24,1,3,2,3,1,3,3,Non,14 %,1,0,3,2,Infra & Cloud,Occasionnel,2,0,0-4 km
+8.423761246623686,Consulting,Manager,1,20,20,7,35-44,4,2,2,3,1,3,3,Non,11 %,0,0,4,4,Entrepreunariat,Occasionnel,11,10,0-4 km
+8.593598522618644,Commercial,Cadre Commercial,1,10,10,7,25-34,4,3,2,4,4,2,3,Non,12 %,0,0,2,3,Marketing,Occasionnel,0,8,10-14 km
+8.824236617346639,Commercial,Cadre Commercial,3,18,4,3,45-59,2,3,2,3,1,3,3,Oui,14 %,1,1,4,2,Entrepreunariat,Frequent,1,3,5-9 km
+8.939318740417509,Consulting,Manager,0,10,9,7,35-44,2,4,2,4,3,2,3,Non,13 %,0,0,4,4,Infra & Cloud,Occasionnel,1,8,0-4 km
+8.910990494656719,Consulting,Tech Lead,1,9,9,7,25-34,3,3,3,1,4,3,3,Non,11 %,0,0,3,2,Infra & Cloud,Occasionnel,0,7,0-4 km
+9.320091235935301,Consulting,Directeur Technique,3,10,7,7,25-34,3,3,3,4,4,3,3,Non,15 %,0,0,6,2,Infra & Cloud,Occasionnel,7,7,0-4 km
+8.509362612301048,Commercial,Cadre Commercial,2,20,7,7,45-59,4,3,2,1,4,3,3,Non,12 %,0,0,2,4,Marketing,Occasionnel,1,7,10-14 km
+9.256842205627603,Commercial,Cadre Commercial,5,20,18,13,35-44,4,2,3,1,3,3,4,Oui,21 %,0,1,2,4,Infra & Cloud,Frequent,1,12,5-9 km
+9.603395460007665,Consulting,Directeur Technique,3,32,5,1,45-59,3,4,4,3,3,3,3,Non,19 %,0,0,3,3,Infra & Cloud,Occasionnel,1,3,5-9 km
+9.859640152755851,Ressources Humaines,Senior Manager,3,23,21,6,35-44,2,2,5,4,2,2,3,Non,15 %,0,3,2,4,Ressources Humaines,Occasionnel,12,6,10-14 km
+8.595264726836392,Commercial,Cadre Commercial,8,10,2,2,,1,3,2,1,4,3,3,Non,14 %,0,0,1,4,Marketing,Occasionnel,2,2,15-19 km
+9.081824949740755,Consulting,Tech Lead,1,9,9,7,25-34,4,3,3,1,3,2,4,Non,21 %,0,2,4,2,Infra & Cloud,Frequent,1,7,10-14 km
+9.862144589001746,Ressources Humaines,Senior Manager,1,22,22,7,35-44,4,2,5,3,2,3,3,Non,12 %,0,1,3,3,Ressources Humaines,Occasionnel,2,10,0-4 km
+8.262558973010657,Commercial,Représentant Commercial,7,4,2,2,45-59,4,3,1,2,4,3,3,Non,15 %,0,1,2,4,Marketing,Occasionnel,2,2,5-9 km
+7.7039102096163115,Consulting,Assistant de Direction,7,10,7,7,25-34,1,1,1,2,4,3,3,Oui,13 %,1,0,4,2,Infra & Cloud,Occasionnel,3,7,0-4 km
+9.368539986649727,Consulting,Directeur Technique,9,10,8,7,35-44,1,4,3,1,1,3,3,Non,14 %,0,1,2,3,Infra & Cloud,Aucun,0,5,5-9 km
+8.969796305981806,Consulting,Tech Lead,4,10,1,0,35-44,3,3,3,3,4,4,3,Oui,14 %,0,0,4,3,Infra & Cloud,Occasionnel,0,0,0-4 km
+8.21851757748959,Consulting,Consultant,2,9,5,2,35-44,1,1,1,3,3,3,3,Non,14 %,0,0,5,3,Transformation Digitale,Aucun,1,4,20-29 km
+9.530320210727126,Commercial,Cadre Commercial,9,28,22,2,45-59,4,3,4,3,4,2,3,Oui,12 %,0,2,2,3,Transformation Digitale,Frequent,11,13,0-4 km
+8.576405051048084,Commercial,Cadre Commercial,7,10,8,7,25-34,3,3,2,4,4,2,4,Non,23 %,0,1,2,5,Marketing,Occasionnel,7,7,20-29 km
+7.879669914604289,Commercial,Représentant Commercial,1,1,1,0,25-34,3,3,1,3,3,3,3,Non,11 %,0,0,6,3,Infra & Cloud,Occasionnel,0,0,10-14 km
+7.9229859587111955,Consulting,Assistant de Direction,6,7,2,2,35-44,3,4,1,3,4,3,3,Oui,12 %,1,0,2,3,Transformation Digitale,Frequent,2,2,15-19 km
+8.825412915085566,Commercial,Cadre Commercial,3,7,2,2,35-44,4,2,2,4,3,3,3,Non,18 %,0,1,5,3,Infra & Cloud,Frequent,2,2,15-19 km
+8.723068501163928,Consulting,Manager,3,10,5,1,25-34,2,3,2,3,4,3,3,Non,11 %,0,0,2,2,Transformation Digitale,Occasionnel,4,3,5-9 km
+7.824445930877619,Consulting,Consultant,1,5,4,3,18-24,2,3,1,1,4,4,3,Non,14 %,0,1,2,1,Transformation Digitale,Occasionnel,0,2,5-9 km
+8.762489547371581,Ressources Humaines,Ressources Humaines,9,12,8,3,35-44,3,4,2,2,3,1,3,Non,15 %,0,1,3,3,Ressources Humaines,Occasionnel,3,6,0-4 km
+9.315060682746585,Consulting,Manager,7,30,10,7,45-59,3,3,4,4,3,2,3,Non,11 %,0,0,1,3,Transformation Digitale,Occasionnel,1,1,5-9 km
+7.759187438507795,Consulting,Assistant de Direction,0,5,4,2,35-44,4,2,1,4,4,2,4,Oui,20 %,0,0,2,1,Transformation Digitale,Occasionnel,2,3,0-4 km
+8.826441041782578,Consulting,Manager,8,9,7,6,25-34,4,2,2,1,1,1,3,Non,19 %,0,0,2,3,Transformation Digitale,Occasionnel,0,7,5-9 km
+7.739794458408701,Commercial,Représentant Commercial,1,2,2,2,25-34,4,3,1,2,4,3,3,Non,14 %,0,2,2,3,Marketing,Occasionnel,2,2,10-14 km
+7.804251383528112,Consulting,Consultant,2,19,2,2,45-59,4,3,2,4,4,3,3,Non,17 %,0,0,4,3,Infra & Cloud,Occasionnel,2,2,5-9 km
+8.535818655539403,Consulting,Manager,2,16,1,0,35-44,4,3,2,1,1,4,3,Non,11 %,0,1,2,4,Infra & Cloud,Aucun,0,0,0-4 km
+8.577347114235984,Consulting,Consultant,1,10,10,8,25-34,1,3,2,4,4,3,3,Non,15 %,0,2,2,4,Infra & Cloud,Frequent,4,7,20-29 km
+8.025516386489008,Consulting,Assistant de Direction,6,6,1,0,35-44,4,3,1,3,2,1,3,Oui,13 %,0,1,0,5,Transformation Digitale,Occasionnel,0,1,0-4 km
+8.541300266759471,Consulting,Tech Lead,3,7,0,0,25-34,2,3,2,1,3,3,3,Non,14 %,0,1,3,5,Infra & Cloud,Occasionnel,0,0,5-9 km
+9.732521279780308,Commercial,Senior Manager,1,34,34,6,45-59,3,2,4,1,1,4,3,Non,11 %,0,0,3,4,Marketing,Occasionnel,1,16,0-4 km
+7.8961806086154915,Consulting,Assistant de Direction,1,10,10,9,25-34,4,3,1,4,3,2,3,Oui,13 %,1,0,2,4,Autre,Occasionnel,7,8,0-4 km
+8.729235349659273,Commercial,Cadre Commercial,1,6,6,5,25-34,3,3,2,4,2,2,4,Non,23 %,0,0,5,1,Transformation Digitale,Occasionnel,1,4,20-29 km
+8.799812469525556,Commercial,Représentant Commercial,0,9,8,7,45-59,2,1,2,3,1,3,3,Non,13 %,0,0,3,2,Entrepreunariat,Occasionnel,3,1,0-4 km
+8.16223106548118,Consulting,Assistant de Direction,1,2,2,2,18-24,1,4,1,3,4,3,3,Non,18 %,0,0,3,1,Transformation Digitale,Occasionnel,0,2,10-14 km
+8.763740720509464,Commercial,Cadre Commercial,4,8,5,4,45-59,2,4,2,3,4,3,3,Oui,12 %,1,0,2,2,Infra & Cloud,Frequent,1,3,20-29 km
+8.744328763999984,Commercial,Cadre Commercial,1,6,6,5,25-34,4,3,2,4,3,3,4,Non,22 %,0,0,5,3,Autre,Occasionnel,1,4,0-4 km
+9.896462937599164,Consulting,Senior Manager,5,24,5,2,45-59,4,3,5,1,4,3,3,Oui,13 %,1,1,2,3,Transformation Digitale,Occasionnel,1,4,0-4 km
+8.934323331054905,Commercial,Cadre Commercial,1,10,10,7,35-44,1,2,3,1,2,3,3,Non,15 %,0,0,1,4,Infra & Cloud,Aucun,0,9,5-9 km
+8.356789669923213,Consulting,Assistant de Direction,0,5,4,3,45-59,4,3,1,4,1,3,3,Non,18 %,0,1,3,4,Transformation Digitale,Aucun,1,2,15-19 km
+8.381373468273702,Consulting,Consultant,3,5,2,2,25-34,1,1,1,4,1,3,3,Non,14 %,0,1,2,2,Infra & Cloud,Frequent,2,0,0-4 km
+8.374707543119483,Consulting,Manager,4,11,8,7,25-34,2,3,2,3,1,2,3,Non,12 %,0,1,3,3,Transformation Digitale,Occasionnel,1,1,20-29 km
+8.580543506917,Commercial,Cadre Commercial,6,6,4,3,25-34,4,2,2,1,3,2,3,Non,17 %,1,0,2,3,Entrepreunariat,Occasionnel,1,2,5-9 km
+8.0959035329611,Consulting,Assistant de Direction,2,10,4,2,25-34,2,4,1,4,3,3,3,Non,16 %,0,0,2,4,Infra & Cloud,Occasionnel,1,3,0-4 km
+8.60995467149755,Consulting,Tech Lead,9,9,5,3,45-59,4,3,2,1,2,3,3,Oui,11 %,0,2,4,4,Transformation Digitale,Occasionnel,1,4,15-19 km
+8.376320632534823,Commercial,Cadre Commercial,0,5,4,2,25-34,3,3,2,4,2,3,3,Non,19 %,0,1,3,1,Marketing,Frequent,1,1,5-9 km
+7.931284761525891,Consulting,Assistant de Direction,0,6,5,3,35-44,4,3,1,1,2,2,3,Oui,13 %,0,2,3,1,Infra & Cloud,Occasionnel,4,3,10-14 km
+8.696343057044556,Consulting,Tech Lead,6,17,15,7,35-44,1,4,2,1,4,3,3,Oui,12 %,0,0,2,4,Infra & Cloud,Frequent,4,12,0-4 km
+8.385260520155413,Consulting,Assistant de Direction,1,6,6,5,25-34,3,2,1,1,3,3,3,Non,11 %,0,0,3,4,Transformation Digitale,Occasionnel,1,3,0-4 km
+7.8528278122817445,Commercial,Représentant Commercial,1,3,3,2,35-44,1,3,1,4,2,2,3,Non,16 %,0,1,1,4,Infra & Cloud,Occasionnel,0,2,5-9 km
+8.251663923605589,Consulting,Consultant,3,7,2,2,25-34,4,1,1,3,3,3,4,Non,21 %,0,2,2,3,Infra & Cloud,Occasionnel,0,2,0-4 km
+8.353497098745448,Consulting,Manager,1,8,8,7,35-44,3,4,2,2,4,3,4,Non,24 %,0,1,2,2,Transformation Digitale,Frequent,3,7,0-4 km
+8.77971129020447,Commercial,Cadre Commercial,5,6,3,2,25-34,3,3,2,1,2,3,3,Non,17 %,0,1,1,2,Infra & Cloud,Occasionnel,1,2,5-9 km
+9.821789308551622,Consulting,Senior Manager,1,24,24,7,35-44,2,3,5,4,2,2,3,Non,13 %,0,1,4,3,Infra & Cloud,Frequent,14,9,5-9 km
+7.379008127628304,Consulting,Consultant,1,1,0,0,18-24,3,4,1,1,3,3,4,Oui,21 %,1,2,2,3,Infra & Cloud,Occasionnel,0,0,5-9 km
+7.899153483343097,Consulting,Consultant,1,1,1,0,18-24,3,2,1,2,3,3,3,Non,11 %,0,3,4,3,Infra & Cloud,Aucun,0,0,5-9 km
+8.055157731819678,Consulting,Consultant,8,9,5,2,45-59,4,3,2,3,2,3,4,Non,20 %,0,1,3,4,Infra & Cloud,Occasionnel,1,4,10-14 km
+9.777924329560783,Consulting,Directeur Technique,5,30,4,3,45-59,3,3,4,3,4,3,3,Non,16 %,0,0,3,3,Transformation Digitale,Occasionnel,0,3,0-4 km
+7.749322464660356,Consulting,Consultant,1,1,1,0,25-34,2,2,1,1,4,3,3,Oui,11 %,1,1,1,2,Infra & Cloud,Occasionnel,0,0,0-4 km
+9.366660126231137,Consulting,Directeur Technique,0,14,13,9,25-34,3,3,3,3,4,4,3,Non,11 %,0,0,3,3,Transformation Digitale,Occasionnel,3,7,5-9 km
+8.580167990577626,Commercial,Cadre Commercial,5,6,3,2,25-34,1,3,2,1,3,3,3,Non,15 %,1,0,3,3,Marketing,Occasionnel,0,2,15-19 km
+9.726332625693532,Consulting,Senior Manager,1,26,26,14,45-59,3,3,4,4,3,2,3,Oui,11 %,0,1,3,2,Autre,Occasionnel,3,0,0-4 km
+8.56197533418813,Consulting,Tech Lead,0,10,9,7,35-44,3,3,2,2,1,3,3,Non,15 %,0,1,2,3,Autre,Occasionnel,0,5,0-4 km
+7.901377353792616,Consulting,Assistant de Direction,1,10,10,7,25-34,3,4,1,3,3,3,4,Non,24 %,0,1,3,2,Infra & Cloud,Occasionnel,0,7,20-29 km
+9.865110483415124,Consulting,Directeur Technique,7,40,31,15,45-59,4,3,5,2,4,3,3,Oui,12 %,1,0,2,4,Infra & Cloud,Occasionnel,13,8,0-4 km
+7.826842098158293,Consulting,Assistant de Direction,3,7,2,2,35-44,4,4,1,3,3,3,3,Non,13 %,0,0,0,4,Infra & Cloud,Occasionnel,2,2,0-4 km
+8.70996000607173,Consulting,Tech Lead,9,8,4,3,35-44,4,2,2,4,4,3,3,Oui,13 %,0,1,4,2,Infra & Cloud,Occasionnel,0,2,0-4 km
+8.38548870041881,Consulting,Assistant de Direction,6,5,2,2,25-34,3,3,1,3,4,2,3,Non,17 %,1,0,3,4,Transformation Digitale,Occasionnel,2,1,0-4 km
+7.670428522190693,Ressources Humaines,Ressources Humaines,4,8,5,2,35-44,3,3,1,2,2,3,3,Non,13 %,0,1,2,3,Ressources Humaines,Occasionnel,0,4,10-14 km
+8.726318950962243,Consulting,Tech Lead,1,14,14,13,25-34,3,2,2,3,3,3,3,Non,12 %,0,1,3,3,Infra & Cloud,Occasionnel,6,8,0-4 km
+8.536014945656826,Consulting,Consultant,6,10,1,0,35-44,1,2,2,3,4,3,3,Non,14 %,0,0,6,4,Transformation Digitale,Frequent,0,0,15-19 km
+8.83608319099221,Consulting,Tech Lead,5,12,0,0,25-34,3,2,2,4,2,2,4,Oui,24 %,0,0,4,3,Transformation Digitale,Occasionnel,0,0,0-4 km
+7.729735331385051,Consulting,Assistant de Direction,1,1,1,0,45-59,2,2,1,3,4,3,3,Non,14 %,0,0,3,3,Infra & Cloud,Occasionnel,0,0,0-4 km
+8.39728289474368,Consulting,Tech Lead,1,10,9,8,35-44,2,3,2,2,4,2,3,Non,13 %,0,1,3,3,Infra & Cloud,Occasionnel,7,8,20-29 km
+8.746557354543503,Consulting,Manager,2,13,4,3,35-44,1,2,2,1,3,2,3,Non,15 %,0,1,3,3,Infra & Cloud,Frequent,1,2,10-14 km
+7.845416036592485,Consulting,Assistant de Direction,1,6,5,2,25-34,3,2,1,4,3,3,3,Non,16 %,0,0,3,4,Infra & Cloud,Frequent,1,3,15-19 km
+8.943114308091785,Commercial,Cadre Commercial,1,9,9,8,45-59,3,3,3,4,1,4,3,Non,18 %,1,2,3,3,Marketing,Occasionnel,7,7,10-14 km
+8.548885638148727,Commercial,Cadre Commercial,4,12,9,7,45-59,3,3,2,4,3,2,3,Non,16 %,1,0,3,1,Transformation Digitale,Occasionnel,7,3,0-4 km
+9.750336373041954,Consulting,Directeur Technique,6,22,4,1,35-44,2,3,4,1,3,3,4,Non,24 %,0,1,3,2,Infra & Cloud,Occasionnel,1,0,10-14 km
+9.457903327831136,Consulting,Directeur Technique,1,9,9,8,25-34,3,2,3,4,2,3,3,Oui,16 %,0,1,3,1,Entrepreunariat,Occasionnel,0,8,5-9 km
+9.232297539328226,Consulting,Tech Lead,3,17,8,5,35-44,3,3,3,3,2,4,4,Non,21 %,0,0,3,3,Autre,Occasionnel,1,6,5-9 km
+8.472195825485501,Commercial,Cadre Commercial,1,8,8,7,25-34,2,3,2,2,1,3,4,Oui,20 %,0,0,2,4,Marketing,Occasionnel,7,5,0-4 km
+8.226305988015508,Ressources Humaines,Ressources Humaines,0,4,3,2,25-34,3,3,1,4,3,1,3,Non,19 %,0,1,1,2,Ressources Humaines,Occasionnel,0,2,0-4 km
+7.769378609513984,Consulting,Assistant de Direction,1,8,8,7,25-34,3,2,1,3,1,3,3,Oui,14 %,1,1,2,2,Transformation Digitale,Frequent,1,7,5-9 km
+7.442492722794441,Consulting,Assistant de Direction,1,0,0,0,25-34,4,3,1,4,3,2,3,Non,11 %,0,3,6,3,Transformation Digitale,Aucun,0,0,0-4 km
+9.699411063939143,Commercial,Senior Manager,2,29,20,6,45-59,1,3,4,3,3,2,3,Non,14 %,0,1,2,4,Marketing,Occasionnel,4,17,20-29 km
+8.688453800850768,Consulting,Manager,9,10,5,2,35-44,4,3,2,2,4,2,3,Non,12 %,0,0,2,3,Transformation Digitale,Occasionnel,2,3,0-4 km
+8.138856750696325,Consulting,Assistant de Direction,7,6,4,3,25-34,1,4,1,1,3,2,3,Non,13 %,0,0,3,1,Transformation Digitale,Occasionnel,0,1,0-4 km
+8.303504798872783,Commercial,Cadre Commercial,1,9,9,8,25-34,1,4,2,1,1,3,4,Non,22 %,0,1,5,3,Transformation Digitale,Occasionnel,0,8,0-4 km
+7.847762537473608,Consulting,Assistant de Direction,1,6,6,5,35-44,3,2,1,1,4,2,3,Non,11 %,0,0,3,1,Transformation Digitale,Occasionnel,1,1,20-29 km
+8.732627099660395,Commercial,Cadre Commercial,1,18,18,14,35-44,2,3,2,4,4,2,3,Oui,14 %,0,1,1,2,Infra & Cloud,Occasionnel,4,11,0-4 km
+8.390268497842571,Commercial,Cadre Commercial,2,8,5,2,25-34,2,3,2,4,3,2,3,Non,11 %,0,1,3,4,Infra & Cloud,Occasionnel,0,3,10-14 km
+8.232706009860976,Consulting,Assistant de Direction,9,10,5,4,25-34,2,2,1,4,2,2,3,Non,12 %,0,1,3,4,Infra & Cloud,Frequent,0,3,5-9 km
+9.299723933110869,Commercial,Cadre Commercial,7,35,5,2,45-59,1,2,3,4,4,3,3,Oui,18 %,0,1,3,2,Marketing,Occasionnel,0,4,5-9 km
+9.283776690049365,Commercial,Cadre Commercial,4,18,5,4,45-59,4,3,3,1,3,3,3,Oui,12 %,0,1,2,3,Marketing,Occasionnel,0,2,5-9 km
+8.551787836180736,Consulting,Assistant de Direction,5,9,5,3,25-34,3,4,2,3,3,2,3,Non,12 %,0,1,3,2,Transformation Digitale,Occasionnel,1,3,5-9 km
+9.534378481388618,Consulting,Tech Lead,3,31,9,8,45-59,3,2,4,4,3,3,4,Non,22 %,0,0,3,4,Transformation Digitale,Frequent,0,0,20-29 km
+8.75384509275524,Commercial,Cadre Commercial,4,9,1,0,35-44,4,2,2,3,4,3,3,Non,19 %,0,2,2,4,Marketing,Occasionnel,0,0,15-19 km
+8.504513138258863,Ressources Humaines,Ressources Humaines,1,6,5,1,25-34,2,2,1,4,4,3,3,Non,13 %,0,1,6,2,Transformation Digitale,Occasionnel,0,4,5-9 km
+8.471358655072438,Consulting,Tech Lead,6,4,2,2,18-24,4,2,2,4,1,1,4,Non,22 %,0,2,2,2,Infra & Cloud,Occasionnel,2,2,0-4 km
+7.9441374911141125,Consulting,Consultant,2,10,3,2,35-44,1,4,1,4,3,2,4,Oui,24 %,0,1,2,4,Infra & Cloud,Occasionnel,0,2,5-9 km
+7.830425617820331,Consulting,Assistant de Direction,5,8,2,1,35-44,2,3,1,4,4,3,3,Oui,14 %,0,0,2,1,Transformation Digitale,Frequent,2,2,0-4 km
+7.759187438507795,Ressources Humaines,Ressources Humaines,0,6,5,4,35-44,1,2,1,1,3,3,4,Non,21 %,0,0,3,3,Infra & Cloud,Occasionnel,0,3,5-9 km
+8.341648618901306,Commercial,Cadre Commercial,1,5,5,3,25-34,3,3,2,1,4,3,3,Oui,18 %,0,0,3,1,Autre,Occasionnel,0,3,0-4 km
+9.276689752517717,Consulting,Tech Lead,1,17,17,14,35-44,4,2,3,3,2,3,4,Oui,20 %,0,1,2,3,Infra & Cloud,Occasionnel,5,15,5-9 km
+7.612336837167746,Consulting,Assistant de Direction,1,10,10,2,35-44,4,3,1,2,1,2,3,Oui,19 %,1,1,3,4,Infra & Cloud,Frequent,7,8,20-29 km
+7.747164966520335,Consulting,Consultant,0,4,3,0,25-34,4,3,1,4,2,3,3,Non,12 %,0,1,2,3,Infra & Cloud,Aucun,0,2,0-4 km
+8.356319965828153,Commercial,Cadre Commercial,1,5,5,2,25-34,3,2,2,1,1,4,3,Non,12 %,0,0,1,1,Marketing,Occasionnel,0,3,0-4 km
+8.183397369998433,Consulting,Assistant de Direction,2,7,4,2,45-59,3,3,1,1,2,3,3,Non,16 %,0,1,2,3,Entrepreunariat,Occasionnel,0,2,0-4 km
+8.059276223305648,Consulting,Consultant,0,6,5,2,18-24,1,2,1,4,4,2,3,Non,17 %,0,0,2,1,Infra & Cloud,Aucun,3,4,0-4 km
+8.783396232190894,Commercial,Cadre Commercial,1,10,10,8,25-34,2,3,2,2,4,3,3,Non,14 %,0,1,3,2,Infra & Cloud,Frequent,5,3,5-9 km
+7.9724660159745655,Commercial,Représentant Commercial,0,3,2,2,35-44,2,2,1,2,4,3,3,Non,19 %,0,1,3,3,Marketing,Occasionnel,1,2,5-9 km
+8.562548893137034,Consulting,Consultant,2,17,5,3,35-44,3,4,2,4,2,2,3,Oui,13 %,0,1,1,3,Infra & Cloud,Occasionnel,1,3,0-4 km
+7.7651449029361315,Consulting,Assistant de Direction,3,8,6,4,25-34,4,3,1,4,2,3,3,Oui,19 %,0,1,2,4,Infra & Cloud,Occasionnel,0,2,10-14 km
+7.937731775260109,Commercial,Représentant Commercial,6,5,3,2,25-34,2,2,1,3,3,3,3,Oui,19 %,1,3,3,3,Transformation Digitale,Occasionnel,0,2,0-4 km
+9.378985497953893,Commercial,Cadre Commercial,5,28,2,0,45-59,1,3,4,4,3,3,3,Non,14 %,0,1,3,3,Marketing,Occasionnel,2,2,5-9 km
+9.296884973376368,Consulting,Tech Lead,3,16,13,10,35-44,4,2,3,2,1,3,3,Non,16 %,0,0,2,3,Entrepreunariat,Occasionnel,4,8,20-29 km
+7.9976631270201,Commercial,Représentant Commercial,5,10,5,4,35-44,3,3,1,4,2,3,3,Non,15 %,0,1,3,2,Transformation Digitale,Frequent,0,0,20-29 km
+9.566335084610051,Consulting,Directeur Technique,6,33,12,9,45-59,4,3,4,4,3,3,3,Non,18 %,0,0,0,4,Infra & Cloud,Occasionnel,3,8,20-29 km
+8.623892810075294,Consulting,Manager,4,12,5,2,35-44,4,3,2,4,2,2,3,Non,13 %,0,1,2,3,Infra & Cloud,Frequent,2,2,0-4 km
+8.420241665339788,Commercial,Cadre Commercial,0,8,7,6,45-59,3,3,2,4,1,3,4,Oui,22 %,0,1,2,2,Marketing,Occasionnel,7,7,0-4 km
+8.941545475242885,Commercial,Cadre Commercial,1,10,10,0,35-44,1,3,3,2,4,3,3,Oui,13 %,0,0,2,2,Transformation Digitale,Aucun,0,9,15-19 km
+9.793951665467821,Consulting,Senior Manager,1,31,31,6,45-59,1,3,4,1,4,3,3,Non,11 %,0,1,3,4,Infra & Cloud,Aucun,14,7,0-4 km
+8.557374981049069,Ressources Humaines,Ressources Humaines,8,13,5,4,35-44,4,2,2,4,3,3,3,Non,11 %,0,2,2,3,Infra & Cloud,Occasionnel,0,4,0-4 km
+7.731053144007127,Ressources Humaines,Ressources Humaines,3,7,4,3,25-34,4,3,1,2,3,4,3,Oui,11 %,0,1,4,2,Ressources Humaines,Occasionnel,0,3,0-4 km
+7.935945103353701,Consulting,Consultant,1,1,1,0,25-34,1,3,1,4,3,1,4,Oui,24 %,1,0,2,4,Infra & Cloud,Occasionnel,0,1,20-29 km
+7.837159650001675,Consulting,Consultant,6,8,4,3,25-34,1,2,1,4,3,3,3,Non,14 %,0,3,5,1,Transformation Digitale,Occasionnel,0,3,5-9 km
+7.847762537473608,Consulting,Assistant de Direction,1,8,8,7,35-44,2,3,1,1,4,3,3,Oui,13 %,0,0,0,2,Infra & Cloud,Occasionnel,7,1,5-9 km
+8.498825534058053,Commercial,Cadre Commercial,1,4,4,2,25-34,1,3,2,4,2,3,3,Non,14 %,0,0,3,4,Transformation Digitale,Occasionnel,0,2,5-9 km
+7.7752758464868625,Consulting,Consultant,9,3,1,0,45-59,4,2,1,4,4,2,3,Oui,14 %,1,1,3,1,Infra & Cloud,Frequent,0,0,0-4 km
+8.469262657658687,Consulting,Tech Lead,4,4,1,0,35-44,1,3,2,2,3,4,4,Non,21 %,0,1,2,3,Infra & Cloud,Occasionnel,0,0,5-9 km
+7.623153068476902,Commercial,Représentant Commercial,1,2,2,2,18-24,3,2,1,3,4,2,3,Non,13 %,1,0,3,3,Transformation Digitale,Occasionnel,0,2,0-4 km
+7.898782356970309,Consulting,Assistant de Direction,1,1,1,0,18-24,4,3,1,4,1,2,3,Non,19 %,1,0,3,1,Autre,Occasionnel,0,0,15-19 km
+8.792853288640693,Consulting,Manager,0,17,16,8,35-44,3,3,2,4,1,2,3,Oui,17 %,0,1,2,1,Infra & Cloud,Occasionnel,4,11,10-14 km
+8.100161446936607,Commercial,Représentant Commercial,1,3,3,2,45-59,4,2,1,4,1,2,3,Oui,18 %,0,0,3,4,Infra & Cloud,Occasionnel,1,2,0-4 km
+8.336150816120663,Consulting,Tech Lead,0,4,3,2,18-24,2,3,2,3,1,4,3,Oui,19 %,1,1,3,1,Infra & Cloud,Occasionnel,0,2,0-4 km
+7.929846429742503,Consulting,Consultant,4,10,7,7,35-44,2,1,1,4,3,2,3,Oui,13 %,1,1,1,4,Infra & Cloud,Occasionnel,1,0,0-4 km
+7.774015077250727,Consulting,Assistant de Direction,5,6,2,2,25-34,3,3,1,3,2,3,3,Non,18 %,0,1,2,3,Transformation Digitale,Occasionnel,2,2,5-9 km
+7.785305182539862,Consulting,Consultant,7,8,2,2,35-44,4,3,1,1,4,1,4,Oui,21 %,1,0,2,3,Transformation Digitale,Occasionnel,2,2,5-9 km
+7.7488913372555315,Consulting,Assistant de Direction,1,1,1,1,25-34,2,3,1,3,3,3,3,Non,19 %,0,0,2,3,Infra & Cloud,Occasionnel,0,0,0-4 km
+7.605392364814935,Consulting,Consultant,1,1,1,0,25-34,2,3,1,2,2,3,3,Non,14 %,0,2,3,3,Infra & Cloud,Occasionnel,1,0,10-14 km
+8.739536422559677,Commercial,Cadre Commercial,7,10,5,4,35-44,3,2,2,3,1,3,3,Non,17 %,0,0,6,2,Transformation Digitale,Occasionnel,0,3,10-14 km
+7.937374696163295,Consulting,Assistant de Direction,3,6,3,2,25-34,3,2,1,1,2,3,3,Oui,11 %,0,0,1,4,Autre,Occasionnel,0,2,0-4 km
+9.26416545867109,Consulting,Manager,2,24,6,0,45-59,3,2,3,2,4,3,3,Oui,13 %,0,1,3,3,Entrepreunariat,Occasionnel,0,4,5-9 km
+7.753623546559746,Commercial,Représentant Commercial,3,13,7,7,25-34,2,2,1,3,2,4,3,Non,15 %,0,0,2,4,Infra & Cloud,Occasionnel,5,2,5-9 km
+8.297792626380861,Consulting,Manager,1,10,10,6,35-44,4,3,2,4,4,1,4,Oui,25 %,0,1,2,1,Infra & Cloud,Occasionnel,0,7,20-29 km
+8.909775673693389,Consulting,Consultant,4,29,26,9,45-59,1,3,3,2,3,2,3,Non,11 %,0,1,3,2,Autre,Occasionnel,1,7,5-9 km
+7.723120092266331,Consulting,Assistant de Direction,4,13,0,0,45-59,4,3,1,3,1,2,3,Non,17 %,0,2,2,4,Transformation Digitale,Occasionnel,0,0,20-29 km
+8.84404789894249,Commercial,Cadre Commercial,1,9,9,8,25-34,4,3,2,3,4,2,3,Non,13 %,0,1,2,2,Marketing,Aucun,0,0,20-29 km
+8.450839690866216,Consulting,Assistant de Direction,2,8,6,2,35-44,2,3,1,4,3,3,3,Non,18 %,0,0,6,4,Autre,Occasionnel,0,1,5-9 km
+9.51657428982249,Consulting,Directeur Technique,1,15,15,12,35-44,4,3,3,1,2,3,3,Non,13 %,0,1,3,3,Entrepreunariat,Occasionnel,5,11,0-4 km
+7.75491027202143,Consulting,Consultant,6,5,3,0,25-34,3,2,1,2,3,3,4,Non,20 %,0,0,3,3,Infra & Cloud,Aucun,0,2,0-4 km
+7.789040401657477,Commercial,Représentant Commercial,1,1,1,0,25-34,3,2,1,2,3,3,3,Oui,18 %,1,3,2,2,Marketing,Occasionnel,0,0,15-19 km
+9.18049952996516,Commercial,Cadre Commercial,2,11,1,0,35-44,1,2,3,2,2,2,3,Non,12 %,0,1,2,4,Marketing,Occasionnel,0,0,10-14 km
+8.365206834418355,Commercial,Cadre Commercial,1,7,7,7,25-34,3,2,2,1,2,3,3,Non,12 %,0,0,2,3,Transformation Digitale,Frequent,0,7,0-4 km
+8.459987717645458,Consulting,Consultant,2,20,18,13,35-44,4,3,1,1,3,3,3,Oui,13 %,0,0,3,3,Transformation Digitale,Occasionnel,2,17,5-9 km
+7.832014180505469,Consulting,Consultant,4,16,11,8,35-44,3,3,1,3,3,3,4,Non,21 %,0,0,6,4,Transformation Digitale,Occasionnel,3,9,0-4 km
+7.660114319173928,Commercial,Représentant Commercial,1,1,1,0,18-24,4,2,1,2,2,4,3,Oui,13 %,1,0,3,3,Autre,Occasionnel,0,0,20-29 km
+7.9976631270201,Consulting,Consultant,1,1,1,0,18-24,1,3,1,1,2,3,3,Non,19 %,1,0,2,3,Entrepreunariat,Occasionnel,0,0,0-4 km
+8.675222055641148,Consulting,Manager,0,10,9,7,25-34,4,3,2,4,3,1,3,Oui,11 %,0,2,2,3,Transformation Digitale,Occasionnel,8,5,10-14 km
+8.193676665955241,Consulting,Assistant de Direction,8,3,1,1,35-44,4,3,1,2,4,3,3,Oui,14 %,0,1,2,4,Transformation Digitale,Frequent,0,0,5-9 km
+8.813735892300215,Consulting,Tech Lead,1,8,8,7,25-34,3,3,2,1,3,4,3,Non,12 %,0,1,2,4,Transformation Digitale,Occasionnel,6,3,0-4 km
+9.242420265439595,Commercial,Cadre Commercial,1,16,16,7,35-44,3,2,3,4,1,3,3,Oui,11 %,1,1,6,1,Infra & Cloud,Occasionnel,3,7,0-4 km
+8.846496938558838,Consulting,Manager,0,6,5,0,25-34,2,2,2,4,1,3,3,Non,14 %,0,0,3,3,Infra & Cloud,Occasionnel,1,4,0-4 km
+9.26955223160803,Commercial,Cadre Commercial,5,17,14,1,35-44,1,2,3,3,3,1,3,Non,11 %,1,0,2,4,Infra & Cloud,Occasionnel,11,7,0-4 km
+8.400209835930418,Consulting,Consultant,1,9,9,7,45-59,3,3,2,2,2,2,3,Non,12 %,0,0,5,2,Infra & Cloud,Aucun,0,8,0-4 km
+7.67693714581808,Commercial,Représentant Commercial,1,3,3,1,25-34,3,3,1,4,2,3,3,Non,15 %,0,1,5,3,Entrepreunariat,Frequent,0,2,20-29 km
+8.434246270595311,Commercial,Cadre Commercial,1,5,5,2,35-44,3,3,2,3,2,3,3,Non,16 %,0,0,3,3,Transformation Digitale,Occasionnel,1,0,15-19 km
+9.746833742490752,Consulting,Senior Manager,2,26,9,8,45-59,4,3,4,4,2,2,3,Non,15 %,0,1,2,2,Infra & Cloud,Occasionnel,7,8,0-4 km
+7.8160138391590275,Consulting,Assistant de Direction,4,7,1,0,45-59,4,3,1,3,1,3,4,Non,24 %,1,0,4,3,Entrepreunariat,Occasionnel,0,0,0-4 km
+9.605957144029533,Commercial,Senior Manager,6,22,17,13,45-59,3,3,4,3,3,4,3,Non,13 %,0,1,3,2,Transformation Digitale,Occasionnel,15,2,0-4 km
+8.890823576004383,Commercial,Cadre Commercial,5,10,8,4,25-34,3,3,3,3,1,4,3,Non,11 %,0,1,2,2,Autre,Occasionnel,7,7,5-9 km
+8.64241515616962,Commercial,Cadre Commercial,1,6,5,3,35-44,3,3,2,4,2,3,3,Oui,13 %,0,0,1,3,Entrepreunariat,Aucun,1,3,10-14 km
+8.964951211714654,Commercial,Cadre Commercial,6,12,10,9,35-44,4,3,3,4,2,3,3,Non,13 %,0,1,2,4,Infra & Cloud,Occasionnel,0,8,0-4 km
+8.97221007835365,Commercial,Cadre Commercial,0,9,8,7,35-44,1,4,3,3,4,3,3,Non,18 %,0,0,3,5,Infra & Cloud,Occasionnel,0,7,0-4 km
+9.487593248937424,Commercial,Cadre Commercial,4,22,1,0,35-44,2,4,4,2,4,2,3,Oui,16 %,1,0,2,3,Infra & Cloud,Aucun,0,0,20-29 km
+8.53070154144103,Consulting,Tech Lead,1,20,19,10,45-59,3,4,2,3,3,4,3,Oui,19 %,0,0,3,4,Transformation Digitale,Frequent,2,7,15-19 km
+8.533066540572527,Commercial,Cadre Commercial,4,12,7,7,35-44,1,3,2,4,4,3,3,Non,13 %,0,2,3,4,Entrepreunariat,Aucun,0,7,5-9 km
+7.7501841622578365,Consulting,Assistant de Direction,0,4,3,2,25-34,3,2,1,1,1,3,4,Oui,22 %,1,0,0,2,Transformation Digitale,Aucun,1,2,5-9 km
+9.766808353620874,Commercial,Senior Manager,1,10,10,8,25-34,4,3,4,3,4,3,3,Non,11 %,0,0,2,3,Infra & Cloud,Aucun,6,0,15-19 km
+7.785305182539862,Consulting,Assistant de Direction,6,3,0,0,25-34,4,2,1,1,3,3,4,Oui,20 %,1,0,5,3,Infra & Cloud,Occasionnel,0,0,10-14 km
+8.146998697389993,Consulting,Assistant de Direction,3,5,3,2,25-34,2,3,1,4,1,3,3,Non,18 %,0,0,4,1,Infra & Cloud,Occasionnel,0,2,10-14 km
+7.7279755421055585,Consulting,Consultant,3,8,5,3,45-59,4,3,1,4,4,3,3,Non,14 %,0,2,2,4,Transformation Digitale,Occasionnel,0,2,0-4 km
+9.764225485202621,Consulting,Directeur Technique,9,32,5,4,45-59,4,3,4,4,3,2,4,Non,22 %,0,1,1,2,Transformation Digitale,Occasionnel,1,3,0-4 km
+8.610501368549889,Consulting,Manager,1,6,6,5,25-34,3,4,2,2,1,3,3,Oui,13 %,0,1,2,4,Autre,Frequent,1,2,0-4 km
+9.874058741845316,Consulting,Directeur Technique,2,21,18,16,35-44,1,3,5,3,2,4,3,Non,17 %,0,1,2,3,Transformation Digitale,Frequent,0,11,5-9 km
+7.941651252930556,Consulting,Consultant,9,4,2,2,25-34,3,3,1,2,2,3,3,Non,14 %,0,1,2,4,Entrepreunariat,Occasionnel,2,2,15-19 km
+8.198089248956116,Consulting,Consultant,1,9,9,8,45-59,4,3,2,1,3,3,3,Oui,15 %,0,1,2,2,Infra & Cloud,Aucun,0,8,20-29 km
+8.33423142973486,Commercial,Cadre Commercial,1,9,9,0,45-59,4,3,2,4,3,3,3,Oui,17 %,0,0,0,2,Infra & Cloud,Occasionnel,0,7,0-4 km
+7.665284718471351,Consulting,Assistant de Direction,4,7,5,2,25-34,1,3,1,3,2,3,3,Oui,11 %,1,0,2,3,Infra & Cloud,Occasionnel,0,1,20-29 km
+9.544953739112396,Consulting,Tech Lead,3,22,12,11,45-59,4,3,4,3,4,3,3,Oui,18 %,0,1,2,3,Infra & Cloud,Occasionnel,1,5,20-29 km
+7.895436006942965,Consulting,Assistant de Direction,0,3,2,1,35-44,3,3,1,3,2,2,3,Non,17 %,0,1,0,1,Transformation Digitale,Frequent,0,2,10-14 km
+9.291551627401006,Consulting,Tech Lead,6,13,8,7,45-59,4,3,3,3,2,3,3,Non,13 %,0,1,3,2,Transformation Digitale,Occasionnel,0,7,5-9 km
+8.384347278082808,Consulting,Tech Lead,1,5,4,2,18-24,4,2,2,3,2,3,3,Non,15 %,0,2,6,1,Transformation Digitale,Occasionnel,3,2,15-19 km
+8.227909837597483,Consulting,Consultant,1,5,4,2,35-44,3,2,1,2,4,1,4,Oui,24 %,1,1,2,4,Autre,Occasionnel,0,2,10-14 km
+8.330622620332868,Consulting,Tech Lead,1,4,4,3,25-34,3,3,2,1,3,3,3,Non,12 %,0,1,1,1,Infra & Cloud,Frequent,0,3,0-4 km
+6.9584483932976555,Consulting,Assistant de Direction,1,0,0,0,18-24,2,3,1,4,4,3,3,Non,15 %,0,0,2,2,Infra & Cloud,Aucun,0,0,5-9 km
+9.281730368062856,Consulting,Tech Lead,8,22,10,7,45-59,3,3,3,3,3,3,3,Non,11 %,0,1,2,3,Entrepreunariat,Occasionnel,0,8,15-19 km
+9.248502833070532,Consulting,Manager,1,16,16,10,35-44,3,3,3,3,3,2,3,Oui,11 %,0,1,3,4,Transformation Digitale,Occasionnel,10,1,20-29 km
+9.342858751676328,Consulting,Directeur Technique,0,9,8,7,25-34,2,4,3,1,3,2,3,Oui,12 %,0,3,4,2,Infra & Cloud,Occasionnel,1,7,5-9 km
+7.8636512654486515,Consulting,Assistant de Direction,1,1,1,0,18-24,4,2,1,1,1,3,3,Oui,15 %,1,0,2,3,Transformation Digitale,Occasionnel,0,0,10-14 km
+7.792761720816526,Consulting,Consultant,0,4,3,2,25-34,2,3,1,2,1,3,3,Non,17 %,1,0,3,3,Transformation Digitale,Frequent,1,2,5-9 km
+8.607582191143917,Consulting,Tech Lead,1,8,8,7,25-34,4,4,2,4,2,3,3,Non,12 %,0,0,2,2,Transformation Digitale,Occasionnel,1,3,0-4 km
+7.804659297056102,Consulting,Consultant,1,4,4,3,18-24,2,1,1,1,1,2,3,Non,15 %,0,1,3,1,Infra & Cloud,Occasionnel,1,1,5-9 km
+8.352554369474591,Consulting,Manager,2,19,2,2,45-59,1,2,2,3,4,3,3,Non,13 %,0,0,0,3,Infra & Cloud,Occasionnel,2,2,5-9 km
+9.305650551780507,Consulting,Manager,7,27,15,11,45-59,3,2,3,3,2,3,3,Non,14 %,0,0,3,4,Infra & Cloud,Occasionnel,4,8,0-4 km
+8.517992871586802,Consulting,Tech Lead,6,8,2,2,35-44,4,3,2,3,2,3,3,Non,14 %,0,0,6,2,Transformation Digitale,Occasionnel,2,1,5-9 km
+9.452737380212278,Consulting,Tech Lead,1,21,21,6,35-44,4,2,4,4,3,3,3,Non,16 %,0,1,3,1,Infra & Cloud,Occasionnel,11,8,0-4 km
+8.349484346990128,Consulting,Tech Lead,0,4,3,2,25-34,1,3,2,4,2,3,3,Non,18 %,0,1,2,4,Infra & Cloud,Occasionnel,2,2,0-4 km
+8.273336598504486,Consulting,Consultant,1,3,3,2,35-44,2,3,1,4,1,2,4,Non,20 %,0,1,4,3,Autre,Occasionnel,1,2,10-14 km
+9.814874894179525,Commercial,Senior Manager,6,21,1,0,35-44,4,3,5,3,2,4,3,Non,13 %,0,0,3,2,Marketing,Occasionnel,0,0,5-9 km
+7.7752758464868625,Consulting,Consultant,4,8,1,0,45-59,1,3,1,4,2,3,3,Non,18 %,0,0,5,3,Infra & Cloud,Occasionnel,0,0,5-9 km
+9.52711997525166,Consulting,Tech Lead,3,30,5,3,45-59,3,2,4,4,1,3,3,Oui,13 %,0,0,4,3,Infra & Cloud,Occasionnel,4,3,0-4 km
+8.471777327885755,Consulting,Manager,5,15,1,0,35-44,1,1,2,2,1,1,3,Non,15 %,1,0,2,2,Transformation Digitale,Occasionnel,0,0,10-14 km
+8.761863373274727,Consulting,Manager,3,17,8,7,45-59,3,3,2,2,4,3,3,Oui,14 %,0,2,3,4,Transformation Digitale,Frequent,6,7,15-19 km
+9.90218670680308,Consulting,Directeur Technique,1,21,21,16,35-44,2,1,5,3,2,3,4,Non,22 %,0,2,3,1,Infra & Cloud,Aucun,5,10,5-9 km
+8.833754223418396,Commercial,Cadre Commercial,8,19,1,0,35-44,2,3,2,4,3,3,3,Oui,12 %,0,0,1,4,Infra & Cloud,Occasionnel,0,0,0-4 km
+8.511175119090675,Commercial,Cadre Commercial,8,7,2,2,25-34,2,1,2,1,4,3,3,Non,18 %,1,0,6,2,Transformation Digitale,Aucun,2,2,20-29 km
+9.895757754474186,Commercial,Senior Manager,1,33,32,14,45-59,1,1,5,4,4,3,3,Non,15 %,1,1,3,1,Marketing,Occasionnel,6,9,0-4 km
+9.497097016351463,Commercial,Cadre Commercial,3,23,12,11,35-44,4,4,4,4,3,3,3,Oui,18 %,0,1,2,3,Transformation Digitale,Occasionnel,11,11,20-29 km
+8.7558950816463,Commercial,Cadre Commercial,0,19,18,7,45-59,4,3,2,3,1,3,3,Non,12 %,0,1,3,3,Infra & Cloud,Aucun,0,13,0-4 km
+7.917171988845776,Consulting,Consultant,1,18,17,13,35-44,3,4,1,1,3,3,3,Non,16 %,1,0,1,4,Infra & Cloud,Occasionnel,15,14,15-19 km
+9.294773427951013,Consulting,Tech Lead,1,21,21,6,35-44,4,3,3,1,3,3,3,Oui,13 %,0,0,2,3,Transformation Digitale,Frequent,2,8,20-29 km
+7.759187438507795,Commercial,Représentant Commercial,0,3,2,2,25-34,2,2,1,4,4,2,3,Non,19 %,0,0,2,1,Infra & Cloud,Aucun,2,2,5-9 km
+9.77854771798028,Commercial,Senior Manager,3,26,9,3,45-59,4,3,4,4,2,4,3,Non,13 %,0,1,4,2,Infra & Cloud,Occasionnel,1,1,10-14 km
+8.300528606199737,Consulting,Consultant,9,10,8,7,25-34,4,3,1,3,2,3,3,Non,12 %,0,0,2,4,Transformation Digitale,Aucun,7,7,20-29 km
+9.182557990963732,Commercial,Cadre Commercial,0,16,15,1,25-34,2,4,2,4,4,2,3,Non,11 %,0,1,2,4,Marketing,Occasionnel,0,9,0-4 km
+9.384713758920963,Commercial,Senior Manager,3,14,6,4,45-59,2,3,3,4,3,1,3,Oui,14 %,0,1,1,2,Entrepreunariat,Occasionnel,0,4,0-4 km
+7.686162303492906,Ressources Humaines,Ressources Humaines,1,6,6,3,45-59,2,3,1,2,1,3,3,Non,16 %,0,0,3,4,Transformation Digitale,Occasionnel,0,4,20-29 km
+8.926118971153382,Commercial,Cadre Commercial,2,30,15,7,45-59,3,2,3,2,1,3,3,Non,12 %,0,1,2,3,Marketing,Frequent,6,12,0-4 km
+8.483636407887394,Consulting,Consultant,7,9,1,0,35-44,1,3,2,3,2,2,3,Non,14 %,1,1,3,3,Autre,Occasionnel,0,0,15-19 km
+7.622174594817622,Consulting,Assistant de Direction,6,6,3,2,25-34,1,3,1,1,2,3,3,Oui,14 %,1,1,2,3,Infra & Cloud,Frequent,1,2,0-4 km
+7.7057128238944275,Commercial,Représentant Commercial,1,1,1,1,25-34,3,3,1,3,4,3,3,Oui,19 %,0,1,2,4,Infra & Cloud,Occasionnel,0,0,10-14 km
+6.959398512133975,Commercial,Représentant Commercial,1,1,1,0,25-34,4,3,1,2,2,3,4,Non,22 %,0,0,5,1,Transformation Digitale,Occasionnel,0,0,10-14 km
+7.945201132412759,Consulting,Assistant de Direction,3,8,2,2,35-44,3,3,1,3,1,3,3,Non,16 %,0,1,2,4,Autre,Frequent,2,2,0-4 km
+9.86464276871256,Consulting,Directeur Technique,2,29,8,1,45-59,2,3,5,3,4,2,3,Oui,11 %,0,1,2,4,Transformation Digitale,Occasionnel,7,7,0-4 km
+8.32069157104845,Consulting,Manager,3,8,4,3,35-44,4,3,2,2,1,2,3,Non,15 %,0,0,3,3,Autre,Occasionnel,0,1,0-4 km
+9.035629778183564,Commercial,Cadre Commercial,1,8,7,7,35-44,3,3,2,1,2,2,3,Non,14 %,0,1,3,3,Marketing,Occasionnel,7,5,20-29 km
+7.60489448081162,Consulting,Assistant de Direction,1,5,5,3,25-34,1,2,1,3,3,3,3,Non,13 %,0,2,5,1,Transformation Digitale,Frequent,1,3,0-4 km
+9.884712397209794,Consulting,Directeur Technique,9,23,2,2,45-59,4,3,5,4,4,3,3,Non,17 %,0,2,0,4,Transformation Digitale,Occasionnel,2,2,0-4 km
+9.276783328524896,Commercial,Cadre Commercial,6,13,9,4,45-59,3,2,3,3,2,3,3,Non,11 %,0,1,4,4,Infra & Cloud,Occasionnel,7,0,0-4 km
+7.987184748233473,Consulting,Assistant de Direction,2,18,5,4,45-59,1,3,1,3,2,3,3,Non,19 %,0,1,4,3,Transformation Digitale,Frequent,0,3,5-9 km
+9.089189170412032,Consulting,Tech Lead,0,15,14,8,35-44,4,2,3,4,2,2,3,Non,11 %,0,0,2,5,Transformation Digitale,Occasionnel,7,8,10-14 km
+9.726571360400724,Consulting,Senior Manager,7,31,9,7,45-59,3,2,4,1,2,4,3,Non,15 %,0,0,3,1,Transformation Digitale,Aucun,6,2,0-4 km
+9.28720881623276,Commercial,Cadre Commercial,5,18,1,0,35-44,3,2,3,4,3,3,3,Non,13 %,0,1,5,3,Transformation Digitale,Occasionnel,0,0,20-29 km
+7.751045117971802,Commercial,Représentant Commercial,1,2,2,2,18-24,4,3,1,4,2,3,3,Oui,14 %,1,0,3,3,Marketing,Frequent,0,2,5-9 km
+7.256297239690681,Consulting,Consultant,1,1,1,0,18-24,3,2,1,1,1,2,3,Non,13 %,1,0,6,3,Infra & Cloud,Occasionnel,1,0,10-14 km
+8.437283808187935,Consulting,Assistant de Direction,8,19,16,13,45-59,4,2,2,1,1,3,4,Oui,23 %,0,3,2,4,Infra & Cloud,Occasionnel,1,7,5-9 km
+7.808729306744399,Consulting,Assistant de Direction,9,18,10,0,45-59,1,3,1,3,3,4,3,Oui,12 %,1,3,2,4,Infra & Cloud,Occasionnel,2,7,0-4 km
+9.07371849443322,Consulting,Manager,1,10,10,7,25-34,2,2,3,1,1,2,3,Non,12 %,1,0,2,2,Entrepreunariat,Aucun,1,9,20-29 km
+8.282988692742602,Consulting,Consultant,1,6,5,3,25-34,1,2,1,1,1,3,3,Non,16 %,0,2,2,2,Transformation Digitale,Occasionnel,1,3,0-4 km
+9.206131527202128,Consulting,Tech Lead,0,7,6,2,25-34,3,3,2,1,3,2,3,Non,15 %,0,1,1,3,Autre,Occasionnel,0,2,20-29 km
+8.124743020385568,Consulting,Assistant de Direction,1,10,10,6,35-44,2,4,1,3,3,3,3,Non,13 %,0,0,3,2,Entrepreunariat,Occasionnel,0,8,5-9 km
+9.085230560933338,Consulting,Manager,0,20,19,9,35-44,3,2,3,3,1,2,3,Non,18 %,0,1,4,1,Infra & Cloud,Occasionnel,1,9,15-19 km
+9.24212969446559,Consulting,Manager,4,14,11,10,35-44,1,3,3,4,4,3,4,Non,20 %,0,1,6,4,Entrepreunariat,Occasionnel,11,1,20-29 km
+8.438582790834326,Consulting,Consultant,1,3,3,2,25-34,1,1,1,3,4,3,3,Non,19 %,0,3,4,5,Infra & Cloud,Aucun,1,2,5-9 km
+9.303557453687317,Consulting,Tech Lead,3,23,3,2,45-59,4,3,3,2,2,3,3,Non,18 %,0,1,4,1,Infra & Cloud,Frequent,1,2,0-4 km
+8.205491613120236,Consulting,Assistant de Direction,3,10,8,7,25-34,3,3,2,3,4,4,3,Non,13 %,0,0,4,3,Autre,Occasionnel,1,7,10-14 km
+9.257510176452573,Ressources Humaines,Ressources Humaines,9,24,20,6,35-44,2,2,3,1,4,3,3,Non,14 %,1,1,1,2,Transformation Digitale,Occasionnel,3,6,0-4 km
+8.87066300440602,Consulting,Manager,4,9,3,2,25-34,4,2,3,4,3,3,3,Non,15 %,0,1,2,3,Infra & Cloud,Occasionnel,1,2,5-9 km
+9.167745974343763,Commercial,Cadre Commercial,0,9,8,7,35-44,4,3,3,1,1,3,4,Oui,22 %,1,0,2,3,Entrepreunariat,Occasionnel,4,7,0-4 km
+8.413830678421084,Consulting,Assistant de Direction,1,14,13,7,25-34,1,2,2,3,2,3,4,Non,22 %,1,0,4,4,Transformation Digitale,Frequent,3,8,20-29 km
+7.699842407396986,Consulting,Consultant,1,4,4,2,25-34,1,3,1,3,4,2,3,Non,16 %,0,1,5,2,Infra & Cloud,Occasionnel,2,2,15-19 km
+8.956350940490871,Consulting,Manager,0,7,6,2,25-34,1,3,2,4,3,2,3,Non,17 %,0,0,1,1,Infra & Cloud,Frequent,0,4,0-4 km
+8.809116258125274,Commercial,Cadre Commercial,2,8,1,0,35-44,4,2,2,4,3,3,3,Oui,14 %,0,3,5,4,Infra & Cloud,Occasionnel,0,0,10-14 km
+8.213923595622743,Consulting,Consultant,1,7,7,7,25-34,4,3,1,4,2,4,3,Oui,15 %,1,1,3,1,Entrepreunariat,Occasionnel,5,6,0-4 km
+7.774015077250727,Consulting,Consultant,1,1,1,1,25-34,1,3,1,3,3,2,4,Non,20 %,1,1,0,3,Transformation Digitale,Occasionnel,0,0,20-29 km
+7.746732907753622,Consulting,Assistant de Direction,4,5,2,2,25-34,1,2,1,2,2,3,4,Oui,20 %,1,0,0,3,Transformation Digitale,Occasionnel,2,2,20-29 km
+9.779397167305078,Consulting,Senior Manager,0,23,22,6,35-44,4,3,4,1,4,3,3,Non,17 %,0,1,3,2,Transformation Digitale,Occasionnel,13,7,0-4 km
+7.862112211662748,Consulting,Consultant,1,1,1,0,25-34,1,2,1,2,1,3,3,Non,15 %,1,2,2,3,Transformation Digitale,Frequent,0,0,0-4 km
+8.461469042643875,Commercial,Cadre Commercial,3,5,0,0,45-59,4,3,2,3,4,3,3,Oui,14 %,1,0,4,4,Autre,Frequent,0,0,0-4 km
+8.3670677328386,Commercial,Cadre Commercial,0,4,3,2,25-34,4,3,2,2,3,3,3,Non,17 %,0,1,3,3,Infra & Cloud,Frequent,0,2,5-9 km
+7.9996785794994505,Consulting,Assistant de Direction,3,6,0,0,25-34,3,2,1,4,4,3,3,Non,17 %,0,3,2,4,Infra & Cloud,Aucun,0,0,0-4 km
+9.734240155229445,Consulting,Senior Manager,2,27,5,4,45-59,1,4,4,4,3,2,4,Non,22 %,0,0,3,4,Transformation Digitale,Aucun,2,1,0-4 km
+8.629449873761905,Commercial,Cadre Commercial,1,15,15,10,45-59,2,2,2,3,4,3,3,Non,13 %,0,1,2,4,Infra & Cloud,Aucun,4,12,5-9 km
+9.253974408996244,Consulting,Manager,7,18,8,6,45-59,2,3,3,2,4,3,3,Non,19 %,0,0,4,4,Infra & Cloud,Occasionnel,4,0,5-9 km
+9.075779878580487,Commercial,Cadre Commercial,0,9,8,7,35-44,3,2,3,3,2,3,3,Oui,14 %,0,2,2,4,Marketing,Occasionnel,2,7,10-14 km
+7.83002808253384,Consulting,Assistant de Direction,4,11,7,5,25-34,3,3,1,4,1,3,4,Non,22 %,0,1,1,4,Infra & Cloud,Occasionnel,1,7,20-29 km
+8.94324493313279,Consulting,Tech Lead,0,10,9,7,25-34,4,3,3,2,2,2,3,Non,17 %,0,3,3,3,Transformation Digitale,Occasionnel,1,7,0-4 km
+9.768011412973678,Commercial,Senior Manager,3,23,12,9,45-59,1,3,4,3,4,3,3,Non,12 %,0,1,3,1,Marketing,Occasionnel,4,9,0-4 km
+8.902727664035522,Commercial,Cadre Commercial,7,10,1,0,35-44,4,3,3,2,3,3,3,Non,16 %,0,0,2,2,Marketing,Occasionnel,0,0,0-4 km
+9.289243969571649,Consulting,Tech Lead,8,18,8,7,35-44,3,3,3,1,3,3,3,Non,11 %,0,1,1,3,Infra & Cloud,Frequent,0,1,20-29 km
+9.406729185981574,Consulting,Manager,7,21,18,7,35-44,1,3,4,4,4,3,3,Non,11 %,1,3,4,3,Infra & Cloud,Frequent,11,5,0-4 km
+9.88466144828608,Consulting,Directeur Technique,1,21,20,7,35-44,3,2,5,3,1,4,3,Non,14 %,0,0,2,3,Transformation Digitale,Occasionnel,4,9,10-14 km
+7.635786861395585,Consulting,Assistant de Direction,1,2,2,2,18-24,4,2,1,2,3,4,3,Oui,11 %,0,0,6,1,Entrepreunariat,Occasionnel,2,2,0-4 km
+8.82217476094608,Consulting,Consultant,9,9,5,4,35-44,3,3,2,2,3,2,3,Non,15 %,0,0,2,3,Infra & Cloud,Aucun,0,3,5-9 km
+8.959311617172437,Consulting,Tech Lead,2,18,11,9,35-44,1,3,2,4,1,3,4,Non,20 %,0,0,0,4,Infra & Cloud,Aucun,0,9,15-19 km
+7.934513463882263,Commercial,Représentant Commercial,0,3,2,2,25-34,3,4,1,4,1,3,3,Non,12 %,0,1,4,3,Infra & Cloud,Frequent,2,2,20-29 km
+8.07153089355666,Consulting,Assistant de Direction,0,6,5,3,25-34,1,2,1,2,1,1,3,Non,17 %,0,0,2,1,Infra & Cloud,Occasionnel,0,4,0-4 km
+8.51097389160232,Commercial,Cadre Commercial,1,5,5,2,35-44,4,3,2,4,4,3,3,Non,11 %,0,1,3,2,Marketing,Frequent,0,2,10-14 km
+9.481969279105716,Commercial,Cadre Commercial,6,22,9,8,45-59,4,2,4,2,2,3,3,Non,17 %,0,1,3,4,Entrepreunariat,Occasionnel,2,3,5-9 km
+8.302513718514158,Consulting,Tech Lead,2,5,3,2,25-34,4,3,2,3,4,2,3,Non,11 %,0,0,3,2,Infra & Cloud,Frequent,0,2,0-4 km
+8.09925056179696,Consulting,Assistant de Direction,0,8,7,5,25-34,4,3,1,2,4,2,3,Non,14 %,0,2,2,3,Infra & Cloud,Frequent,1,1,10-14 km
+8.360071435644025,Consulting,Consultant,4,16,1,0,35-44,2,1,2,4,1,3,3,Non,19 %,0,0,3,3,Transformation Digitale,Occasionnel,0,0,20-29 km
+8.528528701079983,Consulting,Tech Lead,1,10,10,7,25-34,2,2,2,4,3,2,3,Oui,15 %,0,1,2,1,Transformation Digitale,Occasionnel,1,2,5-9 km
+7.953318346560431,Ressources Humaines,Ressources Humaines,1,7,7,6,35-44,3,4,1,3,4,4,3,Non,13 %,0,1,2,3,Ressources Humaines,Occasionnel,5,0,0-4 km
+7.902487437162855,Consulting,Assistant de Direction,1,3,3,1,25-34,3,2,1,3,4,3,3,Oui,14 %,0,1,2,3,Infra & Cloud,Frequent,0,2,5-9 km
+7.552237287560802,Consulting,Consultant,1,0,0,0,18-24,3,3,1,3,4,3,3,Non,12 %,1,0,0,1,Transformation Digitale,Aucun,0,0,5-9 km
+9.014933575633572,Commercial,Cadre Commercial,0,6,5,2,25-34,1,3,2,1,1,3,3,Oui,17 %,1,0,3,4,Marketing,Occasionnel,0,3,5-9 km
+8.469472455204826,Consulting,Consultant,3,6,1,0,35-44,2,3,1,4,1,3,3,Oui,11 %,0,1,4,4,Infra & Cloud,Occasionnel,0,0,10-14 km
+7.8674885686991285,Consulting,Consultant,1,2,2,2,25-34,3,3,1,3,3,2,3,Non,12 %,1,1,5,3,Transformation Digitale,Frequent,2,2,15-19 km
+8.653819788948063,Consulting,Manager,7,9,6,2,35-44,3,2,2,4,3,3,3,Non,13 %,0,2,2,2,Transformation Digitale,Occasionnel,1,3,20-29 km
+7.8399193600125825,Consulting,Assistant de Direction,1,4,4,2,25-34,4,2,1,3,3,3,3,Non,13 %,0,1,0,3,Infra & Cloud,Occasionnel,2,2,5-9 km
+8.65084957622891,Commercial,Cadre Commercial,1,6,6,5,25-34,2,3,2,3,1,2,4,Non,20 %,0,0,3,1,Infra & Cloud,Occasionnel,1,3,5-9 km
+8.371936178759098,Ressources Humaines,Ressources Humaines,1,6,5,4,35-44,3,3,1,3,2,1,3,Non,17 %,0,0,2,4,Entrepreunariat,Occasionnel,1,4,5-9 km
+8.900685318713995,Commercial,Cadre Commercial,1,11,11,8,25-34,4,2,3,1,1,1,3,Non,13 %,1,1,3,1,Infra & Cloud,Occasionnel,3,10,20-29 km
+9.51044496442652,Consulting,Directeur Technique,9,20,18,7,35-44,2,3,3,3,3,2,3,Non,17 %,0,0,3,4,Transformation Digitale,Frequent,2,13,5-9 km
+9.529448434427817,Commercial,Cadre Commercial,0,22,21,9,35-44,3,3,4,1,2,2,3,Oui,12 %,1,0,2,3,Infra & Cloud,Frequent,13,14,10-14 km
+8.547916364059079,Commercial,Cadre Commercial,7,9,6,4,35-44,2,3,2,1,4,4,3,Non,13 %,0,0,3,4,Marketing,Occasionnel,1,5,0-4 km
+7.7226775164680035,Consulting,Consultant,6,10,8,0,35-44,4,2,1,3,2,3,3,Non,12 %,0,1,2,4,Transformation Digitale,Occasionnel,1,7,0-4 km
+8.188133414510478,Consulting,Consultant,8,6,4,3,18-24,4,3,1,2,4,3,4,Non,22 %,0,0,2,3,Transformation Digitale,Occasionnel,1,2,20-29 km
+7.830425617820331,Consulting,Consultant,1,1,1,1,25-34,3,3,1,4,4,2,3,Oui,11 %,1,0,4,1,Infra & Cloud,Occasionnel,0,0,10-14 km
+8.394121193826242,Consulting,Consultant,1,8,8,7,25-34,1,4,1,4,2,3,4,Non,22 %,0,1,2,4,Transformation Digitale,Occasionnel,0,7,0-4 km
+8.791638037085997,Commercial,Cadre Commercial,1,10,10,3,25-34,3,2,2,3,1,3,3,Non,18 %,0,1,3,3,Marketing,Occasionnel,1,4,10-14 km
+8.394573477868327,Consulting,Assistant de Direction,3,16,1,1,35-44,3,2,2,4,4,1,3,Oui,13 %,0,1,3,2,Transformation Digitale,Frequent,0,0,20-29 km
+9.237469039364436,Consulting,Tech Lead,2,15,7,7,35-44,3,2,3,2,2,4,3,Non,18 %,0,1,2,3,Infra & Cloud,Occasionnel,6,4,0-4 km
+8.583729715216482,Consulting,Manager,0,14,13,9,25-34,4,2,2,1,3,3,4,Non,20 %,0,0,3,3,Transformation Digitale,Frequent,4,9,0-4 km
+7.773594467360194,Consulting,Consultant,1,2,2,2,35-44,4,2,1,4,2,4,3,Non,13 %,0,1,2,4,Autre,Frequent,2,2,0-4 km
+8.584290934948731,Commercial,Cadre Commercial,8,7,4,3,35-44,1,1,2,3,2,2,3,Non,13 %,1,0,2,3,Marketing,Occasionnel,1,3,5-9 km
+7.947325027016463,Commercial,Représentant Commercial,1,1,1,0,25-34,3,3,1,1,3,3,3,Non,12 %,0,3,3,1,Infra & Cloud,Aucun,0,0,0-4 km
+9.900683625203394,Consulting,Senior Manager,4,28,5,2,45-59,4,3,5,1,4,3,3,Non,13 %,0,1,2,4,Entrepreunariat,Occasionnel,4,2,0-4 km
+8.049427057110695,Consulting,Consultant,1,10,10,8,25-34,2,3,1,4,1,3,3,Non,13 %,0,1,5,1,Transformation Digitale,Occasionnel,0,8,5-9 km
+7.845024417241484,Consulting,Assistant de Direction,1,1,1,1,18-24,3,3,1,1,3,3,4,Non,25 %,0,0,4,2,Infra & Cloud,Occasionnel,0,0,5-9 km
+8.4069317971587,Consulting,Assistant de Direction,4,7,3,2,45-59,1,3,1,3,3,2,3,Oui,19 %,0,1,2,3,Transformation Digitale,Occasionnel,0,2,5-9 km
+8.775703886567738,Consulting,Tech Lead,1,14,14,8,35-44,4,2,2,4,2,2,3,Non,13 %,0,1,2,3,Infra & Cloud,Occasionnel,3,11,0-4 km
+8.017637159908478,Consulting,Consultant,1,2,2,2,18-24,1,2,1,3,1,2,3,Non,12 %,0,0,2,3,Infra & Cloud,Occasionnel,1,2,0-4 km
+7.98514393119862,Consulting,Assistant de Direction,1,6,6,4,35-44,3,3,1,3,3,3,3,Oui,11 %,1,0,4,4,Infra & Cloud,Occasionnel,0,2,10-14 km
+9.831293132987641,Consulting,Senior Manager,3,26,7,7,45-59,4,3,5,3,2,3,3,Non,18 %,0,1,6,2,Transformation Digitale,Occasionnel,4,7,5-9 km
+7.682021510826875,Consulting,Assistant de Direction,0,6,5,4,25-34,2,1,1,4,1,2,3,Oui,18 %,0,1,2,1,Infra & Cloud,Occasionnel,1,3,15-19 km
+7.956476798036782,Consulting,Assistant de Direction,0,1,0,0,18-24,3,2,1,4,2,3,3,Oui,11 %,1,1,5,4,Infra & Cloud,Frequent,0,0,0-4 km
+9.74384682996523,Commercial,Senior Manager,8,28,26,15,45-59,3,3,4,1,1,3,4,Non,23 %,0,0,2,3,Marketing,Occasionnel,15,9,0-4 km
+7.736743682453495,Consulting,Assistant de Direction,2,6,0,0,35-44,4,1,1,3,4,3,3,Non,13 %,0,0,3,3,Infra & Cloud,Aucun,0,0,15-19 km
+8.188966863648876,Ressources Humaines,Ressources Humaines,1,5,5,4,25-34,2,3,1,3,4,3,3,Non,13 %,0,1,2,3,Ressources Humaines,Occasionnel,1,4,0-4 km
+7.653494909661253,Consulting,Assistant de Direction,6,5,1,0,35-44,1,2,1,1,1,1,3,Non,17 %,1,1,2,2,Infra & Cloud,Aucun,0,0,5-9 km
+8.32263709695394,Commercial,Cadre Commercial,8,8,4,3,25-34,3,3,2,1,3,3,3,Non,19 %,0,3,3,4,Infra & Cloud,Occasionnel,0,3,20-29 km
+8.372860820526318,Commercial,Cadre Commercial,5,5,0,0,35-44,2,3,2,2,4,3,3,Non,12 %,0,3,2,4,Transformation Digitale,Frequent,0,0,0-4 km
+9.790150867197125,Consulting,Senior Manager,2,32,2,2,45-59,4,3,4,1,3,3,4,Non,22 %,0,1,3,3,Transformation Digitale,Frequent,2,2,0-4 km
+8.069968149059841,Consulting,Consultant,1,6,6,5,25-34,4,2,1,1,3,3,3,Non,12 %,0,3,2,4,Transformation Digitale,Occasionnel,3,3,15-19 km
+9.856500761311791,Consulting,Directeur Technique,5,25,4,2,45-59,4,3,5,2,1,3,3,Non,11 %,0,1,2,2,Infra & Cloud,Occasionnel,0,3,15-19 km
+9.101306450952048,Commercial,Cadre Commercial,3,15,7,7,35-44,3,3,2,1,4,3,3,Oui,15 %,0,3,2,4,Infra & Cloud,Occasionnel,1,7,15-19 km
+7.701200180857446,Consulting,Consultant,1,1,1,0,18-24,4,3,1,2,1,1,3,Non,13 %,1,1,3,2,Infra & Cloud,Occasionnel,0,0,15-19 km
+8.420682291035394,Commercial,Cadre Commercial,1,10,10,7,25-34,2,3,2,3,1,2,3,Non,12 %,0,1,3,3,Transformation Digitale,Frequent,0,1,20-29 km
+7.91644286012226,Consulting,Consultant,1,7,7,7,35-44,3,1,1,3,3,3,3,Non,14 %,0,1,4,4,Infra & Cloud,Occasionnel,1,7,5-9 km
+8.158229916959494,Consulting,Consultant,1,10,10,7,25-34,3,3,2,3,1,2,3,Non,13 %,0,3,4,4,Infra & Cloud,Occasionnel,8,9,5-9 km
+8.421122722665503,Consulting,Assistant de Direction,1,20,20,11,35-44,4,3,2,4,2,3,4,Non,25 %,0,0,3,4,Autre,Occasionnel,13,17,20-29 km
+7.893198869544609,Commercial,Représentant Commercial,1,2,2,1,18-24,3,4,1,4,4,3,3,Non,17 %,0,0,2,3,Marketing,Occasionnel,2,2,20-29 km
+8.906528917594517,Consulting,Tech Lead,2,12,6,3,45-59,4,3,2,4,3,2,3,Non,11 %,0,1,3,4,Entrepreunariat,Occasionnel,1,4,0-4 km
+8.744009988096744,Ressources Humaines,Ressources Humaines,7,10,4,3,35-44,4,4,2,1,1,4,3,Non,16 %,0,1,3,5,Transformation Digitale,Aucun,0,3,0-4 km
+8.560444233410552,Commercial,Cadre Commercial,0,12,11,7,,2,4,2,4,2,3,3,Oui,18 %,0,1,3,4,Marketing,Occasionnel,1,9,5-9 km
+7.917171988845776,Consulting,Consultant,1,2,2,2,25-34,3,2,1,2,3,3,4,Non,20 %,0,1,2,3,Autre,Frequent,2,2,10-14 km
+8.51699317141357,Consulting,Assistant de Direction,4,10,8,7,25-34,4,3,2,3,4,3,3,Oui,14 %,0,0,2,2,Infra & Cloud,Frequent,0,7,0-4 km
+9.235325624670091,Consulting,Tech Lead,2,17,7,7,35-44,3,1,3,1,3,3,4,Oui,21 %,0,1,2,3,Entrepreunariat,Occasionnel,7,7,0-4 km
+7.930925372483388,Consulting,Assistant de Direction,0,15,14,10,25-34,1,3,1,4,2,3,3,Non,13 %,0,1,5,3,Transformation Digitale,Occasionnel,4,10,5-9 km
+8.832441791585824,Commercial,Cadre Commercial,7,7,5,1,35-44,2,2,2,2,2,4,3,Non,12 %,0,1,2,3,Entrepreunariat,Occasionnel,1,3,10-14 km
+8.507344855361422,Commercial,Cadre Commercial,0,5,4,3,25-34,3,3,2,4,2,3,3,Non,14 %,0,0,4,4,Infra & Cloud,Occasionnel,1,1,10-14 km
+8.183118079394745,Consulting,Assistant de Direction,0,12,11,9,25-34,4,3,1,2,1,3,4,Oui,21 %,0,1,2,3,Transformation Digitale,Occasionnel,5,7,0-4 km
+9.487365864239434,Consulting,Directeur Technique,3,20,1,0,35-44,1,3,3,1,3,3,3,Oui,17 %,0,0,6,5,Transformation Digitale,Frequent,0,0,20-29 km
+9.247443459927686,Commercial,Cadre Commercial,4,16,13,2,35-44,3,2,3,4,2,2,3,Oui,11 %,0,1,6,2,Marketing,Aucun,4,12,5-9 km
+7.71244383427499,Consulting,Assistant de Direction,1,9,9,7,25-34,1,3,1,1,4,2,3,Oui,14 %,0,2,3,3,Infra & Cloud,Occasionnel,6,8,10-14 km
+9.259416209622776,Consulting,Tech Lead,7,33,5,4,45-59,4,3,3,3,1,1,3,Non,17 %,0,1,2,4,Infra & Cloud,Frequent,1,4,0-4 km
+7.60688453121963,Consulting,Assistant de Direction,1,10,10,5,35-44,1,4,1,4,4,3,3,Non,13 %,0,1,5,1,Infra & Cloud,Occasionnel,7,7,0-4 km
+7.528331766707247,Consulting,Assistant de Direction,1,1,1,1,18-24,1,2,1,2,2,4,4,Oui,25 %,1,0,2,3,Transformation Digitale,Aucun,0,0,10-14 km
+8.232440158470336,Consulting,Assistant de Direction,1,3,3,2,25-34,1,3,1,4,1,3,3,Non,15 %,0,3,5,3,Infra & Cloud,Occasionnel,1,2,0-4 km
+9.785829509067895,Consulting,Directeur Technique,3,36,10,9,45-59,4,3,4,4,1,3,3,Non,14 %,0,0,2,3,Infra & Cloud,Occasionnel,0,9,0-4 km
+8.829665432675236,Consulting,Manager,1,6,6,5,25-34,3,3,2,1,4,2,3,Oui,12 %,0,0,2,2,Transformation Digitale,Occasionnel,0,1,10-14 km
+8.826587830773668,Consulting,Manager,1,10,10,9,25-34,3,2,2,1,2,3,3,Non,19 %,0,0,2,3,Transformation Digitale,Occasionnel,1,8,20-29 km
+8.551014739891748,Commercial,Cadre Commercial,5,13,6,1,45-59,3,2,2,4,4,3,3,Non,17 %,0,0,2,3,Infra & Cloud,Occasionnel,0,5,0-4 km
+9.890452970265668,Consulting,Directeur Technique,3,25,8,7,35-44,3,1,5,4,2,3,3,Non,14 %,0,1,2,3,Infra & Cloud,Occasionnel,0,7,0-4 km
+9.836920308264014,Consulting,Senior Manager,2,23,1,0,45-59,1,2,5,3,3,4,3,Non,13 %,0,1,2,2,Transformation Digitale,Occasionnel,0,0,0-4 km
+8.214194414852564,Consulting,Assistant de Direction,1,12,11,10,35-44,3,3,1,2,3,2,3,Non,12 %,0,0,2,3,Entrepreunariat,Frequent,0,7,0-4 km
+7.847762537473608,Consulting,Consultant,5,7,1,0,45-59,4,4,1,2,3,2,3,Non,11 %,0,0,4,2,Entrepreunariat,Occasionnel,0,0,0-4 km
+7.831220214604293,Consulting,Assistant de Direction,1,5,5,3,25-34,1,3,1,3,2,3,3,Non,11 %,0,3,2,2,Infra & Cloud,Occasionnel,0,3,0-4 km
+8.798454696065095,Consulting,Manager,1,6,6,0,25-34,3,3,2,4,2,3,3,Oui,11 %,0,2,2,3,Infra & Cloud,Occasionnel,1,0,5-9 km
+9.812796687251625,Consulting,Directeur Technique,6,25,1,0,45-59,4,2,5,4,3,4,3,Non,12 %,0,0,3,3,Infra & Cloud,Occasionnel,0,0,0-4 km
+9.688126141663973,Consulting,Directeur Technique,3,9,7,7,25-34,4,2,4,4,2,2,3,Non,14 %,0,2,2,3,Infra & Cloud,Occasionnel,1,7,0-4 km
+7.857867559331803,Consulting,Assistant de Direction,0,2,1,0,25-34,3,4,1,3,4,2,3,Non,17 %,0,0,5,3,Entrepreunariat,Occasionnel,0,0,20-29 km
+9.809945808127765,Commercial,Senior Manager,7,26,22,9,35-44,2,3,5,2,3,3,3,Non,11 %,0,1,5,3,Marketing,Occasionnel,3,10,5-9 km
+9.033722518098907,Commercial,Cadre Commercial,0,10,9,8,25-34,4,4,3,3,4,3,3,Oui,14 %,0,2,3,5,Marketing,Occasionnel,0,8,10-14 km
+8.00469951054955,Consulting,Assistant de Direction,1,1,1,0,18-24,2,4,1,4,4,3,3,Oui,12 %,0,0,2,3,Infra & Cloud,Occasionnel,0,1,20-29 km
+7.1098794630722715,Consulting,Assistant de Direction,1,1,1,0,18-24,4,3,1,3,4,3,4,Non,22 %,0,1,2,2,Infra & Cloud,Occasionnel,0,1,0-4 km
+7.020190708311925,Commercial,Représentant Commercial,1,1,1,0,25-34,3,1,1,4,4,3,3,Oui,14 %,1,0,4,1,Infra & Cloud,Frequent,1,0,20-29 km
+7.964155718840937,Consulting,Assistant de Direction,1,8,8,5,25-34,3,3,1,4,2,2,4,Oui,20 %,0,0,2,2,Infra & Cloud,Occasionnel,2,2,0-4 km
+9.842941052668094,Commercial,Senior Manager,2,26,24,10,45-59,1,1,5,2,1,3,3,Oui,16 %,1,0,2,3,Marketing,Occasionnel,1,11,0-4 km
+9.516206114861593,Consulting,Manager,1,34,33,9,45-59,4,2,4,2,4,3,3,Oui,15 %,0,1,3,1,Transformation Digitale,Aucun,15,0,5-9 km
+7.873217054862741,Consulting,Consultant,1,2,2,2,18-24,1,2,1,3,3,1,4,Non,20 %,1,0,2,2,Infra & Cloud,Frequent,2,2,10-14 km
+9.84108009240751,Commercial,Senior Manager,2,26,11,4,45-59,4,2,5,2,3,3,3,Non,14 %,0,1,2,2,Marketing,Occasionnel,0,8,0-4 km
+8.420462002456466,Commercial,Cadre Commercial,0,4,3,2,25-34,3,3,2,1,4,3,3,Oui,12 %,0,0,3,3,Marketing,Occasionnel,0,2,0-4 km
+9.895858525371636,Commercial,Senior Manager,4,31,29,10,45-59,4,3,5,2,1,2,4,Oui,24 %,0,1,5,3,Infra & Cloud,Frequent,11,10,5-9 km
+9.26036786557583,Consulting,Tech Lead,6,25,9,7,45-59,4,3,3,4,4,2,3,Non,12 %,0,0,6,4,Transformation Digitale,Occasionnel,5,4,15-19 km
+8.399535147948004,Consulting,Consultant,4,15,11,8,25-34,3,3,2,2,3,4,3,Non,13 %,0,2,2,3,Transformation Digitale,Frequent,5,10,15-19 km
+7.675546002537848,Consulting,Consultant,0,5,4,2,25-34,4,3,1,3,3,2,3,Oui,11 %,0,0,2,4,Transformation Digitale,Frequent,0,2,0-4 km
+9.862196698118247,Consulting,Senior Manager,1,26,25,9,35-44,3,4,5,1,4,2,3,Non,14 %,0,2,4,2,Infra & Cloud,Occasionnel,14,13,0-4 km
+8.409830673087738,Ressources Humaines,Ressources Humaines,4,14,10,9,25-34,3,2,2,2,4,4,3,Non,11 %,0,2,5,3,Infra & Cloud,Frequent,1,8,10-14 km
+8.162516250140179,Consulting,Assistant de Direction,0,4,3,2,35-44,3,3,1,3,4,3,3,Oui,14 %,0,0,3,1,Infra & Cloud,Occasionnel,2,2,5-9 km
+7.771910256435763,Consulting,Assistant de Direction,6,18,1,0,35-44,2,4,2,2,4,3,3,Oui,16 %,0,0,2,4,Transformation Digitale,Occasionnel,0,0,5-9 km
+9.23327534325868,Commercial,Cadre Commercial,3,23,21,7,35-44,4,2,3,4,4,4,3,Non,14 %,0,0,3,4,Marketing,Occasionnel,15,17,0-4 km
+8.596189197642735,Consulting,Tech Lead,9,18,16,14,35-44,3,3,2,2,4,3,3,Oui,11 %,0,0,2,4,Infra & Cloud,Occasionnel,5,12,0-4 km
+8.984568369308281,Consulting,Manager,1,10,10,7,35-44,1,3,3,4,4,3,3,Non,11 %,1,1,2,3,Transformation Digitale,Occasionnel,0,5,15-19 km
+8.260492856573185,Consulting,Consultant,1,2,2,2,25-34,4,2,1,4,2,3,3,Oui,12 %,0,1,2,3,Infra & Cloud,Frequent,2,2,0-4 km
+7.951207156472972,Consulting,Consultant,0,8,7,0,45-59,2,2,1,3,2,2,3,Non,14 %,0,0,6,2,Transformation Digitale,Frequent,7,7,5-9 km
+8.454466361507933,Consulting,Tech Lead,7,10,8,4,25-34,3,3,2,3,3,3,3,Oui,18 %,0,0,3,2,Transformation Digitale,Aucun,1,7,5-9 km
+8.113726085970747,Consulting,Consultant,3,10,7,7,25-34,2,3,1,3,1,3,3,Oui,13 %,1,2,2,3,Entrepreunariat,Occasionnel,7,7,5-9 km
+7.640603826393634,Consulting,Assistant de Direction,2,5,3,2,25-34,4,3,1,1,2,2,3,Non,11 %,0,0,2,3,Entrepreunariat,Occasionnel,1,2,0-4 km
+7.64826303090192,Consulting,Assistant de Direction,1,2,2,2,25-34,4,3,1,2,4,2,3,Non,18 %,0,0,3,3,Transformation Digitale,Occasionnel,2,1,0-4 km
+8.733916174927524,Commercial,Cadre Commercial,1,10,10,7,25-34,3,4,2,4,3,4,3,Non,15 %,0,2,4,3,Transformation Digitale,Occasionnel,0,8,5-9 km
+9.801565562810744,Consulting,Senior Manager,3,22,0,0,45-59,2,3,5,2,3,3,4,Non,22 %,0,0,4,3,Transformation Digitale,Frequent,0,0,20-29 km
+9.748236267264836,Consulting,Senior Manager,6,21,19,9,35-44,3,2,4,2,4,3,3,Oui,13 %,0,2,4,4,Transformation Digitale,Occasionnel,15,2,10-14 km
+7.771910256435763,Consulting,Assistant de Direction,1,2,2,2,45-59,1,3,1,3,4,3,3,Non,12 %,0,2,3,4,Infra & Cloud,Occasionnel,2,2,20-29 km
+8.493719835230594,Consulting,Consultant,1,10,10,4,25-34,4,3,2,3,1,3,3,Non,18 %,1,1,3,2,Infra & Cloud,Occasionnel,1,1,5-9 km
+8.270013062273787,Consulting,Assistant de Direction,0,6,5,2,35-44,3,3,1,1,1,3,3,Non,13 %,1,0,2,3,Transformation Digitale,Occasionnel,0,3,20-29 km
+8.439880088313567,Consulting,Consultant,0,10,9,2,25-34,1,2,2,4,1,3,3,Non,12 %,0,1,6,3,Entrepreunariat,Occasionnel,6,7,5-9 km
+8.867145589594143,Consulting,Manager,3,10,7,7,35-44,4,3,3,3,1,3,3,Non,12 %,0,0,0,4,Entrepreunariat,Occasionnel,1,7,10-14 km
+8.138564737261632,Ressources Humaines,Ressources Humaines,6,10,7,6,45-59,4,3,1,1,3,4,3,Non,12 %,0,0,3,2,Infra & Cloud,Occasionnel,5,7,0-4 km
+8.80612448326845,Consulting,Consultant,0,10,9,8,25-34,3,1,2,4,1,3,3,Non,11 %,0,3,6,3,Infra & Cloud,Aucun,7,5,0-4 km
+9.733944008101389,Consulting,Directeur Technique,4,25,3,2,45-59,4,3,4,1,2,3,3,Oui,11 %,0,0,2,3,Infra & Cloud,Occasionnel,1,2,20-29 km
+9.115480090952223,Commercial,Cadre Commercial,2,9,5,4,35-44,4,2,3,2,3,3,3,Oui,12 %,1,0,2,4,Marketing,Occasionnel,1,0,20-29 km
+9.041566627727496,Commercial,Cadre Commercial,9,10,8,7,45-59,2,3,3,2,3,2,3,Oui,19 %,1,0,2,3,Infra & Cloud,Occasionnel,7,7,5-9 km
+9.385721231090805,Consulting,Senior Manager,1,9,9,1,25-34,2,3,3,1,4,3,4,Oui,23 %,0,2,2,4,Transformation Digitale,Occasionnel,0,8,15-19 km
+8.419580362549237,Consulting,Tech Lead,0,9,8,7,35-44,1,3,2,3,1,3,3,Non,11 %,0,0,6,2,Infra & Cloud,Occasionnel,1,7,15-19 km
+9.195531256322475,Commercial,Cadre Commercial,1,10,10,8,25-34,4,3,3,3,1,2,3,Oui,19 %,0,1,5,4,Infra & Cloud,Aucun,9,6,0-4 km
+8.72453251118548,Commercial,Cadre Commercial,1,19,19,2,35-44,3,1,2,2,1,3,3,Non,13 %,0,0,4,2,Transformation Digitale,Aucun,11,9,10-14 km
+7.741967899820685,Commercial,Représentant Commercial,1,3,3,2,25-34,4,3,1,2,1,4,3,Oui,11 %,1,0,2,3,Infra & Cloud,Frequent,2,2,0-4 km
+7.767687277186908,Consulting,Consultant,4,10,3,2,35-44,1,3,1,1,3,4,3,Non,12 %,1,0,4,3,Infra & Cloud,Occasionnel,1,2,0-4 km
+9.790430830243832,Consulting,Senior Manager,0,21,20,8,35-44,3,3,4,3,4,2,3,Oui,13 %,0,0,3,1,Infra & Cloud,Aucun,2,10,0-4 km
+9.862040362621954,Consulting,Senior Manager,4,23,19,9,45-59,4,1,5,3,4,3,3,Non,14 %,0,1,5,2,Transformation Digitale,Occasionnel,9,11,0-4 km
+9.889287203134987,Ressources Humaines,Senior Manager,6,36,7,3,45-59,4,3,5,2,1,3,3,Non,14 %,0,0,4,4,Infra & Cloud,Occasionnel,7,7,5-9 km
+8.173293438966228,Consulting,Assistant de Direction,9,6,4,2,35-44,3,3,1,3,2,3,3,Non,16 %,0,1,0,2,Infra & Cloud,Aucun,0,0,15-19 km
+9.04793908261736,Consulting,Manager,0,10,9,7,25-34,4,3,3,4,4,2,3,Non,11 %,0,1,0,3,Infra & Cloud,Occasionnel,1,6,5-9 km
+8.447199819595703,Consulting,Assistant de Direction,1,9,9,8,35-44,3,3,2,4,3,3,3,Non,13 %,0,0,4,3,Infra & Cloud,Occasionnel,8,8,0-4 km
+8.319717386850606,Commercial,Cadre Commercial,0,10,9,3,35-44,3,3,2,1,4,3,3,Non,17 %,0,1,2,3,Marketing,Frequent,1,7,0-4 km
+8.354674261918463,Consulting,Assistant de Direction,1,9,9,6,35-44,3,3,2,3,2,3,3,Oui,11 %,0,0,3,4,Infra & Cloud,Frequent,1,1,0-4 km
+9.54873932271967,Ressources Humaines,Senior Manager,1,33,33,9,45-59,3,3,4,2,2,3,3,Oui,11 %,0,1,2,3,Infra & Cloud,Occasionnel,0,10,5-9 km
+8.83840674707681,Commercial,Cadre Commercial,3,11,7,7,35-44,2,3,2,1,4,3,3,Non,15 %,0,1,3,2,Infra & Cloud,Occasionnel,1,7,0-4 km
+8.72029728739272,Commercial,Cadre Commercial,1,10,10,8,25-34,3,3,2,1,4,4,3,Non,12 %,0,0,6,2,Transformation Digitale,Occasionnel,9,6,15-19 km
+8.207946941048617,Consulting,Consultant,3,7,3,2,25-34,4,3,1,4,3,2,3,Non,11 %,0,3,6,1,Transformation Digitale,Occasionnel,1,2,15-19 km
+9.211239967219019,Consulting,Tech Lead,7,31,10,9,45-59,3,2,3,1,4,2,3,Oui,14 %,1,0,0,4,Transformation Digitale,Occasionnel,5,9,5-9 km
+7.778211474512493,Consulting,Consultant,3,7,4,2,35-44,2,3,1,2,3,3,4,Non,22 %,0,1,3,4,Infra & Cloud,Occasionnel,0,3,0-4 km
+8.442469645220301,Commercial,Cadre Commercial,2,17,15,7,35-44,1,4,2,1,4,2,3,Non,16 %,0,1,2,3,Marketing,Frequent,6,13,5-9 km
+8.97449144816442,Consulting,Tech Lead,1,11,10,9,45-59,4,3,3,4,3,3,3,Non,11 %,0,0,2,3,Infra & Cloud,Occasionnel,0,8,0-4 km
+7.837948916025283,Commercial,Représentant Commercial,8,5,1,0,25-34,3,4,1,4,2,3,3,Non,14 %,0,1,4,3,Transformation Digitale,Occasionnel,0,0,10-14 km
+9.483644576482009,Consulting,Tech Lead,3,29,5,2,45-59,4,2,4,2,2,2,3,Non,16 %,0,0,1,2,Entrepreunariat,Occasionnel,0,3,10-14 km
+7.385230923066573,Consulting,Consultant,1,0,0,0,18-24,4,3,1,4,3,4,3,Non,15 %,0,0,5,3,Infra & Cloud,Aucun,0,0,0-4 km
+8.587465244401569,Consulting,Consultant,0,10,9,7,35-44,4,2,2,4,2,3,3,Non,12 %,0,1,0,3,Transformation Digitale,Occasionnel,0,0,0-4 km
+8.531490496117062,Commercial,Cadre Commercial,3,8,6,2,25-34,4,1,2,4,2,3,4,Non,20 %,0,0,3,1,Infra & Cloud,Frequent,0,0,0-4 km
+9.524859098381523,Commercial,Cadre Commercial,6,24,19,7,45-59,1,4,4,3,3,2,3,Oui,17 %,1,0,2,4,Marketing,Occasionnel,3,8,10-14 km
+9.503233841478497,Consulting,Tech Lead,4,33,19,16,45-59,4,3,4,2,1,3,3,Oui,12 %,0,1,0,3,Infra & Cloud,Occasionnel,15,9,20-29 km
+7.615791072035833,Consulting,Assistant de Direction,1,5,5,4,25-34,1,2,1,3,3,3,4,Non,20 %,0,3,2,1,Entrepreunariat,Aucun,0,0,20-29 km
+8.760609847570002,Consulting,Manager,5,15,12,11,35-44,2,4,2,3,2,3,4,Non,20 %,0,3,0,1,Transformation Digitale,Occasionnel,11,8,0-4 km
+8.599694412927981,Consulting,Consultant,4,10,8,7,25-34,2,3,2,3,1,3,3,Non,13 %,0,2,1,3,Transformation Digitale,Occasionnel,7,7,20-29 km
+7.932362154339751,Commercial,Représentant Commercial,7,3,1,0,25-34,3,2,1,4,3,4,3,Non,14 %,1,0,3,3,Infra & Cloud,Frequent,0,0,0-4 km
+8.437067146936952,Commercial,Cadre Commercial,0,5,4,2,35-44,4,3,2,3,3,2,3,Oui,18 %,1,1,0,4,Marketing,Frequent,3,2,15-19 km
+7.8674885686991285,Consulting,Assistant de Direction,1,4,4,2,35-44,4,4,1,3,4,3,3,Non,11 %,0,3,2,3,Infra & Cloud,Frequent,0,3,5-9 km
+8.808070154764538,Consulting,Manager,1,14,14,11,25-34,3,3,2,4,4,4,3,Non,11 %,0,0,2,4,Entrepreunariat,Occasionnel,4,11,0-4 km
+8.460622839927844,Commercial,Cadre Commercial,1,5,5,3,25-34,3,2,2,1,3,3,3,Non,11 %,0,1,0,3,Infra & Cloud,Occasionnel,0,4,20-29 km
+8.729073550451737,Consulting,Tech Lead,1,10,10,2,25-34,4,3,2,3,4,2,3,Oui,15 %,1,2,3,4,Transformation Digitale,Occasionnel,6,7,20-29 km
+8.71948076085107,Commercial,Cadre Commercial,3,8,5,4,35-44,1,2,2,4,4,4,3,Oui,12 %,0,2,2,4,Infra & Cloud,Occasionnel,1,4,20-29 km
+9.268326221174837,Commercial,Cadre Commercial,2,14,4,2,45-59,2,3,3,2,2,3,3,Non,11 %,0,0,5,3,Marketing,Frequent,3,2,0-4 km
+8.60666819784384,Consulting,Assistant de Direction,3,12,6,2,35-44,4,3,2,4,1,2,3,Oui,14 %,0,2,4,3,Infra & Cloud,Frequent,3,3,20-29 km
+8.005367067316664,Consulting,Assistant de Direction,7,8,6,4,35-44,3,3,1,3,4,3,3,Oui,15 %,0,0,2,1,Infra & Cloud,Occasionnel,1,3,0-4 km
+9.21024036697585,Commercial,Cadre Commercial,6,8,5,4,25-34,2,3,2,4,1,4,3,Non,13 %,0,0,2,1,Infra & Cloud,Frequent,1,2,5-9 km
+8.313607139317558,Commercial,Cadre Commercial,0,4,3,2,25-34,3,3,2,2,1,2,3,Oui,13 %,0,3,3,1,Marketing,Occasionnel,1,2,0-4 km
+9.298442820197728,Consulting,Manager,3,13,6,4,35-44,3,3,3,3,2,3,4,Non,21 %,0,1,2,2,Infra & Cloud,Aucun,0,5,20-29 km
+8.73761303680885,Commercial,Cadre Commercial,2,6,3,2,25-34,1,4,2,3,2,2,3,Non,11 %,0,0,3,1,Infra & Cloud,Occasionnel,1,2,15-19 km
+9.49160187662504,Consulting,Tech Lead,2,24,5,3,45-59,4,4,4,3,2,2,3,Oui,11 %,0,1,3,2,Transformation Digitale,Frequent,0,2,20-29 km
+8.31434234336979,Consulting,Assistant de Direction,1,20,20,7,35-44,1,2,2,3,1,1,3,Oui,14 %,0,0,3,3,Transformation Digitale,Occasionnel,1,8,5-9 km
+8.660427359502146,Commercial,Cadre Commercial,1,6,6,2,25-34,4,2,2,4,4,3,3,Oui,11 %,0,0,3,3,Marketing,Occasionnel,4,4,10-14 km
+7.781138509845015,Consulting,Assistant de Direction,1,8,8,2,25-34,4,3,1,3,4,3,3,Oui,13 %,1,0,2,4,Infra & Cloud,Occasionnel,7,7,15-19 km
+8.270013062273787,Consulting,Assistant de Direction,0,5,4,3,25-34,1,2,1,4,4,3,3,Non,12 %,0,0,2,1,Transformation Digitale,Occasionnel,1,1,0-4 km
+9.72913416539135,Ressources Humaines,Senior Manager,0,21,20,7,35-44,3,3,4,1,3,3,3,Non,14 %,0,1,5,3,Ressources Humaines,Occasionnel,0,9,10-14 km
+7.989899374942939,Consulting,Consultant,9,12,5,4,45-59,3,3,1,1,3,1,3,Non,13 %,0,0,2,4,Autre,Occasionnel,0,4,5-9 km
+8.196987927258897,Consulting,Consultant,4,8,3,2,35-44,1,3,1,3,1,3,3,Non,18 %,0,0,6,3,Transformation Digitale,Occasionnel,0,2,10-14 km
+9.14452103093889,Consulting,Tech Lead,2,10,2,2,35-44,3,3,3,4,3,3,3,Non,11 %,0,0,2,2,Infra & Cloud,Frequent,2,2,15-19 km
+8.080237416216702,Consulting,Consultant,4,7,3,2,25-34,1,3,1,4,2,2,3,Non,11 %,0,1,2,3,Entrepreunariat,Occasionnel,0,2,0-4 km
+8.182838710766026,Consulting,Consultant,0,8,7,7,25-34,3,4,1,1,4,3,3,Non,12 %,0,0,2,3,Autre,Occasionnel,0,7,5-9 km
+8.985820874482043,Ressources Humaines,Ressources Humaines,1,10,10,9,25-34,2,2,3,1,1,2,3,Non,13 %,0,0,3,3,Autre,Occasionnel,0,9,15-19 km
+8.36287583103188,Consulting,Consultant,3,20,4,3,45-59,1,2,2,1,1,3,4,Non,20 %,1,0,2,2,Infra & Cloud,Frequent,1,3,20-29 km
+8.929832503272403,Consulting,Manager,0,9,8,7,25-34,3,3,3,4,1,3,3,Oui,12 %,1,0,1,1,Autre,Frequent,7,7,10-14 km
+9.760136677640245,Consulting,Directeur Technique,6,29,20,7,45-59,4,3,4,4,4,2,3,Non,19 %,0,0,3,3,Transformation Digitale,Occasionnel,12,7,0-4 km
+9.888475432415625,Consulting,Directeur Technique,3,32,9,8,45-59,4,3,5,1,3,3,4,Oui,21 %,0,1,3,3,Transformation Digitale,Occasionnel,1,5,0-4 km
+9.597845154707354,Consulting,Directeur Technique,2,31,7,7,45-59,2,4,4,4,4,4,3,Non,13 %,0,2,4,4,Transformation Digitale,Occasionnel,0,0,0-4 km
+9.13550906135318,Commercial,Cadre Commercial,3,15,5,4,35-44,1,3,2,2,4,3,3,Oui,16 %,0,0,3,4,Marketing,Occasionnel,0,1,0-4 km
+7.215239978730097,Commercial,Représentant Commercial,1,1,1,0,25-34,2,1,1,3,2,3,3,Non,12 %,1,0,3,4,Infra & Cloud,Frequent,0,0,0-4 km
+8.472195825485501,Commercial,Cadre Commercial,7,8,3,2,25-34,4,3,2,1,2,3,3,Non,14 %,0,2,3,4,Marketing,Occasionnel,0,2,5-9 km
+9.70643807033756,Consulting,Directeur Technique,3,9,3,2,25-34,1,3,4,2,3,4,3,Non,11 %,0,0,3,5,Infra & Cloud,Occasionnel,1,0,5-9 km
+8.005367067316664,Consulting,Assistant de Direction,5,10,4,3,25-34,4,3,1,1,3,3,3,Non,14 %,0,2,2,4,Autre,Frequent,1,3,0-4 km
+7.140453043101158,Consulting,Assistant de Direction,1,1,1,0,25-34,1,2,1,2,3,4,3,Non,12 %,1,0,3,3,Infra & Cloud,Occasionnel,0,0,5-9 km
+7.649692623711514,Consulting,Consultant,0,6,5,0,25-34,2,3,1,1,2,4,3,Non,14 %,0,0,3,1,Infra & Cloud,Occasionnel,1,4,10-14 km
+8.667507952075105,Consulting,Consultant,1,10,10,4,35-44,1,2,2,4,3,2,3,Non,16 %,0,0,2,4,Infra & Cloud,Occasionnel,1,8,0-4 km
+8.639056779173078,Commercial,Cadre Commercial,4,11,3,2,35-44,3,2,2,1,1,2,3,Non,13 %,0,2,3,4,Marketing,Occasionnel,0,2,15-19 km
+8.137688184977605,Consulting,Assistant de Direction,7,17,6,5,45-59,1,3,1,4,3,2,3,Non,12 %,0,1,2,3,Entrepreunariat,Occasionnel,1,2,0-4 km
+8.38958706681109,Commercial,Représentant Commercial,3,6,3,2,25-34,1,2,1,1,1,3,3,Non,12 %,1,0,2,2,Infra & Cloud,Occasionnel,2,2,5-9 km
+8.160803920954665,Consulting,Consultant,0,7,6,5,35-44,3,4,1,3,1,1,3,Non,14 %,0,0,2,2,Entrepreunariat,Aucun,1,3,5-9 km
+7.633853559681768,Consulting,Assistant de Direction,2,5,3,2,45-59,1,3,1,1,4,4,4,Non,22 %,0,1,3,2,Infra & Cloud,Occasionnel,1,0,0-4 km
+9.75091895389152,Consulting,Directeur Technique,3,26,20,17,45-59,1,3,4,3,2,4,3,Non,19 %,0,2,2,4,Transformation Digitale,Occasionnel,5,6,0-4 km
+8.333991247194975,Commercial,Cadre Commercial,1,5,5,4,18-24,4,3,2,3,3,3,3,Oui,12 %,0,2,3,1,Transformation Digitale,Occasionnel,0,3,0-4 km
+9.127502093667179,Commercial,Cadre Commercial,4,7,4,3,25-34,4,3,2,4,3,2,3,Non,12 %,0,1,3,5,Marketing,Occasionnel,0,3,5-9 km
+8.100161446936607,Consulting,Consultant,5,7,5,4,25-34,4,2,1,2,1,2,3,Non,17 %,0,1,2,3,Infra & Cloud,Occasionnel,0,2,0-4 km
+7.662937850461535,Consulting,Assistant de Direction,2,7,4,2,35-44,2,4,1,3,1,2,3,Oui,12 %,0,0,5,5,Transformation Digitale,Occasionnel,0,3,5-9 km
+8.288031567776464,Consulting,Consultant,3,11,8,7,35-44,3,3,2,3,3,4,3,Non,11 %,0,2,2,4,Autre,Aucun,0,7,5-9 km
+9.286745703178589,Commercial,Cadre Commercial,1,13,13,7,25-34,1,3,3,4,1,3,3,Non,18 %,0,1,5,2,Infra & Cloud,Occasionnel,9,9,5-9 km
+9.219993629004321,Commercial,Cadre Commercial,4,28,7,7,45-59,1,3,3,4,1,4,3,Non,11 %,1,1,1,3,Marketing,Occasionnel,4,3,5-9 km
+8.20166019080868,Consulting,Consultant,2,11,1,0,35-44,1,2,1,1,2,4,4,Oui,23 %,1,0,2,3,Infra & Cloud,Aucun,0,0,0-4 km
+8.915566545710645,Consulting,Tech Lead,1,10,10,8,25-34,3,4,3,2,1,3,3,Non,11 %,1,0,2,5,Infra & Cloud,Frequent,4,7,0-4 km
+9.292104673778823,Consulting,Manager,2,24,7,7,45-59,2,1,3,1,2,3,3,Oui,18 %,0,1,2,3,Transformation Digitale,Occasionnel,0,7,20-29 km
+7.6544432264701125,Ressources Humaines,Ressources Humaines,9,8,3,2,25-34,4,4,1,2,4,3,3,Non,18 %,0,0,3,2,Transformation Digitale,Occasionnel,0,2,5-9 km
+8.222285073872717,Consulting,Consultant,6,7,2,2,25-34,2,3,1,4,3,1,3,Oui,13 %,1,1,2,3,Infra & Cloud,Frequent,2,2,0-4 km
+9.14644164612595,Consulting,Tech Lead,4,10,3,1,45-59,2,3,3,4,4,4,3,Oui,18 %,0,2,4,3,Entrepreunariat,Occasionnel,1,2,20-29 km
+8.610136937058975,Commercial,Cadre Commercial,4,15,2,2,45-59,3,3,2,1,1,3,3,Non,11 %,0,3,3,3,Marketing,Occasionnel,2,2,5-9 km
+7.916807490937603,Ressources Humaines,Ressources Humaines,1,2,2,2,25-34,1,3,1,3,4,3,3,Non,15 %,1,0,0,4,Entrepreunariat,Occasionnel,2,2,5-9 km
+9.52937575208596,Consulting,Directeur Technique,2,16,9,8,35-44,4,2,3,2,3,3,3,Non,11 %,0,1,5,1,Transformation Digitale,Aucun,4,8,5-9 km
+9.043577154098081,Commercial,Cadre Commercial,0,6,5,4,25-34,4,3,2,1,4,3,3,Non,18 %,0,0,4,3,Transformation Digitale,Occasionnel,1,3,5-9 km
+8.059276223305648,Consulting,Consultant,3,7,5,2,35-44,3,2,1,3,4,3,3,Non,14 %,0,0,5,3,Infra & Cloud,Aucun,0,3,5-9 km
+9.71709773156622,Consulting,Directeur Technique,4,35,9,8,45-59,4,4,4,2,2,2,3,Non,12 %,0,0,2,3,Transformation Digitale,Occasionnel,8,8,0-4 km
+8.802672840312818,Consulting,Manager,2,20,3,2,45-59,1,3,2,3,2,2,3,Non,14 %,0,1,0,4,Entrepreunariat,Occasionnel,1,2,5-9 km
+7.76046702921342,Consulting,Assistant de Direction,2,8,3,1,35-44,3,3,1,3,3,4,3,Non,14 %,0,1,3,3,Transformation Digitale,Occasionnel,1,2,0-4 km
+8.137688184977605,Consulting,Assistant de Direction,1,6,5,2,35-44,4,3,1,2,3,2,3,Non,13 %,0,0,3,3,Infra & Cloud,Occasionnel,1,3,20-29 km
+8.383433201236713,Commercial,Cadre Commercial,0,5,4,3,25-34,4,3,2,1,1,3,3,Non,14 %,0,2,2,3,Transformation Digitale,Frequent,0,3,5-9 km
+8.468002947225466,Commercial,Cadre Commercial,3,15,13,9,25-34,4,1,2,1,4,3,3,Non,18 %,0,0,2,3,Autre,Occasionnel,3,12,0-4 km
+8.57583938684897,Commercial,Cadre Commercial,8,4,2,1,25-34,4,3,2,3,3,2,3,Non,15 %,0,2,2,1,Infra & Cloud,Occasionnel,2,2,15-19 km
+8.20903626577507,Consulting,Consultant,1,12,12,9,35-44,1,3,1,4,3,3,3,Non,13 %,0,0,3,2,Transformation Digitale,Frequent,5,8,5-9 km
+8.469891918298224,Commercial,Cadre Commercial,7,11,1,0,35-44,1,3,2,3,3,2,3,Non,12 %,0,1,4,5,Marketing,Frequent,0,0,0-4 km
+7.150701457592526,Consulting,Assistant de Direction,1,1,1,0,25-34,3,3,1,3,2,2,3,Non,13 %,0,2,2,3,Entrepreunariat,Aucun,0,0,5-9 km
+8.497194544909547,Consulting,Assistant de Direction,0,13,12,9,45-59,2,4,2,3,1,2,4,Non,24 %,0,1,2,2,Infra & Cloud,Occasionnel,2,8,0-4 km
+9.255982729854884,Consulting,Manager,3,29,8,7,45-59,3,3,3,2,2,3,3,Non,14 %,0,2,3,4,Infra & Cloud,Occasionnel,0,7,5-9 km
+9.74143910058173,Consulting,Directeur Technique,7,16,14,8,25-34,2,3,4,1,4,2,3,Non,14 %,0,2,3,3,Transformation Digitale,Frequent,6,9,15-19 km
+7.975908360165538,Commercial,Représentant Commercial,3,5,3,2,25-34,1,3,1,3,4,4,3,Non,15 %,1,1,3,3,Entrepreunariat,Frequent,1,2,0-4 km
+8.659733878198347,Commercial,Cadre Commercial,5,7,5,3,25-34,1,3,2,2,1,1,3,Non,11 %,1,0,4,3,Entrepreunariat,Frequent,0,0,10-14 km
+8.433811582477187,Commercial,Cadre Commercial,0,16,15,9,25-34,1,2,2,2,3,4,4,Oui,23 %,1,0,2,4,Transformation Digitale,Occasionnel,10,10,20-29 km
+7.785305182539862,Commercial,Représentant Commercial,1,1,1,0,35-44,4,3,1,3,1,3,3,Non,13 %,0,1,3,1,Infra & Cloud,Occasionnel,0,0,5-9 km
+8.062432791583195,Consulting,Consultant,2,4,0,0,18-24,2,3,1,1,3,2,3,Oui,11 %,1,0,2,3,Transformation Digitale,Frequent,0,0,5-9 km
+7.617759576608505,Commercial,Représentant Commercial,1,1,1,0,18-24,4,3,1,2,3,3,3,Non,13 %,0,1,2,2,Infra & Cloud,Aucun,0,0,10-14 km
+9.231122911158712,Consulting,Tech Lead,5,16,2,2,35-44,2,3,3,3,2,2,3,Oui,18 %,0,0,2,1,Transformation Digitale,Frequent,2,2,0-4 km
+9.061956366209925,Commercial,Cadre Commercial,1,10,10,7,25-34,3,2,2,3,3,3,3,Non,14 %,0,2,3,3,Infra & Cloud,Occasionnel,0,4,15-19 km
+7.632885505395133,Ressources Humaines,Ressources Humaines,0,6,5,3,25-34,3,3,1,3,1,4,4,Non,21 %,0,1,3,3,Infra & Cloud,Occasionnel,1,3,0-4 km
+8.3030093814735,Consulting,Manager,0,4,3,2,45-59,4,3,2,3,2,3,3,Oui,16 %,0,0,2,4,Infra & Cloud,Occasionnel,1,2,0-4 km
+8.252967195000798,Consulting,Consultant,8,8,5,4,25-34,1,2,1,2,4,3,3,Non,11 %,0,0,5,4,Transformation Digitale,Occasionnel,0,2,0-4 km
+8.432070937999402,Commercial,Cadre Commercial,3,11,5,4,45-59,3,3,2,3,3,2,3,Oui,17 %,0,1,4,3,Transformation Digitale,Occasionnel,1,2,10-14 km
+7.848543482456679,Consulting,Consultant,7,8,0,0,25-34,3,2,1,1,3,2,3,Non,11 %,1,0,2,2,Transformation Digitale,Frequent,0,0,0-4 km
+7.355001921105257,Consulting,Assistant de Direction,1,1,1,0,25-34,1,2,1,3,4,1,3,Non,14 %,0,1,2,3,Infra & Cloud,Occasionnel,0,0,0-4 km
+8.496786381638575,Commercial,Cadre Commercial,0,5,4,2,25-34,3,3,2,1,4,3,3,Non,14 %,0,0,5,3,Infra & Cloud,Frequent,1,3,5-9 km
+8.474285690404962,Consulting,Consultant,4,10,3,2,45-59,3,2,2,1,1,3,4,Non,25 %,0,1,3,2,Transformation Digitale,Occasionnel,1,2,0-4 km
+8.064950891749143,Consulting,Consultant,0,4,3,2,25-34,4,3,1,2,3,3,3,Non,13 %,0,3,3,1,Infra & Cloud,Frequent,0,2,0-4 km
+8.787220328629298,Consulting,Tech Lead,1,8,8,6,25-34,3,1,2,2,2,2,3,Non,14 %,0,2,2,1,Infra & Cloud,Occasionnel,1,7,20-29 km
+8.762333040602343,Consulting,Manager,2,14,0,0,25-34,4,3,2,3,1,3,3,Oui,17 %,0,0,6,5,Infra & Cloud,Occasionnel,0,0,5-9 km
+9.327678864393416,Consulting,Senior Manager,2,10,5,2,25-34,3,3,3,4,2,4,4,Non,25 %,0,0,5,3,Transformation Digitale,Occasionnel,0,0,10-14 km
+9.682404377188837,Consulting,Senior Manager,3,26,14,9,45-59,2,3,4,4,1,3,4,Non,20 %,0,1,2,4,Transformation Digitale,Frequent,1,12,10-14 km
+7.767687277186908,Consulting,Assistant de Direction,6,11,9,7,25-34,1,2,1,1,3,1,3,Non,13 %,1,0,2,4,Entrepreunariat,Occasionnel,0,7,0-4 km
+9.70069794710231,Consulting,Directeur Technique,3,24,20,6,35-44,4,3,4,1,3,4,3,Non,13 %,0,1,1,3,Infra & Cloud,Occasionnel,14,17,20-29 km
+9.033245134153809,Consulting,Tech Lead,4,9,2,0,35-44,2,3,3,2,4,3,3,Non,18 %,0,0,3,3,Infra & Cloud,Occasionnel,2,2,5-9 km
+9.717579572206754,Commercial,Senior Manager,8,23,13,12,45-59,3,3,4,2,4,4,3,Non,12 %,0,1,2,3,Infra & Cloud,Occasionnel,5,1,0-4 km
+9.060331104649475,Consulting,Manager,1,11,11,8,35-44,4,2,3,2,4,1,3,Non,19 %,0,0,3,3,Infra & Cloud,Occasionnel,3,3,15-19 km
+7.728855823852543,Consulting,Consultant,0,5,4,3,18-24,1,3,2,3,2,3,3,Non,14 %,0,0,2,1,Infra & Cloud,Occasionnel,1,2,20-29 km
+7.610357618312838,Consulting,Consultant,3,15,5,4,35-44,4,3,1,1,2,1,3,Non,14 %,1,0,3,4,Infra & Cloud,Occasionnel,1,0,5-9 km
+8.865593998902725,Commercial,Cadre Commercial,1,10,10,9,25-34,4,2,3,3,4,3,3,Oui,14 %,0,0,3,3,Entrepreunariat,Occasionnel,8,6,0-4 km
+8.315077007294104,Consulting,Assistant de Direction,1,7,7,2,25-34,4,3,1,3,1,1,3,Non,12 %,1,0,2,3,Infra & Cloud,Frequent,7,7,0-4 km
+9.575816471867984,Consulting,Directeur Technique,1,32,32,6,45-59,3,1,4,4,4,3,3,Oui,13 %,0,0,2,5,Transformation Digitale,Frequent,13,9,20-29 km
+7.744569809354496,Commercial,Représentant Commercial,0,12,11,10,25-34,2,3,1,3,2,3,4,Oui,25 %,0,1,4,2,Entrepreunariat,Occasionnel,5,7,5-9 km
+8.485083137498004,Consulting,Consultant,4,4,1,0,35-44,3,2,1,2,2,3,3,Non,14 %,0,1,3,3,Transformation Digitale,Occasionnel,0,0,0-4 km
+8.363109176033522,Consulting,Assistant de Direction,1,10,10,8,35-44,1,3,2,4,1,3,3,Non,17 %,0,0,2,3,Transformation Digitale,Occasionnel,3,7,10-14 km
+9.181529290122063,Consulting,Manager,3,9,7,7,25-34,3,1,2,1,3,3,3,Non,13 %,0,1,3,1,Autre,Occasionnel,0,7,5-9 km
+8.371242135931933,Consulting,Tech Lead,1,5,5,3,25-34,4,2,2,2,4,3,3,Non,13 %,0,0,2,3,Infra & Cloud,Occasionnel,0,2,20-29 km
+7.665284718471351,Consulting,Assistant de Direction,4,8,5,4,45-59,4,3,1,4,4,3,4,Non,20 %,0,1,3,3,Entrepreunariat,Occasionnel,0,3,20-29 km
+9.22276289197474,Consulting,Manager,2,24,20,8,35-44,4,3,3,4,3,1,3,Oui,14 %,0,1,3,3,Infra & Cloud,Frequent,13,9,0-4 km
+8.607764889600624,Commercial,Cadre Commercial,0,9,8,4,35-44,1,3,2,1,4,4,3,Non,12 %,0,0,5,2,Transformation Digitale,Occasionnel,7,1,5-9 km
+8.557951183888406,Consulting,Consultant,1,15,15,14,25-34,2,3,2,3,2,3,3,Oui,12 %,0,1,3,4,Infra & Cloud,Occasionnel,5,7,20-29 km
+9.707351006708445,Ressources Humaines,Senior Manager,1,21,21,7,35-44,3,3,4,4,4,3,4,Oui,21 %,0,0,2,2,Transformation Digitale,Occasionnel,7,7,5-9 km
+7.739359202689098,Consulting,Consultant,0,2,1,1,18-24,3,2,1,1,2,3,3,Non,14 %,0,3,3,2,Entrepreunariat,Occasionnel,0,0,20-29 km
+8.311398278436641,Consulting,Manager,3,8,2,2,35-44,4,3,2,4,3,3,3,Oui,18 %,0,0,2,2,Infra & Cloud,Aucun,2,2,5-9 km
+8.914894908906568,Consulting,Manager,1,10,10,8,45-59,1,3,3,2,1,3,3,Non,12 %,0,3,4,4,Entrepreunariat,Occasionnel,7,7,0-4 km
+7.796057974316123,Commercial,Représentant Commercial,0,6,5,3,35-44,2,2,1,3,1,3,4,Non,23 %,0,2,5,4,Infra & Cloud,Occasionnel,4,2,20-29 km
+8.679141958402255,Consulting,Assistant de Direction,3,12,7,1,25-34,4,2,2,2,1,3,3,Non,12 %,0,1,2,2,Infra & Cloud,Occasionnel,2,5,5-9 km
+7.8804263442924,Commercial,Représentant Commercial,3,7,3,2,35-44,3,3,1,4,4,2,4,Oui,21 %,0,0,3,4,Infra & Cloud,Occasionnel,1,2,0-4 km
+8.770283819098399,Commercial,Cadre Commercial,8,18,8,7,45-59,3,3,2,3,3,3,3,Non,14 %,0,1,2,4,Infra & Cloud,Occasionnel,7,7,15-19 km
+7.804659297056102,Consulting,Assistant de Direction,6,5,1,0,25-34,3,4,1,3,1,2,3,Non,18 %,0,2,2,3,Infra & Cloud,Occasionnel,0,0,5-9 km
+8.762958920766726,Commercial,Cadre Commercial,2,8,2,2,25-34,1,3,2,1,4,1,3,Non,13 %,0,1,6,4,Infra & Cloud,Occasionnel,2,2,5-9 km
+9.18142636181154,Commercial,Cadre Commercial,1,10,10,8,25-34,2,2,2,1,4,3,3,Non,11 %,1,1,4,3,Infra & Cloud,Occasionnel,6,7,0-4 km
+8.712430973476739,Ressources Humaines,Ressources Humaines,3,10,6,3,35-44,3,3,2,3,3,3,3,Non,11 %,0,0,2,4,Ressources Humaines,Frequent,1,2,10-14 km
+7.804251383528112,Consulting,Consultant,1,3,3,0,35-44,4,2,1,1,2,3,3,Non,19 %,0,0,3,3,Transformation Digitale,Occasionnel,1,2,0-4 km
+9.132486932771318,Commercial,Cadre Commercial,3,9,4,2,25-34,3,3,3,2,2,3,3,Non,12 %,0,1,3,4,Entrepreunariat,Occasionnel,1,3,20-29 km
+7.637716432664798,Consulting,Consultant,1,1,1,0,35-44,1,3,1,1,4,3,3,Oui,12 %,1,1,2,3,Infra & Cloud,Occasionnel,0,0,0-4 km
+9.227197489042606,Consulting,Tech Lead,0,34,33,7,45-59,3,2,3,4,2,3,3,Non,16 %,1,1,4,5,Entrepreunariat,Occasionnel,1,9,0-4 km
+8.487970332739334,Consulting,Tech Lead,4,7,5,2,35-44,3,3,2,2,1,3,3,Non,11 %,1,2,2,3,Transformation Digitale,Occasionnel,1,4,0-4 km
+8.31581113188354,Consulting,Assistant de Direction,4,9,6,5,25-34,4,3,2,1,2,2,3,Non,14 %,0,1,3,4,Entrepreunariat,Aucun,1,2,0-4 km
+7.769800996003896,Consulting,Assistant de Direction,8,10,8,2,45-59,3,3,1,1,4,2,3,Non,12 %,0,1,3,4,Autre,Occasionnel,7,6,15-19 km
+7.997326822998097,Consulting,Assistant de Direction,1,1,1,0,25-34,1,3,1,4,3,1,3,Non,13 %,0,0,4,4,Transformation Digitale,Occasionnel,0,0,5-9 km
+9.882621359854744,Commercial,Senior Manager,1,36,36,6,45-59,3,2,5,4,3,3,4,Non,21 %,0,1,3,5,Marketing,Occasionnel,2,13,20-29 km
+8.609772372709331,Consulting,Assistant de Direction,9,9,2,2,25-34,2,3,2,4,2,2,3,Non,17 %,0,1,3,4,Infra & Cloud,Occasionnel,2,1,0-4 km
+7.631431664576906,Consulting,Assistant de Direction,1,1,1,0,25-34,1,3,1,4,1,3,4,Non,21 %,0,0,5,3,Infra & Cloud,Occasionnel,0,0,0-4 km
+9.202812105555392,Commercial,Cadre Commercial,0,10,9,8,35-44,3,3,2,2,4,3,3,Non,11 %,0,1,3,3,Infra & Cloud,Occasionnel,7,7,10-14 km
+8.342601680684194,Commercial,Cadre Commercial,2,8,3,2,35-44,2,3,2,2,2,4,3,Non,12 %,0,0,5,3,Infra & Cloud,Occasionnel,1,2,15-19 km
+8.827028068509152,Commercial,Cadre Commercial,6,15,1,0,35-44,2,3,2,3,1,3,3,Non,13 %,0,0,5,4,Infra & Cloud,Occasionnel,0,0,0-4 km
+8.460411177317253,Consulting,Consultant,1,10,10,9,25-34,2,3,1,1,4,3,3,Oui,18 %,0,0,3,1,Transformation Digitale,Occasionnel,1,5,0-4 km
+8.723068501163928,Consulting,Manager,3,10,5,2,35-44,1,3,2,3,3,3,3,Oui,16 %,0,0,4,4,Transformation Digitale,Occasionnel,0,4,10-14 km
+9.016512874996026,Commercial,Cadre Commercial,2,11,7,6,35-44,4,4,3,3,1,3,3,Non,11 %,0,1,3,3,Transformation Digitale,Occasionnel,7,6,5-9 km
+9.088624613292087,Consulting,Manager,1,6,6,4,25-34,1,3,2,4,4,4,3,Non,19 %,0,1,0,1,Infra & Cloud,Frequent,1,3,0-4 km
+9.869517032964975,Commercial,Senior Manager,4,27,1,0,45-59,3,3,5,3,3,3,3,Oui,16 %,0,1,2,3,Marketing,Occasionnel,0,0,5-9 km
+7.637234388789473,Consulting,Assistant de Direction,2,4,2,2,18-24,4,4,1,3,4,3,3,Non,16 %,0,1,2,3,Entrepreunariat,Occasionnel,2,2,10-14 km
+8.623892810075294,Consulting,Consultant,3,9,3,2,35-44,1,4,2,1,4,3,3,Oui,13 %,0,1,3,4,Infra & Cloud,Frequent,0,2,5-9 km
+9.883998875952265,Consulting,Senior Manager,8,24,1,0,35-44,4,2,5,4,4,3,4,Non,22 %,0,0,2,2,Autre,Occasionnel,0,1,5-9 km
+8.133880887949207,Consulting,Consultant,1,10,10,9,35-44,2,4,2,3,4,2,3,Non,17 %,0,2,3,3,Infra & Cloud,Occasionnel,6,8,20-29 km
+8.529911963824013,Consulting,Manager,1,8,8,2,25-34,4,2,2,3,2,2,3,Non,14 %,0,1,3,4,Entrepreunariat,Frequent,7,7,10-14 km
+8.442469645220301,Commercial,Cadre Commercial,1,5,5,4,35-44,4,3,2,1,3,3,3,Non,15 %,0,1,2,2,Infra & Cloud,Occasionnel,1,2,10-14 km
+8.492285555710053,Consulting,Consultant,5,8,6,4,35-44,4,4,1,2,3,3,3,Non,12 %,0,1,0,3,Entrepreunariat,Occasionnel,0,2,20-29 km
+7.897668150726906,Consulting,Consultant,1,1,1,0,35-44,3,2,1,4,4,2,3,Non,18 %,0,1,5,2,Infra & Cloud,Occasionnel,0,1,5-9 km
+9.773834344309257,Commercial,Senior Manager,1,27,26,0,45-59,4,4,4,1,2,1,3,Non,15 %,0,0,5,4,Infra & Cloud,Occasionnel,0,12,0-4 km
+7.786967002614872,Consulting,Consultant,1,1,1,1,25-34,3,3,1,2,3,3,3,Oui,17 %,1,3,3,3,Transformation Digitale,Occasionnel,0,0,20-29 km
+7.942717540573791,Consulting,Assistant de Direction,1,4,4,2,18-24,2,2,1,3,2,2,3,Oui,14 %,0,0,2,2,Autre,Aucun,1,3,20-29 km
+9.327767788852148,Consulting,Manager,2,32,30,8,45-59,2,3,4,3,3,3,3,Oui,15 %,0,1,3,5,Transformation Digitale,Frequent,12,13,20-29 km
+8.105609402299896,Consulting,Assistant de Direction,3,6,3,2,25-34,2,4,1,4,4,3,3,Non,17 %,0,2,3,4,Autre,Occasionnel,0,2,5-9 km
+9.854822380554847,Consulting,Directeur Technique,0,23,22,7,35-44,2,3,5,4,4,2,3,Oui,14 %,0,1,4,3,Transformation Digitale,Occasionnel,1,10,5-9 km
+7.669495251007694,Consulting,Assistant de Direction,1,6,6,4,25-34,2,2,1,2,2,2,3,Non,12 %,0,1,3,3,Transformation Digitale,Occasionnel,1,1,5-9 km
+8.660427359502146,Consulting,Consultant,1,10,10,7,45-59,3,1,2,1,1,3,3,Oui,14 %,0,0,3,5,Transformation Digitale,Occasionnel,1,4,5-9 km
+8.386172928977834,Commercial,Cadre Commercial,1,10,10,7,45-59,1,2,2,1,1,3,3,Non,15 %,0,1,2,3,Marketing,Aucun,4,5,20-29 km
+8.581669210600602,Commercial,Cadre Commercial,7,10,5,2,25-34,4,3,2,1,4,3,3,Non,13 %,0,0,3,4,Autre,Frequent,0,3,0-4 km
+8.447628728030327,Consulting,Tech Lead,9,7,3,2,35-44,3,3,2,3,2,3,3,Oui,12 %,0,2,2,4,Infra & Cloud,Occasionnel,1,1,10-14 km
+8.460622839927844,Consulting,Tech Lead,1,9,9,7,25-34,3,4,2,4,1,3,3,Non,13 %,0,1,3,4,Infra & Cloud,Frequent,7,2,10-14 km
+8.074649075066652,Consulting,Consultant,1,10,9,6,45-59,3,3,1,1,4,2,3,Non,14 %,0,1,3,4,Infra & Cloud,Occasionnel,1,4,20-29 km
+8.59007183682881,Consulting,Tech Lead,2,10,7,7,35-44,2,3,2,1,4,3,3,Non,13 %,0,3,3,5,Transformation Digitale,Occasionnel,7,7,10-14 km
+8.310660905907225,Consulting,Consultant,1,7,7,7,25-34,4,2,1,1,1,3,3,Non,11 %,0,2,3,3,Autre,Occasionnel,0,7,15-19 km
+8.558143177745192,Consulting,Assistant de Direction,1,16,16,15,35-44,2,4,2,1,4,3,3,Non,11 %,0,0,2,5,Infra & Cloud,Occasionnel,1,10,15-19 km
+8.492490578775866,Consulting,Tech Lead,0,6,5,3,25-34,2,1,2,1,2,2,4,Non,21 %,0,1,5,3,Transformation Digitale,Occasionnel,0,0,20-29 km
+8.044947049617722,Consulting,Assistant de Direction,1,3,2,2,18-24,3,3,1,4,3,3,3,Non,18 %,0,0,2,1,Transformation Digitale,Occasionnel,2,2,5-9 km
+7.358830898342354,Commercial,Représentant Commercial,1,0,0,0,18-24,2,3,1,4,3,4,3,Oui,12 %,1,0,2,2,Transformation Digitale,Frequent,0,0,0-4 km
+9.886290527707606,Ressources Humaines,Senior Manager,3,27,5,2,45-59,4,3,5,3,3,3,3,Non,11 %,0,1,2,4,Infra & Cloud,Occasionnel,1,0,20-29 km
+8.029432840581244,Consulting,Consultant,0,11,10,8,35-44,3,2,2,3,4,3,3,Non,15 %,0,1,3,2,Transformation Digitale,Occasionnel,0,7,0-4 km
+9.253016646256619,Consulting,Tech Lead,1,18,18,15,35-44,1,2,3,3,4,3,3,Non,13 %,0,2,2,3,Infra & Cloud,Occasionnel,14,12,15-19 km
+8.330622620332868,Consulting,Manager,1,15,14,11,35-44,3,3,2,3,4,3,3,Non,12 %,0,1,5,4,Infra & Cloud,Aucun,2,9,5-9 km
+8.660254034256889,Consulting,Tech Lead,3,9,4,3,35-44,3,3,2,3,1,2,3,Non,17 %,0,3,2,3,Infra & Cloud,Occasionnel,0,2,15-19 km
+8.525756422076725,Consulting,Tech Lead,0,10,9,2,35-44,1,3,2,3,4,1,3,Non,13 %,0,0,2,3,Transformation Digitale,Frequent,3,8,0-4 km
+8.660600654710967,Consulting,Tech Lead,1,10,10,7,45-59,4,2,2,4,1,3,3,Non,19 %,0,2,3,2,Autre,Occasionnel,3,9,0-4 km
+8.956350940490871,Consulting,Tech Lead,3,10,5,4,35-44,4,2,3,3,4,4,3,Oui,19 %,0,1,6,2,Transformation Digitale,Occasionnel,0,2,0-4 km
+9.240578555036793,Commercial,Cadre Commercial,9,15,13,12,35-44,4,2,3,1,3,3,3,Non,17 %,1,0,3,3,Transformation Digitale,Occasionnel,6,0,10-14 km
+8.278174290943738,Consulting,Assistant de Direction,1,8,8,4,35-44,2,3,1,2,1,1,3,Non,11 %,0,1,2,3,Transformation Digitale,Occasionnel,7,7,10-14 km
+8.980423936374544,Consulting,Tech Lead,6,18,4,2,35-44,3,3,3,4,4,2,3,Oui,15 %,0,0,2,3,Infra & Cloud,Occasionnel,3,3,15-19 km
+8.65591111072806,Ressources Humaines,Ressources Humaines,4,14,10,7,35-44,1,3,2,4,3,3,3,Oui,11 %,0,0,3,5,Ressources Humaines,Frequent,0,2,0-4 km
+9.629248055780836,Consulting,Senior Manager,2,23,2,2,45-59,3,2,4,4,2,3,4,Non,25 %,0,1,3,5,Transformation Digitale,Frequent,2,2,0-4 km
+8.601718146485926,Commercial,Cadre Commercial,6,7,2,2,35-44,1,1,2,4,4,2,3,Oui,14 %,1,2,2,2,Transformation Digitale,Occasionnel,2,2,15-19 km
+8.232440158470336,Consulting,Assistant de Direction,1,6,6,3,18-24,1,3,1,4,3,3,3,Oui,13 %,0,0,2,1,Entrepreunariat,Frequent,1,3,0-4 km
+8.165647925297504,Consulting,Assistant de Direction,7,5,3,2,25-34,2,4,1,3,1,3,3,Non,17 %,0,0,0,3,Transformation Digitale,Occasionnel,0,2,5-9 km
+7.855932199718614,Consulting,Assistant de Direction,2,6,4,2,25-34,4,3,1,4,3,2,3,Non,13 %,0,0,0,3,Transformation Digitale,Frequent,1,2,0-4 km
+7.681099001536359,Consulting,Consultant,3,10,4,2,35-44,1,3,1,1,2,1,3,Oui,14 %,1,0,3,3,Infra & Cloud,Occasionnel,0,3,5-9 km
+8.677609912822142,Commercial,Cadre Commercial,9,8,5,2,25-34,3,2,2,3,3,3,3,Non,11 %,0,0,2,3,Transformation Digitale,Occasionnel,1,4,10-14 km
+8.988321188323683,Consulting,Manager,4,9,3,2,35-44,2,3,3,1,3,3,3,Non,12 %,0,2,6,4,Infra & Cloud,Occasionnel,0,2,5-9 km
+8.557759153162898,Consulting,Tech Lead,1,7,7,7,25-34,4,4,2,3,3,3,3,Non,17 %,0,2,6,1,Infra & Cloud,Frequent,0,7,0-4 km
+8.574707097616844,Consulting,Tech Lead,4,7,5,4,35-44,4,3,2,2,3,3,4,Non,21 %,0,0,3,3,Transformation Digitale,Occasionnel,1,0,10-14 km
+9.705889908189658,Consulting,Directeur Technique,3,27,4,2,45-59,1,3,4,2,2,3,3,Non,16 %,0,2,2,4,Autre,Occasionnel,1,2,20-29 km
+9.493261127326253,Consulting,Directeur Technique,5,19,14,11,45-59,4,2,3,1,3,3,3,Non,15 %,0,3,3,5,Infra & Cloud,Occasionnel,1,11,15-19 km
+7.931644021454311,Commercial,Représentant Commercial,1,2,2,2,18-24,3,3,1,3,1,3,3,Non,19 %,0,0,3,3,Transformation Digitale,Occasionnel,2,2,0-4 km
+8.600430789986293,Consulting,Assistant de Direction,1,11,11,8,25-34,4,3,2,2,3,3,3,Non,12 %,0,1,2,3,Infra & Cloud,Occasionnel,7,9,0-4 km
+7.607878073278507,Consulting,Consultant,2,15,4,3,35-44,1,3,1,2,3,3,3,Non,11 %,0,0,4,3,Infra & Cloud,Occasionnel,1,3,5-9 km
+9.54445268330577,Consulting,Manager,2,30,15,11,45-59,3,2,4,3,2,3,3,Oui,19 %,0,1,3,1,Infra & Cloud,Occasionnel,2,12,5-9 km
+8.383661798791715,Consulting,Tech Lead,0,4,3,2,35-44,4,2,2,3,3,3,3,Non,15 %,0,0,6,4,Transformation Digitale,Aucun,1,2,0-4 km
+8.830981510952498,Consulting,Manager,6,13,5,4,35-44,4,4,2,1,1,3,4,Non,20 %,0,1,3,2,Infra & Cloud,Occasionnel,0,4,0-4 km
+9.765776006660642,Consulting,Senior Manager,3,36,10,8,45-59,2,3,4,3,3,3,4,Non,25 %,0,1,6,5,Transformation Digitale,Occasionnel,4,7,20-29 km
+9.775881427930981,Consulting,Directeur Technique,1,14,14,10,35-44,3,2,4,3,1,3,4,Non,24 %,0,1,3,2,Infra & Cloud,Occasionnel,6,11,15-19 km
+8.42989086301344,Commercial,Cadre Commercial,3,13,11,9,35-44,4,3,2,4,1,4,4,Oui,24 %,1,0,2,4,Autre,Frequent,6,7,10-14 km
+8.462948176563842,Consulting,Assistant de Direction,7,19,13,11,35-44,4,3,2,4,4,4,3,Non,15 %,0,2,4,3,Infra & Cloud,Frequent,2,9,0-4 km
+8.339978571990427,Commercial,Cadre Commercial,1,10,10,0,25-34,1,2,2,2,2,2,3,Oui,13 %,0,1,3,3,Transformation Digitale,Occasionnel,0,9,5-9 km
+8.613593685702552,Commercial,Cadre Commercial,1,6,6,2,25-34,4,3,2,4,3,3,3,Non,14 %,0,2,5,4,Transformation Digitale,Occasionnel,0,4,0-4 km
+8.607216694063826,Consulting,Assistant de Direction,0,10,9,5,25-34,4,3,2,2,3,2,3,Non,13 %,0,2,4,3,Transformation Digitale,Occasionnel,1,6,0-4 km
+8.608312784783722,Commercial,Cadre Commercial,1,10,10,0,25-34,1,3,2,4,1,3,3,Non,11 %,0,2,2,4,Infra & Cloud,Occasionnel,0,2,5-9 km
+7.858640655620791,Consulting,Consultant,4,17,2,2,45-59,4,3,1,1,2,2,3,Oui,16 %,0,1,2,3,Transformation Digitale,Occasionnel,2,2,15-19 km
+7.80016307039296,Consulting,Consultant,1,4,4,3,35-44,4,2,1,2,2,3,4,Non,22 %,0,0,3,3,Transformation Digitale,Frequent,3,3,0-4 km
+9.678655075789957,Commercial,Senior Manager,6,29,3,2,45-59,2,4,4,2,3,3,3,Non,14 %,0,3,2,4,Infra & Cloud,Occasionnel,1,2,0-4 km
+9.640823243059636,Consulting,Senior Manager,4,23,8,7,45-59,3,3,4,3,1,3,3,Non,14 %,0,0,2,3,Infra & Cloud,Occasionnel,0,0,0-4 km
+8.865452825753623,Commercial,Cadre Commercial,3,21,2,0,35-44,4,3,3,3,4,3,3,Oui,16 %,0,0,2,2,Infra & Cloud,Occasionnel,0,2,20-29 km
+7.911690520708339,Commercial,Représentant Commercial,1,2,2,2,18-24,4,3,1,1,1,3,3,Non,11 %,0,0,3,1,Infra & Cloud,Occasionnel,0,2,5-9 km
+8.58839695042257,Commercial,Cadre Commercial,1,7,6,5,25-34,3,3,2,4,3,3,4,Oui,25 %,0,1,2,3,Infra & Cloud,Aucun,1,2,15-19 km
+8.584477938221834,Consulting,Manager,6,10,3,2,35-44,1,3,2,3,2,2,3,Non,14 %,0,2,2,4,Infra & Cloud,Occasionnel,0,2,20-29 km
+8.069655306886165,Ressources Humaines,Ressources Humaines,4,8,2,2,35-44,3,3,1,4,1,3,3,Oui,18 %,0,3,2,3,Infra & Cloud,Occasionnel,2,2,0-4 km
+8.29154650988391,Consulting,Consultant,1,5,5,4,18-24,4,2,1,3,1,3,3,Oui,11 %,1,0,2,1,Transformation Digitale,Occasionnel,1,2,5-9 km
+8.103796712981794,Consulting,Consultant,7,7,0,0,35-44,4,3,1,3,4,2,3,Non,19 %,0,1,5,2,Transformation Digitale,Occasionnel,0,0,0-4 km
+8.854522203757432,Consulting,Manager,3,11,4,3,45-59,2,4,3,4,3,3,3,Non,15 %,0,0,2,4,Transformation Digitale,Occasionnel,1,2,20-29 km
+7.884576510596324,Commercial,Représentant Commercial,2,19,9,7,45-59,4,3,1,3,3,3,3,Oui,11 %,1,2,3,2,Transformation Digitale,Frequent,7,7,5-9 km
+7.2399325913204695,Consulting,Consultant,1,1,1,0,25-34,4,3,1,2,1,3,3,Non,12 %,1,0,2,4,Infra & Cloud,Occasionnel,0,0,0-4 km
+7.852050207265889,Consulting,Consultant,1,7,7,7,25-34,4,3,1,4,3,3,4,Non,20 %,0,0,5,3,Transformation Digitale,Aucun,5,7,5-9 km
+8.17131687471973,Consulting,Assistant de Direction,5,8,4,2,45-59,1,2,1,2,4,3,3,Non,12 %,0,1,1,3,Entrepreunariat,Occasionnel,1,2,20-29 km
+8.290794347381356,Consulting,Consultant,1,15,15,10,25-34,2,2,2,4,3,4,3,Non,14 %,0,1,3,2,Transformation Digitale,Occasionnel,4,13,5-9 km
+9.295049099903137,Consulting,Manager,3,19,1,0,,3,1,3,4,3,4,4,Non,20 %,0,1,2,4,Transformation Digitale,Occasionnel,0,0,0-4 km
+7.615298339825815,Consulting,Consultant,1,14,14,11,25-34,2,4,1,2,4,3,3,Non,18 %,0,3,6,3,Transformation Digitale,Occasionnel,2,13,20-29 km
+9.161780181360806,Commercial,Cadre Commercial,1,6,6,3,35-44,3,1,2,4,3,2,3,Non,14 %,0,2,2,4,Transformation Digitale,Frequent,1,3,0-4 km
+7.982757702011113,Consulting,Assistant de Direction,1,10,10,9,25-34,2,2,1,4,2,3,3,Non,12 %,0,0,3,3,Infra & Cloud,Occasionnel,8,7,15-19 km
+7.730174795246222,Commercial,Représentant Commercial,1,3,3,2,18-24,3,3,1,4,2,3,4,Oui,21 %,1,1,2,3,Infra & Cloud,Occasionnel,0,2,5-9 km
+8.972083182851925,Consulting,Manager,1,9,8,7,35-44,3,4,3,4,2,3,3,Oui,19 %,0,1,2,3,Infra & Cloud,Occasionnel,6,7,0-4 km
+8.503297086224126,Consulting,Assistant de Direction,0,6,5,4,35-44,1,2,1,4,3,4,3,Oui,14 %,0,0,2,4,Transformation Digitale,Frequent,1,4,0-4 km
+8.9680140012452,Commercial,Cadre Commercial,1,10,10,9,35-44,4,3,2,4,1,3,3,Oui,17 %,0,1,3,3,Transformation Digitale,Occasionnel,8,8,0-4 km
+8.389814262086407,Consulting,Assistant de Direction,1,5,5,3,18-24,3,4,1,3,4,3,3,Non,16 %,0,1,1,3,Transformation Digitale,Occasionnel,0,4,5-9 km
+9.131513591430211,Commercial,Cadre Commercial,1,10,10,8,35-44,4,3,3,3,2,3,3,Non,12 %,0,0,3,3,Marketing,Occasionnel,8,7,5-9 km
+7.99799931797973,Consulting,Consultant,9,9,5,3,25-34,4,3,1,3,3,3,3,Non,17 %,0,1,2,4,Transformation Digitale,Occasionnel,1,2,5-9 km
+8.412499120301572,Commercial,Représentant Commercial,3,17,13,7,35-44,3,3,2,4,3,2,3,Non,15 %,0,0,2,4,Infra & Cloud,Occasionnel,6,7,0-4 km
+9.282568005973063,Consulting,Manager,3,25,23,15,45-59,3,2,3,3,4,2,4,Non,23 %,0,1,3,1,Infra & Cloud,Aucun,14,4,0-4 km
+7.349873704738337,Ressources Humaines,Ressources Humaines,1,1,1,0,18-24,4,1,1,3,3,3,3,Non,11 %,1,1,2,1,Ressources Humaines,Occasionnel,0,0,20-29 km
+9.467846701917901,Commercial,Cadre Commercial,7,25,23,5,45-59,3,1,4,3,3,1,3,Non,11 %,1,0,3,3,Infra & Cloud,Frequent,14,10,5-9 km
+7.743269700829004,Consulting,Consultant,1,3,3,2,25-34,4,1,1,3,3,4,3,Non,15 %,0,3,3,4,Transformation Digitale,Occasionnel,0,2,15-19 km
+9.723463354790857,Consulting,Directeur Technique,1,21,21,6,45-59,4,2,4,2,3,3,3,Non,11 %,0,0,2,2,Entrepreunariat,Occasionnel,8,6,20-29 km
+8.141481041457421,Consulting,Assistant de Direction,6,10,5,2,25-34,1,3,1,3,1,2,3,Non,13 %,0,1,3,3,Infra & Cloud,Frequent,1,3,10-14 km
+8.154212694914229,Consulting,Consultant,1,6,5,2,25-34,2,3,1,3,4,4,3,Non,14 %,0,1,2,4,Infra & Cloud,Occasionnel,0,3,0-4 km
+8.768885326134862,Ressources Humaines,Ressources Humaines,6,10,3,2,35-44,3,1,2,2,2,3,3,Non,19 %,0,1,4,3,Ressources Humaines,Aucun,1,2,0-4 km
+8.78216942633238,Consulting,Tech Lead,2,18,1,0,35-44,2,3,2,1,2,3,3,Oui,16 %,0,1,3,2,Infra & Cloud,Occasionnel,0,0,5-9 km
+8.270781013162674,Consulting,Consultant,1,6,6,2,18-24,2,3,1,1,2,4,3,Non,13 %,0,3,2,1,Transformation Digitale,Occasionnel,1,2,20-29 km
+8.623892810075294,Consulting,Manager,6,19,10,7,45-59,3,3,2,2,4,3,3,Non,14 %,0,0,3,4,Infra & Cloud,Occasionnel,0,9,10-14 km
+8.83695515733143,Consulting,Tech Lead,2,17,7,7,35-44,4,3,2,3,2,3,3,Non,16 %,0,1,3,4,Infra & Cloud,Occasionnel,0,7,20-29 km
+7.959625305098115,Consulting,Assistant de Direction,1,10,10,0,25-34,2,3,1,4,2,2,3,Non,12 %,0,1,2,1,Infra & Cloud,Occasionnel,0,8,15-19 km
+8.512984346642183,Commercial,Cadre Commercial,7,4,1,0,45-59,3,3,2,2,4,1,3,Non,11 %,0,1,3,4,Marketing,Aucun,0,0,0-4 km
+9.246575864558277,Commercial,Cadre Commercial,4,13,10,6,45-59,3,3,3,4,2,2,3,Oui,12 %,0,1,5,3,Infra & Cloud,Occasionnel,0,3,0-4 km
+8.721765357145012,Commercial,Cadre Commercial,5,16,2,2,35-44,2,2,2,1,2,3,3,Oui,13 %,1,3,3,5,Marketing,Occasionnel,2,2,10-14 km
+8.815221555922163,Commercial,Cadre Commercial,6,10,0,0,25-34,1,1,2,2,2,3,3,Non,15 %,1,0,2,2,Infra & Cloud,Occasionnel,0,0,0-4 km
+8.100464891029363,Consulting,Consultant,1,3,3,2,18-24,3,3,1,2,3,1,3,Non,13 %,0,0,3,1,Transformation Digitale,Occasionnel,1,2,0-4 km
+8.56388591940822,Consulting,Tech Lead,2,9,5,4,25-34,4,3,2,4,4,2,4,Non,20 %,0,0,3,1,Entrepreunariat,Frequent,1,4,20-29 km
+8.77539495854551,Consulting,Consultant,1,9,9,8,35-44,4,3,2,4,4,3,3,Oui,15 %,0,1,2,3,Infra & Cloud,Aucun,5,8,0-4 km
+9.170663554823284,Commercial,Cadre Commercial,3,10,4,3,25-34,4,1,3,3,3,1,3,Non,13 %,0,1,2,3,Infra & Cloud,Occasionnel,0,2,15-19 km
+9.89515291574607,Commercial,Senior Manager,1,21,21,8,35-44,2,3,5,2,2,2,3,Non,14 %,0,0,3,4,Transformation Digitale,Occasionnel,12,8,5-9 km
+9.18574025510795,Ressources Humaines,Ressources Humaines,4,9,5,0,45-59,3,1,3,3,3,4,4,Non,21 %,0,2,2,3,Infra & Cloud,Occasionnel,0,3,0-4 km
+8.51097389160232,Consulting,Assistant de Direction,0,10,9,7,25-34,4,2,1,1,4,3,3,Non,16 %,0,0,2,4,Entrepreunariat,Frequent,0,7,0-4 km
+7.671360923190644,Ressources Humaines,Ressources Humaines,0,3,2,2,18-24,1,3,1,4,4,3,3,Non,14 %,0,1,2,3,Transformation Digitale,Frequent,2,1,10-14 km
+7.687538766201629,Ressources Humaines,Ressources Humaines,6,6,4,2,25-34,3,2,1,4,3,2,3,Non,11 %,1,1,0,3,Ressources Humaines,Frequent,1,2,5-9 km
+9.029657471850737,Commercial,Cadre Commercial,1,6,5,2,25-34,1,3,2,3,3,3,3,Non,19 %,0,1,3,3,Entrepreunariat,Occasionnel,0,2,5-9 km
+8.144969417087875,Consulting,Assistant de Direction,1,6,6,2,25-34,3,3,1,4,3,2,3,Non,11 %,0,0,5,3,Transformation Digitale,Occasionnel,1,4,5-9 km
+7.923348211930154,Commercial,Représentant Commercial,1,2,2,2,25-34,2,1,1,2,3,3,3,Non,13 %,1,0,3,3,Marketing,Occasionnel,2,2,5-9 km
+8.747510946478448,Consulting,Manager,8,10,3,2,25-34,4,4,2,3,4,4,3,Oui,12 %,0,0,5,3,Infra & Cloud,Frequent,0,2,0-4 km
+8.87360810154911,Commercial,Cadre Commercial,2,12,7,7,25-34,3,2,3,1,1,3,3,Non,11 %,0,1,2,2,Marketing,Occasionnel,1,7,15-19 km
+7.983781068977451,Consulting,Assistant de Direction,0,6,5,0,25-34,4,4,1,4,1,3,3,Oui,14 %,0,3,3,4,Transformation Digitale,Occasionnel,1,2,0-4 km
+8.546363568716018,Commercial,Cadre Commercial,8,13,11,7,25-34,4,3,2,2,4,2,3,Non,15 %,0,0,2,3,Marketing,Aucun,1,7,0-4 km
+8.413608875159667,Commercial,Cadre Commercial,3,8,5,1,45-59,4,3,2,4,3,4,3,Non,12 %,0,0,1,4,Marketing,Occasionnel,0,4,10-14 km
+9.05543941075822,Commercial,Cadre Commercial,2,11,0,0,25-34,1,3,3,1,3,2,4,Oui,20 %,1,0,2,3,Infra & Cloud,Occasionnel,0,0,15-19 km
+7.81156848934518,Consulting,Consultant,4,9,6,1,35-44,3,2,1,2,2,2,3,Non,14 %,0,1,4,2,Transformation Digitale,Frequent,0,5,0-4 km
+9.00724451596575,Commercial,Cadre Commercial,2,10,1,0,25-34,1,3,3,3,1,3,3,Non,13 %,1,3,2,4,Marketing,Occasionnel,0,0,15-19 km
+7.6544432264701125,Consulting,Assistant de Direction,1,1,1,0,25-34,4,2,1,1,3,3,3,Non,13 %,0,1,2,3,Entrepreunariat,Occasionnel,0,0,0-4 km
+8.574518258035507,Consulting,Manager,3,10,7,0,25-34,3,4,2,3,3,3,3,Non,16 %,0,1,3,3,Infra & Cloud,Occasionnel,1,7,15-19 km
+7.908019444632471,Consulting,Assistant de Direction,2,12,7,7,25-34,2,3,1,2,2,3,3,Non,14 %,0,0,3,4,Entrepreunariat,Aucun,0,7,5-9 km
+8.667680024690174,Consulting,Manager,3,15,1,0,35-44,2,1,2,4,3,3,3,Oui,16 %,0,1,2,3,Transformation Digitale,Occasionnel,1,0,15-19 km
+7.798933310041217,Consulting,Assistant de Direction,9,6,1,0,35-44,3,2,1,3,4,3,3,Oui,16 %,1,1,4,3,Entrepreunariat,Frequent,0,0,15-19 km
+7.925518979786926,Consulting,Consultant,8,7,5,3,35-44,2,3,1,2,2,2,4,Non,22 %,0,3,6,3,Transformation Digitale,Occasionnel,0,4,10-14 km
+9.854244785957677,Consulting,Directeur Technique,8,34,1,0,45-59,3,2,5,1,2,3,3,Non,12 %,0,3,2,3,Transformation Digitale,Occasionnel,0,0,0-4 km
+8.024862150286411,Consulting,Assistant de Direction,5,11,9,8,25-34,4,3,2,2,4,2,3,Non,15 %,0,2,2,3,Entrepreunariat,Aucun,1,7,0-4 km
+7.736307096548285,Consulting,Consultant,1,5,5,3,35-44,3,3,1,1,2,3,4,Non,20 %,0,2,2,4,Infra & Cloud,Occasionnel,0,4,5-9 km
+8.294549515143679,Commercial,Cadre Commercial,1,15,15,14,25-34,4,3,2,3,3,3,3,Oui,14 %,0,1,3,3,Infra & Cloud,Aucun,0,7,10-14 km
+9.470085825734941,Consulting,Tech Lead,4,27,3,2,45-59,1,2,4,3,4,2,4,Oui,20 %,0,3,2,4,Transformation Digitale,Aucun,0,2,0-4 km
+8.17188200612782,Ressources Humaines,Ressources Humaines,0,10,9,7,35-44,2,3,1,4,2,3,3,Non,13 %,0,0,5,3,Infra & Cloud,Occasionnel,1,8,0-4 km
+8.704502289721232,Commercial,Cadre Commercial,5,6,2,2,25-34,4,1,2,4,1,3,3,Non,12 %,0,0,3,2,Infra & Cloud,Occasionnel,2,2,0-4 km
+7.893572073504902,Commercial,Représentant Commercial,1,1,1,0,18-24,2,3,1,2,2,3,3,Non,13 %,1,0,3,1,Marketing,Occasionnel,1,0,5-9 km
+8.216898580913613,Consulting,Consultant,1,5,5,4,35-44,4,2,1,3,2,3,3,Non,11 %,0,1,3,2,Autre,Occasionnel,0,4,5-9 km
+7.782807262839695,Consulting,Consultant,1,1,1,0,18-24,3,3,1,1,3,3,3,Oui,17 %,1,0,6,1,Transformation Digitale,Occasionnel,0,0,5-9 km
+8.606851063346772,Commercial,Cadre Commercial,1,13,12,7,25-34,1,2,2,4,1,3,3,Non,14 %,0,2,3,4,Marketing,Occasionnel,5,7,20-29 km
+9.481664377815145,Consulting,Senior Manager,2,15,2,2,45-59,1,3,3,3,4,3,3,Non,11 %,0,0,2,3,Entrepreunariat,Occasionnel,2,2,0-4 km
+8.340456012916183,Commercial,Cadre Commercial,1,5,5,2,35-44,2,2,2,2,1,3,3,Non,14 %,0,2,2,2,Marketing,Occasionnel,0,3,5-9 km
+9.869361837806752,Consulting,Directeur Technique,7,24,2,1,45-59,3,3,5,4,3,3,3,Oui,17 %,0,1,3,4,Transformation Digitale,Occasionnel,2,2,0-4 km
+9.026657889542886,Consulting,Manager,7,15,12,8,35-44,4,3,3,1,4,3,3,Oui,13 %,0,1,1,3,Infra & Cloud,Occasionnel,5,7,10-14 km
+7.759187438507795,Consulting,Assistant de Direction,1,6,5,3,35-44,3,3,1,2,3,2,3,Oui,12 %,1,3,2,2,Transformation Digitale,Frequent,2,3,0-4 km
+8.311889558230359,Ressources Humaines,Ressources Humaines,2,19,10,0,35-44,3,3,2,2,3,2,3,Non,13 %,0,0,4,2,Autre,Occasionnel,4,7,5-9 km
+8.668024081118821,Commercial,Cadre Commercial,1,10,10,7,35-44,3,3,2,4,4,3,3,Oui,18 %,1,0,2,3,Infra & Cloud,Occasionnel,7,7,20-29 km
+8.053251153549096,Consulting,Assistant de Direction,6,14,10,8,25-34,4,4,1,1,2,3,3,Non,19 %,0,1,1,4,Infra & Cloud,Occasionnel,7,6,5-9 km
+7.623153068476902,Consulting,Assistant de Direction,1,5,5,3,25-34,3,3,1,4,3,4,3,Non,11 %,0,1,6,3,Infra & Cloud,Occasionnel,0,3,0-4 km
+9.5078490052457,Consulting,Directeur Technique,7,9,4,3,35-44,3,3,3,3,3,3,4,Non,21 %,0,0,3,1,Transformation Digitale,Occasionnel,2,2,10-14 km
+8.98619632032839,Commercial,Cadre Commercial,8,6,2,2,45-59,2,2,2,2,3,3,3,Non,15 %,0,0,3,2,Infra & Cloud,Aucun,2,2,20-29 km
+8.125039097367745,Consulting,Consultant,4,7,4,3,35-44,3,3,1,1,4,2,3,Non,17 %,0,1,5,2,Infra & Cloud,Occasionnel,0,2,0-4 km
+8.619569258033104,Consulting,Manager,5,10,0,0,35-44,2,4,2,1,3,2,3,Non,18 %,0,2,2,3,Transformation Digitale,Occasionnel,0,0,10-14 km
+8.659213451436667,Consulting,Tech Lead,2,15,7,7,35-44,2,3,2,4,3,3,3,Non,14 %,0,1,6,2,Transformation Digitale,Aucun,1,7,0-4 km
+7.860570785538664,Ressources Humaines,Ressources Humaines,5,13,11,10,35-44,1,3,1,2,4,3,3,Non,13 %,0,3,3,3,Ressources Humaines,Aucun,3,8,0-4 km
+8.584290934948731,Consulting,Consultant,4,11,7,1,25-34,4,3,2,1,3,2,3,Non,17 %,1,1,3,4,Infra & Cloud,Frequent,0,7,5-9 km
+8.346167594364134,Consulting,Tech Lead,1,10,10,3,35-44,4,3,2,1,2,1,3,Non,15 %,1,0,4,4,Transformation Digitale,Occasionnel,0,8,10-14 km
+8.325548307161398,Commercial,Cadre Commercial,2,7,2,1,35-44,3,3,2,4,4,3,3,Non,18 %,0,1,6,3,Infra & Cloud,Frequent,2,2,20-29 km
+7.79934339821592,Consulting,Assistant de Direction,4,7,3,2,35-44,1,3,1,3,3,2,3,Non,13 %,0,0,2,3,Infra & Cloud,Aucun,1,2,5-9 km
+8.835064935031076,Consulting,Manager,3,11,3,2,35-44,2,4,2,2,1,1,3,Non,12 %,0,0,3,3,Infra & Cloud,Occasionnel,1,2,5-9 km
+9.254165851516213,Commercial,Cadre Commercial,0,23,22,14,35-44,3,3,3,3,4,4,3,Oui,13 %,0,1,3,1,Marketing,Occasionnel,13,5,0-4 km
+9.176576741823373,Consulting,Tech Lead,9,9,7,7,25-34,1,3,3,3,2,3,3,Non,14 %,0,0,3,3,Transformation Digitale,Occasionnel,0,2,10-14 km
+7.67275789664251,Ressources Humaines,Ressources Humaines,0,6,5,1,25-34,4,3,1,2,3,3,3,Oui,11 %,1,0,3,2,Transformation Digitale,Occasionnel,1,4,20-29 km
+9.096835671179361,Consulting,Manager,4,13,9,7,45-59,4,3,2,2,4,4,4,Non,22 %,1,1,2,2,Transformation Digitale,Occasionnel,3,7,20-29 km
+8.781708985836179,Consulting,Manager,4,12,5,3,35-44,3,3,2,4,4,3,3,Non,17 %,0,1,3,3,Infra & Cloud,Occasionnel,0,3,0-4 km
+8.824677891164198,Commercial,Cadre Commercial,1,10,10,8,25-34,2,4,2,3,3,3,4,Non,21 %,0,2,5,2,Entrepreunariat,Occasionnel,4,8,5-9 km
+9.698429468768303,Commercial,Senior Manager,4,37,16,9,45-59,2,3,4,2,4,2,4,Non,22 %,0,1,0,3,Transformation Digitale,Aucun,14,14,0-4 km
+7.903226808730733,Consulting,Consultant,0,6,5,4,35-44,2,1,1,3,2,4,3,Non,16 %,0,1,2,4,Transformation Digitale,Occasionnel,0,3,20-29 km
+9.24319470884713,Consulting,Tech Lead,8,28,22,11,45-59,3,2,3,2,3,3,3,Oui,12 %,0,1,4,3,Infra & Cloud,Occasionnel,14,10,0-4 km
+8.400434630806041,Consulting,Manager,2,15,7,4,35-44,2,3,2,1,2,3,3,Non,12 %,0,1,3,3,Infra & Cloud,Occasionnel,7,7,10-14 km
+8.832733591996416,Consulting,Assistant de Direction,4,14,7,1,45-59,4,3,2,4,2,2,3,Non,15 %,0,1,2,4,Transformation Digitale,Occasionnel,1,7,5-9 km
+9.173468897200278,Commercial,Cadre Commercial,2,9,3,2,25-34,1,3,3,1,4,3,3,Non,14 %,0,2,3,4,Marketing,Frequent,2,2,5-9 km
+8.18646442942209,Consulting,Assistant de Direction,1,3,3,2,25-34,3,3,1,1,3,3,4,Non,25 %,0,1,3,3,Transformation Digitale,Occasionnel,1,2,0-4 km
+8.595264726836392,Commercial,Représentant Commercial,2,20,4,2,35-44,2,1,2,4,1,2,4,Oui,20 %,0,2,4,4,Marketing,Occasionnel,0,3,0-4 km
+8.452121194672523,Commercial,Cadre Commercial,1,5,5,3,25-34,3,3,2,4,1,3,3,Non,13 %,0,0,4,3,Transformation Digitale,Occasionnel,1,2,10-14 km
+9.667005436782738,Consulting,Directeur Technique,2,23,2,2,45-59,1,3,4,3,2,3,3,Oui,14 %,0,0,3,4,Infra & Cloud,Frequent,2,2,15-19 km
+7.323170717943469,Consulting,Assistant de Direction,1,0,0,0,18-24,2,3,1,3,3,1,3,Non,16 %,0,0,4,3,Transformation Digitale,Aucun,0,0,10-14 km
+7.9919305198524775,Ressources Humaines,Ressources Humaines,0,2,1,0,25-34,4,4,1,1,3,3,3,Non,17 %,1,0,4,5,Ressources Humaines,Occasionnel,0,0,15-19 km
+7.756195343948118,Ressources Humaines,Ressources Humaines,4,4,2,2,25-34,1,2,1,1,4,3,3,Oui,15 %,1,3,3,3,Ressources Humaines,Occasionnel,2,0,10-14 km
+8.54772239645106,Commercial,Cadre Commercial,4,10,8,7,45-59,3,3,2,3,2,4,4,Non,22 %,0,2,3,4,Infra & Cloud,Aucun,5,7,0-4 km
+8.848365694942547,Consulting,Assistant de Direction,4,15,1,0,35-44,4,3,2,2,4,3,4,Oui,22 %,0,1,2,4,Autre,Occasionnel,0,0,0-4 km
+8.644002038279933,Commercial,Cadre Commercial,1,7,7,7,35-44,1,3,2,4,3,3,4,Non,20 %,0,1,5,4,Infra & Cloud,Frequent,7,7,0-4 km
+7.77485576666552,Consulting,Consultant,0,6,5,4,25-34,4,3,1,4,3,2,3,Oui,14 %,0,0,3,2,Infra & Cloud,Frequent,0,2,5-9 km
+8.246171559857563,Consulting,Consultant,1,11,11,8,25-34,4,3,1,4,2,4,3,Non,13 %,0,0,3,1,Transformation Digitale,Frequent,3,10,20-29 km
+8.444407421690585,Commercial,Cadre Commercial,8,4,0,0,25-34,4,3,2,4,3,4,3,Non,13 %,0,0,2,4,Marketing,Frequent,0,0,10-14 km
+7.98514393119862,Consulting,Assistant de Direction,3,10,6,3,35-44,3,3,1,3,2,2,4,Non,22 %,0,2,1,4,Entrepreunariat,Aucun,3,3,10-14 km
+7.652545692693921,Consulting,Consultant,4,7,2,2,45-59,2,3,1,3,3,3,3,Non,12 %,0,0,2,4,Infra & Cloud,Occasionnel,2,0,5-9 km
+9.057072635572965,Consulting,Tech Lead,3,12,9,8,45-59,4,3,3,4,3,2,3,Non,14 %,0,1,4,2,Infra & Cloud,Occasionnel,4,7,0-4 km
+7.903596289614301,Ressources Humaines,Ressources Humaines,1,3,3,2,25-34,3,3,1,4,2,3,3,Non,15 %,0,1,2,2,Infra & Cloud,Aucun,2,2,0-4 km
+8.76170676846664,Consulting,Manager,8,11,7,0,25-34,4,1,2,3,4,3,3,Non,17 %,0,2,3,1,Infra & Cloud,Occasionnel,1,6,20-29 km
+8.286269452783065,Consulting,Consultant,4,8,0,0,35-44,4,3,1,3,4,3,3,Non,13 %,0,0,3,3,Infra & Cloud,Occasionnel,0,0,5-9 km
+9.20109779060925,Commercial,Cadre Commercial,7,7,2,2,25-34,3,2,2,2,3,2,3,Oui,12 %,1,0,3,4,Marketing,Occasionnel,2,2,0-4 km
+9.489939868234607,Commercial,Cadre Commercial,2,25,19,17,45-59,1,4,4,1,4,3,3,Non,12 %,0,1,5,3,Entrepreunariat,Occasionnel,2,8,0-4 km
+8.172164452111904,Commercial,Représentant Commercial,1,9,9,8,25-34,2,2,2,3,4,3,4,Non,21 %,0,1,5,1,Transformation Digitale,Occasionnel,5,8,20-29 km
+7.9391588179567965,Ressources Humaines,Ressources Humaines,1,1,1,0,25-34,4,2,1,2,4,3,3,Non,11 %,0,0,3,1,Transformation Digitale,Occasionnel,0,0,5-9 km
+9.872667455196241,Consulting,Senior Manager,7,21,16,12,35-44,1,2,5,3,4,3,3,Non,13 %,0,0,2,3,Transformation Digitale,Occasionnel,6,14,5-9 km
+9.886646535340102,Consulting,Directeur Technique,4,29,22,10,45-59,4,2,5,2,4,3,3,Non,12 %,0,0,3,3,Infra & Cloud,Occasionnel,12,9,10-14 km
+7.799753318287247,Consulting,Assistant de Direction,1,1,1,0,25-34,4,2,1,4,2,2,4,Oui,24 %,1,0,3,2,Infra & Cloud,Frequent,1,0,20-29 km
+8.897682313454224,Commercial,Cadre Commercial,5,14,8,7,45-59,3,3,3,2,3,3,4,Non,21 %,1,3,2,3,Infra & Cloud,Occasionnel,0,7,10-14 km
+8.471149252914831,Consulting,Assistant de Direction,0,8,7,6,25-34,4,2,1,1,4,2,3,Non,19 %,0,1,2,3,Infra & Cloud,Frequent,7,3,15-19 km
+8.269500767180615,Consulting,Assistant de Direction,8,7,2,2,35-44,4,3,2,4,2,3,3,Non,14 %,0,3,2,4,Autre,Occasionnel,2,2,15-19 km
+7.887208585813932,Consulting,Assistant de Direction,8,19,5,2,45-59,2,2,1,4,2,4,4,Non,20 %,0,1,2,4,Entrepreunariat,Occasionnel,0,4,0-4 km
+7.957527402230773,Commercial,Représentant Commercial,1,1,1,0,25-34,2,3,1,2,4,3,3,Non,19 %,0,1,3,3,Transformation Digitale,Occasionnel,0,0,0-4 km
+6.9865664594064265,Commercial,Représentant Commercial,1,1,1,0,25-34,2,3,1,4,3,2,3,Non,13 %,1,0,3,3,Transformation Digitale,Occasionnel,0,0,5-9 km
+7.813187267521416,Consulting,Assistant de Direction,1,1,1,0,18-24,4,3,1,2,1,3,4,Oui,23 %,1,0,2,1,Infra & Cloud,Occasionnel,0,0,5-9 km
+8.643649615368796,Commercial,Cadre Commercial,1,10,10,9,35-44,2,2,2,3,1,3,3,Oui,13 %,0,1,4,4,Entrepreunariat,Occasionnel,1,7,10-14 km
+8.342363500380579,Consulting,Consultant,1,10,10,8,25-34,2,3,2,3,1,3,3,Non,11 %,0,1,2,3,Infra & Cloud,Occasionnel,0,2,20-29 km
+9.18132342290569,Commercial,Cadre Commercial,2,9,5,3,25-34,3,3,3,4,4,3,3,Oui,13 %,0,3,3,3,Infra & Cloud,Occasionnel,1,0,0-4 km
+7.631916513071252,Consulting,Consultant,3,11,3,2,25-34,4,3,1,1,2,3,3,Non,14 %,0,0,2,3,Infra & Cloud,Occasionnel,1,2,5-9 km
+8.36287583103188,Consulting,Assistant de Direction,5,16,5,3,35-44,4,3,2,1,3,3,4,Oui,22 %,0,1,2,4,Transformation Digitale,Occasionnel,0,4,5-9 km
+8.47407690034261,Consulting,Tech Lead,0,4,3,2,35-44,4,2,2,2,4,3,3,Oui,11 %,0,0,2,2,Autre,Occasionnel,0,2,15-19 km
+8.683893367307235,Consulting,Tech Lead,0,10,9,8,45-59,2,2,2,4,4,2,3,Non,13 %,0,2,2,2,Infra & Cloud,Occasionnel,3,8,20-29 km
+8.265392930852224,Ressources Humaines,Ressources Humaines,1,10,10,1,35-44,2,2,2,4,4,2,4,Non,21 %,0,0,2,1,Ressources Humaines,Frequent,0,8,0-4 km
+9.730561717382535,Consulting,Senior Manager,2,22,19,7,35-44,1,3,4,1,1,3,3,Non,11 %,0,1,3,4,Infra & Cloud,Occasionnel,11,16,0-4 km
+7.984121958702927,Consulting,Assistant de Direction,1,1,1,0,25-34,2,2,1,3,3,2,3,Oui,13 %,0,1,3,2,Infra & Cloud,Occasionnel,1,0,0-4 km
+8.77971129020447,Commercial,Cadre Commercial,0,9,8,7,25-34,1,4,2,3,2,2,3,Non,14 %,0,0,5,2,Transformation Digitale,Occasionnel,0,7,0-4 km
+9.751210117090551,Consulting,Senior Manager,3,24,22,17,45-59,4,3,4,4,2,3,3,Non,11 %,0,1,3,3,Transformation Digitale,Frequent,4,7,20-29 km
+8.523970175695261,Consulting,Manager,2,10,2,0,35-44,2,4,2,1,4,3,3,Non,15 %,0,1,5,4,Infra & Cloud,Occasionnel,2,2,0-4 km
+7.744136627627991,Consulting,Assistant de Direction,1,5,5,2,25-34,4,1,1,1,2,3,4,Oui,23 %,1,1,2,4,Entrepreunariat,Aucun,3,0,15-19 km
+7.858640655620791,Consulting,Consultant,1,5,4,2,45-59,1,3,1,4,4,3,3,Non,16 %,1,0,3,2,Infra & Cloud,Occasionnel,1,0,20-29 km
+8.613956859848546,Commercial,Cadre Commercial,2,12,4,2,35-44,3,2,2,2,3,1,3,Non,16 %,0,2,1,2,Marketing,Occasionnel,1,3,15-19 km
+8.387995252944556,Commercial,Cadre Commercial,5,14,5,4,35-44,3,3,2,2,3,3,4,Non,21 %,0,1,3,3,Marketing,Occasionnel,1,4,5-9 km
+9.499196754655733,Consulting,Directeur Technique,9,18,13,7,35-44,3,3,3,1,2,4,3,Non,13 %,0,1,3,3,Transformation Digitale,Occasionnel,5,7,5-9 km
+8.792397742356906,Commercial,Cadre Commercial,2,8,5,2,25-34,3,3,2,4,4,3,3,Oui,11 %,0,1,2,2,Transformation Digitale,Occasionnel,1,4,10-14 km
+9.000113045928519,Commercial,Cadre Commercial,3,9,4,2,25-34,4,2,2,4,3,2,3,Oui,12 %,0,0,3,1,Transformation Digitale,Occasionnel,0,1,0-4 km
+8.288785810426928,Consulting,Consultant,8,4,2,2,25-34,1,4,1,3,2,2,3,Non,12 %,0,1,0,3,Transformation Digitale,Occasionnel,2,2,0-4 km
+7.841885928984623,Consulting,Consultant,0,8,7,7,25-34,3,4,1,4,1,3,3,Non,18 %,0,1,3,3,Autre,Frequent,7,7,5-9 km
+8.594154232552366,Consulting,Manager,4,12,4,2,45-59,2,3,2,3,3,3,3,Non,12 %,0,0,3,4,Transformation Digitale,Frequent,0,3,0-4 km
+8.610319169405722,Commercial,Cadre Commercial,1,10,10,4,25-34,2,3,2,3,2,2,3,Non,14 %,0,0,2,4,Marketing,Occasionnel,0,9,10-14 km
+8.82981174915805,Commercial,Cadre Commercial,1,7,7,7,25-34,3,2,2,4,3,3,3,Oui,12 %,0,1,2,2,Infra & Cloud,Frequent,0,7,0-4 km
+6.9957661563048505,Commercial,Représentant Commercial,1,1,1,0,25-34,3,4,1,1,4,3,3,Non,17 %,1,0,3,3,Entrepreunariat,Frequent,0,0,20-29 km
+8.654691704601872,Commercial,Cadre Commercial,6,10,3,2,35-44,1,1,2,3,3,3,3,Non,19 %,0,1,1,4,Infra & Cloud,Aucun,1,2,20-29 km
+7.708410667257367,Consulting,Assistant de Direction,1,6,5,3,25-34,2,3,1,2,3,2,3,Non,11 %,0,1,3,4,Entrepreunariat,Occasionnel,1,2,0-4 km
+8.656607247198915,Consulting,Assistant de Direction,1,16,15,10,25-34,3,2,2,4,2,3,3,Oui,15 %,0,0,3,4,Autre,Frequent,6,11,20-29 km
+9.19573421958682,Commercial,Cadre Commercial,3,6,2,0,25-34,4,3,2,3,4,3,3,Oui,11 %,1,0,0,2,Marketing,Occasionnel,2,2,10-14 km
+8.60666819784384,Consulting,Assistant de Direction,8,16,8,7,45-59,3,3,2,2,3,4,3,Non,18 %,0,1,4,4,Entrepreunariat,Aucun,1,7,10-14 km
+8.59062950948942,Commercial,Cadre Commercial,4,6,0,0,45-59,4,2,2,1,3,3,3,Non,16 %,0,1,3,5,Marketing,Occasionnel,0,0,10-14 km
+8.54714026778419,Consulting,Tech Lead,1,10,10,0,35-44,1,3,2,1,4,3,4,Non,25 %,0,1,3,2,Transformation Digitale,Occasionnel,7,9,5-9 km
+7.665753431861699,Consulting,Assistant de Direction,1,20,20,11,35-44,4,2,2,2,3,3,3,Oui,16 %,0,1,3,3,Transformation Digitale,Frequent,0,7,5-9 km
+9.791214310053341,Commercial,Senior Manager,4,29,1,0,45-59,4,3,4,4,3,2,3,Oui,13 %,0,1,2,3,Infra & Cloud,Occasionnel,0,0,20-29 km
+7.796880342783522,Consulting,Assistant de Direction,3,8,4,1,25-34,1,4,1,3,1,3,3,Oui,14 %,1,0,2,2,Infra & Cloud,Frequent,0,3,5-9 km
+8.470520783217808,Consulting,Assistant de Direction,2,10,5,2,35-44,2,3,1,4,4,4,3,Non,19 %,0,2,0,2,Infra & Cloud,Occasionnel,0,3,5-9 km
+9.860684430210819,Consulting,Directeur Technique,3,28,5,4,45-59,2,3,5,4,4,3,3,Non,15 %,0,0,3,1,Infra & Cloud,Frequent,4,3,0-4 km
+8.534640105019959,Commercial,Cadre Commercial,3,14,0,0,35-44,2,3,2,4,3,3,3,Oui,12 %,0,2,4,4,Marketing,Occasionnel,0,0,10-14 km
+7.9599745280805365,Ressources Humaines,Ressources Humaines,1,1,1,0,25-34,1,2,1,2,1,3,3,Non,12 %,1,0,2,3,Ressources Humaines,Frequent,0,0,20-29 km
+8.62371303479391,Commercial,Cadre Commercial,0,6,5,3,35-44,2,3,2,1,4,1,3,Non,16 %,0,1,2,4,Transformation Digitale,Occasionnel,0,4,15-19 km
+7.6708948313621175,Consulting,Assistant de Direction,1,5,5,3,25-34,3,3,1,3,3,2,3,Non,14 %,0,0,3,3,Transformation Digitale,Aucun,1,4,15-19 km
+8.028129059431759,Consulting,Assistant de Direction,1,4,4,2,25-34,3,3,1,1,4,4,3,Oui,13 %,0,1,3,2,Transformation Digitale,Aucun,2,3,0-4 km
+7.941295570906532,Consulting,Consultant,1,5,5,4,35-44,1,4,1,2,2,3,4,Non,22 %,0,0,3,4,Infra & Cloud,Aucun,0,2,5-9 km
+9.19917830726999,Commercial,Cadre Commercial,1,14,14,8,25-34,1,3,3,4,1,2,4,Non,21 %,0,0,3,3,Marketing,Occasionnel,2,1,0-4 km
+9.062883902508307,Commercial,Cadre Commercial,1,9,8,7,25-34,4,3,3,3,3,2,3,Non,18 %,0,1,2,4,Transformation Digitale,Occasionnel,1,1,10-14 km
+7.961370201719511,Consulting,Consultant,0,8,7,7,25-34,3,3,1,1,4,2,3,Non,13 %,0,0,6,3,Transformation Digitale,Occasionnel,7,6,0-4 km
+8.589327789175437,Consulting,Manager,0,6,5,3,25-34,1,3,2,1,1,2,3,Non,12 %,0,1,5,3,Infra & Cloud,Occasionnel,0,2,0-4 km
+8.805075243870684,Consulting,Manager,5,9,5,1,25-34,3,3,2,4,2,3,3,Non,18 %,0,1,6,4,Transformation Digitale,Aucun,1,2,15-19 km
+8.517992871586802,Consulting,Assistant de Direction,1,10,10,8,25-34,4,1,2,1,2,3,4,Non,21 %,0,0,6,3,Infra & Cloud,Frequent,8,7,0-4 km
+7.769800996003896,Consulting,Consultant,5,6,4,1,25-34,3,2,1,4,1,2,3,Non,12 %,1,1,2,3,Entrepreunariat,Occasionnel,0,3,15-19 km
+7.958227192322312,Commercial,Représentant Commercial,4,20,1,0,35-44,1,2,1,1,1,2,3,Non,14 %,0,0,3,3,Infra & Cloud,Occasionnel,0,0,0-4 km
+8.557374981049069,Commercial,Cadre Commercial,1,10,10,8,35-44,3,3,2,4,4,3,3,Oui,11 %,0,0,2,4,Infra & Cloud,Occasionnel,0,9,5-9 km
+8.32020459757888,Commercial,Cadre Commercial,1,7,7,7,25-34,4,3,2,4,1,3,3,Non,14 %,0,0,5,3,Marketing,Occasionnel,0,7,5-9 km
+9.177817180270623,Consulting,Tech Lead,8,8,1,0,25-34,4,2,2,4,2,3,4,Non,24 %,0,0,1,4,Infra & Cloud,Occasionnel,0,0,5-9 km
+8.633731007664188,Commercial,Cadre Commercial,1,10,10,7,25-34,1,3,2,4,3,3,3,Oui,11 %,1,0,4,4,Marketing,Frequent,0,8,20-29 km
+9.254261559034111,Commercial,Cadre Commercial,6,15,2,2,45-59,1,3,3,1,2,2,3,Oui,13 %,1,0,2,4,Infra & Cloud,Occasionnel,2,2,20-29 km
+7.971776122880628,Consulting,Assistant de Direction,3,9,4,3,45-59,1,3,2,3,3,2,3,Non,11 %,0,2,6,2,Infra & Cloud,Occasionnel,2,3,5-9 km
+8.69433468816865,Consulting,Manager,1,9,9,7,25-34,4,3,2,3,3,3,4,Non,20 %,0,3,2,2,Infra & Cloud,Frequent,2,8,5-9 km
+8.924123891686012,Consulting,Manager,1,10,10,9,35-44,1,3,3,3,2,3,3,Non,17 %,0,1,1,3,Infra & Cloud,Occasionnel,0,9,10-14 km
+8.003697339094368,Ressources Humaines,Ressources Humaines,0,7,6,2,35-44,4,3,1,2,2,3,3,Oui,11 %,0,1,2,4,Autre,Frequent,1,2,0-4 km
+9.885170820750231,Ressources Humaines,Senior Manager,4,35,10,9,45-59,3,4,5,2,1,3,3,Oui,18 %,0,1,0,4,Ressources Humaines,Occasionnel,1,4,20-29 km
+7.029972911706386,Consulting,Consultant,1,1,1,0,25-34,4,1,1,4,3,3,3,Oui,11 %,0,3,4,1,Transformation Digitale,Occasionnel,0,0,0-4 km
+9.498672233269462,Commercial,Cadre Commercial,0,21,20,8,35-44,2,3,4,1,1,3,3,Non,12 %,0,0,3,4,Marketing,Occasionnel,11,10,15-19 km
+8.374015421739909,Consulting,Assistant de Direction,1,20,20,9,35-44,4,2,2,3,4,3,3,Non,12 %,0,0,2,2,Infra & Cloud,Aucun,3,7,20-29 km
+9.308555419473137,Consulting,Directeur Technique,4,13,11,7,25-34,3,3,3,3,3,4,4,Non,20 %,0,1,2,3,Transformation Digitale,Aucun,4,8,10-14 km
+8.398634855292102,Consulting,Tech Lead,6,9,5,2,45-59,3,3,2,1,4,3,3,Oui,19 %,0,0,3,3,Transformation Digitale,Occasionnel,1,4,10-14 km
+8.43771698991444,Consulting,Manager,1,4,4,3,18-24,2,2,2,3,2,2,3,Non,12 %,0,0,2,2,Infra & Cloud,Occasionnel,1,2,0-4 km
+7.881559917056899,Consulting,Consultant,1,5,5,2,18-24,4,3,1,4,3,4,3,Non,13 %,0,0,6,2,Autre,Occasionnel,1,4,10-14 km
+8.752107198329362,Consulting,Consultant,1,10,10,9,35-44,4,3,2,3,1,4,3,Non,11 %,0,1,2,3,Entrepreunariat,Frequent,9,4,10-14 km
+8.644354337032917,Commercial,Cadre Commercial,3,15,11,8,35-44,2,3,2,2,3,3,3,Non,14 %,0,1,4,2,Marketing,Occasionnel,5,10,0-4 km
+7.690743163541872,Ressources Humaines,Ressources Humaines,4,6,2,0,25-34,3,3,1,2,3,3,3,Non,14 %,0,0,3,3,Ressources Humaines,Occasionnel,1,2,0-4 km
+8.229244416735913,Consulting,Consultant,1,12,12,8,25-34,4,3,1,2,3,2,3,Non,13 %,0,0,6,2,Transformation Digitale,Occasionnel,1,7,0-4 km
+8.288534459413917,Consulting,Consultant,6,7,2,2,25-34,4,3,1,3,3,2,3,Oui,19 %,0,1,2,1,Autre,Occasionnel,0,2,0-4 km
+9.063463176115423,Consulting,Manager,2,25,17,14,45-59,1,3,3,3,2,3,4,Non,23 %,0,0,3,3,Transformation Digitale,Occasionnel,12,11,20-29 km
+7.605392364814935,Consulting,Consultant,1,1,1,1,25-34,2,2,1,3,3,2,3,Non,12 %,0,3,2,2,Transformation Digitale,Aucun,0,0,0-4 km
+8.398634855292102,Commercial,Cadre Commercial,0,16,15,13,35-44,4,3,2,2,1,3,3,Non,15 %,0,2,3,4,Infra & Cloud,Occasionnel,5,8,0-4 km
+8.028781162487148,Commercial,Représentant Commercial,0,3,2,2,25-34,1,3,1,3,3,3,3,Non,19 %,0,1,1,2,Infra & Cloud,Occasionnel,1,2,0-4 km
+8.579604451537634,Consulting,Tech Lead,2,10,8,3,35-44,1,2,2,3,4,3,3,Non,11 %,0,1,1,4,Infra & Cloud,Frequent,7,7,5-9 km
+8.596189197642735,Consulting,Assistant de Direction,6,9,4,3,35-44,4,3,2,1,3,2,3,Oui,17 %,0,1,3,4,Infra & Cloud,Occasionnel,1,2,15-19 km
+7.931284761525891,Consulting,Assistant de Direction,3,12,5,3,35-44,4,3,1,4,1,3,4,Non,22 %,0,1,3,3,Infra & Cloud,Occasionnel,1,0,0-4 km
+9.38915578944085,Consulting,Directeur Technique,0,14,13,8,45-59,3,3,3,2,1,1,3,Non,18 %,0,2,3,1,Transformation Digitale,Aucun,5,12,0-4 km
+7.886457270977689,Consulting,Consultant,7,5,2,2,35-44,4,3,1,3,3,3,3,Oui,11 %,0,1,3,4,Transformation Digitale,Occasionnel,2,2,10-14 km
+8.124446855715847,Consulting,Assistant de Direction,0,4,3,2,18-24,4,3,1,3,4,4,3,Non,12 %,0,0,2,2,Infra & Cloud,Occasionnel,1,2,0-4 km
+8.536799721055155,Consulting,Assistant de Direction,1,10,10,7,35-44,2,3,2,3,2,3,3,Non,19 %,0,0,5,4,Transformation Digitale,Occasionnel,0,8,5-9 km
+8.492695559815838,Consulting,Manager,0,10,9,7,25-34,2,3,2,4,1,3,3,Oui,13 %,0,1,6,2,Transformation Digitale,Occasionnel,8,1,15-19 km
+7.950854857719988,Consulting,Consultant,1,6,6,2,25-34,3,2,1,2,3,3,3,Non,13 %,0,0,3,4,Infra & Cloud,Occasionnel,4,1,20-29 km
+7.786136437783072,Consulting,Consultant,8,8,1,0,35-44,1,3,1,4,3,2,3,Non,19 %,0,2,3,4,Infra & Cloud,Occasionnel,0,0,0-4 km
+7.727535110475448,Commercial,Représentant Commercial,0,3,2,2,25-34,2,2,1,2,2,3,3,Non,14 %,0,1,2,4,Transformation Digitale,Occasionnel,2,2,0-4 km
+8.32093496888341,Consulting,Assistant de Direction,7,18,7,7,35-44,1,3,2,4,1,3,3,Non,13 %,0,0,2,1,Infra & Cloud,Occasionnel,1,7,20-29 km
+9.488502271043805,Consulting,Directeur Technique,3,20,18,16,35-44,2,1,3,3,1,3,3,Non,12 %,0,1,3,3,Transformation Digitale,Occasionnel,1,11,10-14 km
+9.251770181739323,Commercial,Cadre Commercial,1,14,14,10,25-34,3,3,3,4,3,3,3,Non,19 %,0,2,3,4,Marketing,Occasionnel,5,7,0-4 km
+9.528430400599346,Consulting,Directeur Technique,1,16,16,11,35-44,3,4,3,4,1,3,4,Oui,25 %,0,1,2,3,Infra & Cloud,Occasionnel,6,8,10-14 km
+8.498621805830801,Commercial,Cadre Commercial,0,6,5,3,25-34,1,3,2,3,2,2,4,Oui,22 %,0,1,3,2,Autre,Occasionnel,0,4,5-9 km
+8.155649270366002,Commercial,Représentant Commercial,2,16,9,8,45-59,1,3,1,4,2,2,3,Non,15 %,0,2,3,4,Infra & Cloud,Aucun,0,0,20-29 km
+7.798523053625206,Consulting,Assistant de Direction,6,6,4,3,35-44,2,3,1,4,3,3,3,Oui,12 %,0,0,2,3,Transformation Digitale,Occasionnel,1,2,0-4 km
+7.7752758464868625,Commercial,Représentant Commercial,1,2,2,2,18-24,3,3,1,1,4,3,3,Oui,11 %,0,0,6,1,Transformation Digitale,Occasionnel,1,2,5-9 km
+9.874676470682008,Consulting,Senior Manager,2,21,6,0,35-44,4,3,5,4,3,2,3,Non,13 %,0,0,3,3,Infra & Cloud,Aucun,1,3,5-9 km
+7.490529402060711,Commercial,Représentant Commercial,1,1,1,0,18-24,4,3,1,1,1,2,3,Non,19 %,1,1,3,3,Marketing,Frequent,1,0,5-9 km
+8.941807118363164,Commercial,Cadre Commercial,0,10,9,7,35-44,1,2,3,4,3,3,3,Non,19 %,0,2,2,3,Transformation Digitale,Occasionnel,3,4,0-4 km
+8.543250725735527,Consulting,Tech Lead,7,18,4,2,35-44,4,3,2,2,2,3,3,Non,13 %,0,3,3,2,Infra & Cloud,Frequent,0,2,0-4 km
+8.749415406663651,Consulting,Manager,1,13,13,12,45-59,3,3,2,3,1,2,4,Non,21 %,0,1,2,4,Infra & Cloud,Aucun,1,9,0-4 km
+8.473868066677865,Consulting,Assistant de Direction,9,4,2,2,25-34,1,3,1,4,2,4,3,Oui,14 %,1,3,3,4,Transformation Digitale,Occasionnel,2,2,0-4 km
+9.845911404398532,Consulting,Senior Manager,5,24,22,6,35-44,1,3,5,3,1,2,3,Non,11 %,0,0,2,3,Infra & Cloud,Occasionnel,4,14,0-4 km
+7.757906208351747,Consulting,Consultant,8,14,10,9,45-59,4,3,1,3,4,1,3,Non,11 %,1,1,4,2,Entrepreunariat,Occasionnel,9,8,5-9 km
+9.51569044208137,Consulting,Tech Lead,0,21,20,7,35-44,1,2,4,2,3,3,4,Non,23 %,0,1,3,4,Infra & Cloud,Occasionnel,0,10,20-29 km
+8.811801223938751,Commercial,Cadre Commercial,1,8,8,7,25-34,4,2,2,3,4,3,4,Non,21 %,0,2,2,3,Marketing,Occasionnel,1,7,20-29 km
+8.595449689382004,Commercial,Cadre Commercial,1,15,15,12,35-44,4,1,2,4,1,2,4,Non,24 %,0,1,4,4,Marketing,Aucun,11,11,15-19 km
+9.098179005087852,Commercial,Cadre Commercial,2,14,5,4,35-44,3,2,2,2,3,3,3,Non,11 %,0,1,5,3,Infra & Cloud,Occasionnel,0,4,0-4 km
+7.799753318287247,Consulting,Assistant de Direction,1,4,4,2,25-34,4,3,1,1,4,3,3,Non,14 %,0,0,4,3,Entrepreunariat,Occasionnel,1,2,0-4 km
+9.086815885690685,Ressources Humaines,Ressources Humaines,1,9,9,0,35-44,3,3,3,4,3,3,3,Oui,16 %,0,0,2,4,Infra & Cloud,Occasionnel,1,7,20-29 km
+8.583729715216482,Commercial,Cadre Commercial,1,10,10,7,35-44,1,3,2,4,3,3,3,Non,11 %,0,1,1,2,Infra & Cloud,Occasionnel,1,9,10-14 km
+8.814181823188319,Commercial,Cadre Commercial,7,12,6,3,45-59,2,3,2,3,4,3,3,Non,12 %,1,2,3,4,Infra & Cloud,Frequent,0,1,0-4 km
+8.802823159741887,Commercial,Cadre Commercial,4,8,6,3,35-44,2,2,2,4,1,2,3,Non,13 %,0,1,2,4,Marketing,Occasionnel,0,0,10-14 km
+8.486940148245216,Commercial,Cadre Commercial,8,8,5,3,45-59,4,3,2,3,3,3,3,Non,15 %,0,0,3,3,Infra & Cloud,Occasionnel,0,1,20-29 km
+7.940939762327791,Consulting,Assistant de Direction,2,8,2,2,35-44,3,2,1,3,4,3,3,Non,14 %,0,0,2,4,Infra & Cloud,Occasionnel,2,2,0-4 km
+8.646465527120377,Consulting,Manager,1,10,10,2,35-44,3,3,2,3,4,4,3,Oui,14 %,0,2,2,4,Infra & Cloud,Frequent,0,2,15-19 km
+7.601901959875166,Consulting,Assistant de Direction,2,20,5,3,35-44,3,3,1,3,2,3,3,Non,14 %,0,3,2,4,Transformation Digitale,Occasionnel,0,2,0-4 km
+7.999007213243955,Consulting,Assistant de Direction,1,4,4,3,35-44,3,1,1,4,4,3,3,Non,12 %,0,1,5,4,Infra & Cloud,Occasionnel,1,1,0-4 km
+8.300528606199737,Consulting,Consultant,4,10,4,3,25-34,4,2,2,2,1,3,3,Oui,13 %,0,1,2,2,Autre,Occasionnel,0,3,10-14 km
+8.239065331769268,Consulting,Assistant de Direction,1,5,5,4,25-34,4,2,1,1,2,1,3,Non,14 %,0,0,3,4,Transformation Digitale,Occasionnel,0,4,20-29 km
+9.292381082312392,Commercial,Cadre Commercial,4,20,3,2,45-59,4,2,3,1,2,3,3,Oui,13 %,1,1,3,3,Marketing,Occasionnel,2,0,20-29 km
+9.39532504618962,Commercial,Cadre Commercial,0,21,20,9,35-44,2,2,4,4,1,2,3,Non,11 %,0,1,2,1,Marketing,Occasionnel,9,6,20-29 km
+9.204020443231363,Consulting,Tech Lead,0,10,9,4,25-34,2,3,2,1,2,3,3,Non,19 %,0,0,2,3,Transformation Digitale,Aucun,1,7,5-9 km
+7.995306620290822,Commercial,Représentant Commercial,0,5,4,2,25-34,4,2,1,3,4,3,3,Non,18 %,0,0,2,3,Autre,Occasionnel,0,0,5-9 km
+7.85243908535751,Consulting,Consultant,4,17,5,2,35-44,3,4,2,4,3,3,3,Non,17 %,0,1,3,2,Transformation Digitale,Frequent,0,3,20-29 km
+9.209540051805414,Consulting,Manager,4,9,7,7,35-44,4,2,3,1,1,3,3,Non,15 %,0,1,5,1,Transformation Digitale,Occasionnel,1,7,5-9 km
+8.723068501163928,Consulting,Tech Lead,1,6,6,2,25-34,2,4,2,2,2,3,4,Oui,20 %,0,1,0,3,Infra & Cloud,Occasionnel,0,3,0-4 km
+8.592486175451668,Commercial,Cadre Commercial,2,17,9,6,45-59,4,2,2,2,4,2,3,Non,14 %,0,0,3,3,Transformation Digitale,Frequent,0,8,0-4 km
+8.39049553837028,Consulting,Consultant,2,6,4,3,25-34,2,4,2,3,1,4,3,Non,12 %,0,0,3,3,Transformation Digitale,Occasionnel,1,2,5-9 km

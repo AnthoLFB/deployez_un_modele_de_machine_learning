@@ -1,0 +1,48 @@
+CREATE TABLE inputs (
+    id SERIAL PRIMARY KEY,
+
+    revenu_mensuel FLOAT,
+
+    departement VARCHAR(255),
+    poste VARCHAR(255),
+
+    nb_experiences_precedentes INTEGER,
+    annees_experience_totale INTEGER,
+    annees_dans_entreprise INTEGER,
+    annees_poste_actuel INTEGER,
+
+    age INTEGER,
+
+    satisfaction_environnement INTEGER,
+    note_evaluation_precedente FLOAT,
+
+    niveau_hierarchique INTEGER,
+
+    satisfaction_travail INTEGER,
+    satisfaction_equipe INTEGER,
+    satisfaction_equilibre_pro_perso INTEGER,
+
+    nombre_evaluations INTEGER,
+    note_evaluation_actuelle FLOAT,
+
+    heures_supplementaires BOOLEAN,
+
+    augmentation_salaire_precedente FLOAT,
+
+    nb_participations_pee INTEGER,
+    nb_formations_suivies INTEGER,
+
+    code_sondage VARCHAR(255),
+
+    niveau_education VARCHAR(255),
+    domaine_etude VARCHAR(255),
+
+    frequence_deplacement VARCHAR(255),
+
+    annees_depuis_derniere_promotion INTEGER,
+    annees_avec_responsable_actuel INTEGER,
+
+    tranche_distance_domicile_travail VARCHAR(255),
+
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);

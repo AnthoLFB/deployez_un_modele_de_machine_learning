@@ -1,0 +1,2 @@
+CREATE DATABASE production_deployez_un_modele_de_machine_learning
+OWNER "production-user_deployez_un_modele_de_machine_learning"

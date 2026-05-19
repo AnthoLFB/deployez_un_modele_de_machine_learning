@@ -1,0 +1,41 @@
+-- =====================================================
+-- DATABASE ACCESS
+-- =====================================================
+GRANT CONNECT ON DATABASE staging_deployez_un_modele_de_machine_learning
+TO "staging-user_deployez_un_modele_de_machine_learning";
+
+-- =====================================================
+-- SCHEMA ACCESS
+-- =====================================================
+GRANT USAGE ON SCHEMA public
+TO "staging-user_deployez_un_modele_de_machine_learning";
+
+-- =====================================================
+-- TABLES ACCESS (EXISTING TABLES)
+-- =====================================================
+GRANT SELECT, INSERT, UPDATE, DELETE
+ON ALL TABLES IN SCHEMA public
+TO "staging-user_deployez_un_modele_de_machine_learning";
+
+-- =====================================================
+-- SEQUENCES ACCESS (IMPORTANT FIX SERIAL / IDENTITY)
+-- =====================================================
+GRANT USAGE, SELECT, UPDATE
+ON ALL SEQUENCES IN SCHEMA public
+TO "staging-user_deployez_un_modele_de_machine_learning";
+
+-- =====================================================
+-- FUTURE TABLES
+-- =====================================================
+ALTER DEFAULT PRIVILEGES IN SCHEMA public
+GRANT SELECT, INSERT, UPDATE, DELETE
+ON TABLES
+TO "staging-user_deployez_un_modele_de_machine_learning";
+
+-- =====================================================
+-- FUTURE SEQUENCES
+-- =====================================================
+ALTER DEFAULT PRIVILEGES IN SCHEMA public
+GRANT USAGE, SELECT, UPDATE
+ON SEQUENCES
+TO "staging-user_deployez_un_modele_de_machine_learning";

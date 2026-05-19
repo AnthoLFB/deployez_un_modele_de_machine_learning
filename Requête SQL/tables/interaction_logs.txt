@@ -1,0 +1,23 @@
+CREATE TABLE interaction_logs (
+    id SERIAL PRIMARY KEY,
+
+    input_id INTEGER,
+    prediction_id INTEGER,
+
+    user_input JSONB NOT NULL,
+    model_output JSONB NOT NULL,
+
+    status VARCHAR(50) DEFAULT 'success',
+
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+
+    CONSTRAINT fk_input_log
+        FOREIGN KEY(input_id)
+        REFERENCES inputs(id)
+        ON DELETE SET NULL,
+
+    CONSTRAINT fk_prediction_log
+        FOREIGN KEY(prediction_id)
+        REFERENCES predictions(id)
+        ON DELETE SET NULL
+);

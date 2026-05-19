@@ -1,0 +1,14 @@
+CREATE TABLE predictions (
+    id SERIAL PRIMARY KEY,
+
+    input_id INTEGER NOT NULL,
+
+    prediction BOOLEAN NOT NULL,
+
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+
+    CONSTRAINT fk_input
+        FOREIGN KEY(input_id)
+        REFERENCES inputs(id)
+        ON DELETE CASCADE
+);

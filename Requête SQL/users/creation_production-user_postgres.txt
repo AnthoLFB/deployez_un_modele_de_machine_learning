@@ -1,0 +1,18 @@
+DO
+$$
+BEGIN
+
+    IF NOT EXISTS (
+        SELECT FROM pg_roles
+        WHERE rolname = 'production-user_deployez_un_modele_de_machine_learning'
+    ) THEN
+
+        CREATE ROLE "production-user_deployez_un_modele_de_machine_learning"
+        WITH
+            LOGIN
+            PASSWORD 'DFtCCeRj01q3l09o';
+
+    END IF;
+
+END
+$$;

@@ -1,0 +1,21 @@
+DO
+$$
+BEGIN
+
+    IF NOT EXISTS (
+        SELECT FROM pg_roles
+        WHERE rolname = 'sa_openclassrooms_deployez_un_modele_de_machine_learning'
+    ) THEN
+
+        CREATE ROLE sa_openclassrooms_deployez_un_modele_de_machine_learning
+        WITH
+            LOGIN
+            SUPERUSER
+            CREATEDB
+            CREATEROLE
+            PASSWORD '27mKGsPimFcuoC1l';
+
+    END IF;
+
+END
+$$;

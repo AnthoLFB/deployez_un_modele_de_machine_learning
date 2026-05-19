@@ -1,0 +1,119 @@
+INSERT INTO training_dataset (
+    revenu_mensuel,
+    departement,
+    poste,
+    nb_experiences_precedentes,
+    annees_experience_totale,
+    annees_dans_entreprise,
+    annees_poste_actuel,
+    age,
+    satisfaction_environnement,
+    note_evaluation_precedente,
+    niveau_hierarchique,
+    satisfaction_travail,
+    satisfaction_equipe,
+    satisfaction_equilibre_pro_perso,
+    nombre_evaluations,
+    note_evaluation_actuelle,
+    heures_supplementaires,
+    augmentation_salaire_precedente,
+    a_quitte_entreprise,
+    nb_participations_pee,
+    nb_formations_suivies,
+    code_sondage,
+    niveau_education,
+    domaine_etude,
+    frequence_deplacement,
+    annees_depuis_derniere_promotion,
+    annees_avec_responsable_actuel,
+    tranche_distance_domicile_travail
+)
+SELECT
+    -- revenu mensuel
+    (1800 + random() * 7000)::float,
+
+    -- département
+    (ARRAY['RH','IT','Finance','Marketing','Logistique'])
+        [1 + floor(random()*5)::int],
+
+    -- poste
+    (ARRAY['Junior','Intermediaire','Senior','Manager'])
+        [1 + floor(random()*4)::int],
+
+    -- expériences
+    floor(random()*10)::int,
+    floor(random()*35)::int,
+    floor(random()*25)::int,
+    floor(random()*15)::int,
+
+    -- âge
+    (18 + floor(random()*45))::int,
+
+    -- satisfaction (entiers 1–5)
+    (1 + floor(random()*5))::int,
+
+    -- note précédente
+    (random()*5)::numeric,
+
+    -- niveau hiérarchique
+    (1 + floor(random()*5))::int,
+
+    -- satisfaction travail
+    (1 + floor(random()*5))::int,
+
+    -- satisfaction équipe
+    (1 + floor(random()*5))::int,
+
+    -- équilibre vie pro/perso
+    (1 + floor(random()*5))::int,
+
+    -- évaluations
+    floor(random()*10)::int,
+
+    -- note actuelle
+    (random()*5)::numeric,
+
+    -- heures supp
+    (random() > 0.5),
+
+    -- augmentation salaire
+    (random()*20)::numeric,
+
+    -- TARGET (déséquilibrée comme réel ML RH)
+    CASE
+        WHEN random() < 0.75 THEN FALSE
+        ELSE TRUE
+    END,
+
+    -- PEE
+    floor(random()*5)::int,
+
+    -- formations
+    floor(random()*10)::int,
+
+    -- code sondage
+    md5(random()::text),
+
+    -- niveau éducation
+    (ARRAY['Bac','Licence','Master','Doctorat'])
+        [1 + floor(random()*4)::int],
+
+    -- domaine étude
+    (ARRAY['IT','Commerce','Science','Lettres','Ingenierie'])
+        [1 + floor(random()*5)::int],
+
+    -- fréquence déplacement
+    (ARRAY['Rare','Occasionnel','Frequent'])
+        [1 + floor(random()*3)::int],
+
+    -- promotion
+    floor(random()*10)::int,
+
+    -- manager
+    floor(random()*10)::int,
+
+    -- distance domicile travail
+    (ARRAY['<5km','5-15km','15-30km','30km+'])
+        [1 + floor(random()*4)::int]
+
+FROM generate_series(1, 1000);

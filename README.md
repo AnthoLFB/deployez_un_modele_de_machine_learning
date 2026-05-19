@@ -162,3 +162,30 @@ Distribué sous la licence MIT. Voir `LICENSE` pour plus d'informations.
 [SQLAlchemy-url]: https://www.sqlalchemy.org/
 [Pandas-badge]: https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white
 [Pandas-url]: https://pandas.pydata.org/
+## Installation de la Base de Données
+
+Un script d'automatisation est fourni pour créer les utilisateurs, les bases de données et les tables nécessaires.
+
+### Prérequis
+- PostgreSQL installé et en cours d'exécution.
+- Python avec `psycopg2-binary` et `python-dotenv` (inclus dans `requirements.txt`).
+- Le fichier `configuration/.env` doit être correctement renseigné.
+
+### Utilisation
+Pour initialiser ou mettre à jour la base de données, exécutez la commande suivante à la racine du projet :
+
+```bash
+python setup_db.py
+```
+
+**Note :** Par défaut, le script tente de se connecter à Postgres en utilisant les variables d'environnement `PGUSER` et `PGPASSWORD` (souvent `postgres`). Assurez-vous d'avoir les droits suffisants (rôle `SUPERUSER`) pour créer de nouveaux rôles et bases de données.
+
+Si vous devez spécifier manuellement l'utilisateur administrateur pour le script :
+- Sur Windows (PowerShell) :
+  ```powershell
+  $env:PGUSER="votre_admin"; $env:PGPASSWORD="votre_password"; python setup_db.py
+  ```
+- Sur Linux/macOS :
+  ```bash
+  PGUSER=votre_admin PGPASSWORD=votre_password python setup_db.py
+  ```

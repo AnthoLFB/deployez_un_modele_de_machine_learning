@@ -1,0 +1,2 @@
+CREATE DATABASE staging_deployez_un_modele_de_machine_learning
+OWNER "staging-user_deployez_un_modele_de_machine_learning"
