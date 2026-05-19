@@ -1,4 +1,6 @@
+# Vérifie que la route racine affiche bien le message de bienvenue et la liste des routes
 def test_root(client):
+
     response = client.get("/")
     assert response.status_code == 200
     data = response.json()
