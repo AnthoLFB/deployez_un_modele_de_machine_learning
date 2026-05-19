@@ -8,8 +8,7 @@ pandas
 joblib
 python-dotenv
 pytest
-black
-flake8
+ruff
 python-multipart
 httpx
 pytest-cov
