@@ -12,3 +12,4 @@ ruff
 python-multipart
 httpx
 pytest-cov
+mkdocs-material

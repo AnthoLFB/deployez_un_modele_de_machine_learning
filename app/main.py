@@ -13,7 +13,7 @@ logger = logging.getLogger(__name__)
 Base.metadata.create_all(bind=engine)
 
 app = FastAPI(
-    title="ML Prediction API",
+    title="Déployez un modele de machine learning",
     description="API pédagogique pour prédire une target à partir de l'âge et du salaire.",
     version="1.0.0"
 )
@@ -32,7 +32,7 @@ app.include_router(routes.router)
 @app.get("/")
 async def root():
     return {
-        "app_name": os.getenv("APP_NAME", "ML Prediction API"),
+        "app_name": os.getenv("APP_NAME", "Déployez un modele de machine learning"),
         "version": os.getenv("VERSION", "1.0.0")
     }
 
