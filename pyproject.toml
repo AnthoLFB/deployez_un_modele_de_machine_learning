@@ -9,6 +9,7 @@ dependencies = [
     "fastapi>=0.136.1",
     "flake8>=7.3.0",
     "joblib>=1.5.3",
+    "mkdocs-material>=9.7.6",
     "pandas>=3.0.2",
     "psycopg2-binary>=2.9.12",
     "pydantic>=2.13.4",
