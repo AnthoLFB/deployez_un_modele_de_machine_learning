@@ -1,8 +1,10 @@
 import pytest
 from app.db.models import TrainingDataset
 
+ # Fixture pour obtenir un modèle entraîné prêt pour les tests de prédiction
 @pytest.fixture
 def trained_model(client, db_session, clean_model):
+
     # Ajouter des données pour l'entraînement
     for i in range(10):
         db_session.add(TrainingDataset(
@@ -39,6 +41,8 @@ def trained_model(client, db_session, clean_model):
     client.post("/train")
 
 def test_predict_no_model(client, clean_model):
+
+    # Vérifie que la prédiction échoue si aucun modèle n'est chargé
     payload = {
         "revenu_mensuel": 5000.0,
         "departement": "R&D",
@@ -72,12 +76,16 @@ def test_predict_no_model(client, clean_model):
     assert response.status_code == 404
     assert "Modèle non trouvé" in response.json()["detail"]
 
+# Vérifie que la validation des données d'entrée fonctionne via Pydantic
 def test_predict_invalid_data(client, trained_model):
+
     payload = {"age": "vieux"} # Invalide (doit être int)
     response = client.post("/predict", json=payload)
     assert response.status_code == 422 # Pydantic validation error
 
+# Vérifie que la prédiction unitaire fonctionne avec des données valides
 def test_predict_success(client, db_session, trained_model):
+
     payload = {
         "revenu_mensuel": 5000.0,
         "departement": "R&D",
