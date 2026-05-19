@@ -1,11 +1,15 @@
 from app.db.models import PredictionResult, InputData
 
+# Vérifie que la liste des prédictions est vide au démarrage
 def test_show_list_empty(client):
+
     response = client.get("/show-list")
     assert response.status_code == 200
     assert response.json() == []
 
+# Vérifie que les prédictions enregistrées sont correctement retournées par /show-list
 def test_show_list_with_data(client, db_session):
+
     # Ajouter une donnée d'entrée et une prédiction associée
     input_data = InputData(
         revenu_mensuel=5000.0,
