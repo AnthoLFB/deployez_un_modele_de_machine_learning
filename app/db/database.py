@@ -7,12 +7,23 @@ from dotenv import load_dotenv
 load_dotenv("configuration/.env")
 
 try:
-    # Récupération de la configuration de la basse de données
-    host = os.getenv("DB_HOST")
-    port = os.getenv("DB_PORT")
-    dbname = os.getenv("DB_NAME")
-    user = os.getenv("DB_USER")
-    password = os.getenv("DB_PWD")
+    # Récupération de l'environnement
+    app_env = os.getenv("APP_ENV", "staging").lower()
+
+    # En fonction de l'env, on travaille en BDD de test ou de production.
+    if app_env == "production":
+        host = os.getenv("DB_PRODUCTION_HOST")
+        port = os.getenv("DB_PRODUCTION_PORT")
+        dbname = os.getenv("DB_PRODUCTION_NAME")
+        user = os.getenv("DB_PRODUCTION_USER")
+        password = os.getenv("DB_PRODUCTION_PWD")
+    else:
+        # Par défaut on utilise le staging
+        host = os.getenv("DB_STAGING_HOST")
+        port = os.getenv("DB_STAGING_PORT")
+        dbname = os.getenv("DB_STAGING_NAME")
+        user = os.getenv("DB_STAGING_USER")
+        password = os.getenv("DB_STAGING_PWD")
 
     # Création de l'URL de connexion
     SQLALCHEMY_DATABASE_URL = f"postgresql://{user}:{password}@{host}:{port}/{dbname}"
@@ -33,5 +44,5 @@ try:
         finally:
             db.close()
 
-except:
-  print("Une erreur est survenue lors de la récupération des informations de connexion à la base.")
+except Exception as e:
+    print(f"Une erreur est survenue lors de la récupération des informations de connexion à la base : {e}")
