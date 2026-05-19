@@ -209,3 +209,6 @@ __marimo__/
 
 # Logs et historiques IA
 /storage/history/*
+
+# DB locale
+test.db
