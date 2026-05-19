@@ -2,12 +2,16 @@ import os
 import pytest
 from app.db.models import TrainingDataset
 
+# Vérifie le comportement de l'archivage lorsqu'aucun modèle n'est présent
 def test_dump_brain_no_model(client, clean_model):
+
     response = client.post("/dump-brain")
     assert response.status_code == 200
     assert response.json()["status"] == "not_found"
 
+# Vérifie que l'archivage du modèle fonctionne correctement
 def test_dump_brain_success(client, db_session, clean_model):
+
     # Entraîner un modèle d'abord
     for i in range(10):
         db_session.add(TrainingDataset(
@@ -53,6 +57,7 @@ def test_dump_brain_success(client, db_session, clean_model):
     # Vérifier que le fichier est dans l'historique
     archive_path = response.json()["data"]["archive_path"]
     assert os.path.exists(archive_path)
+
     # Nettoyage de l'archive créée
     if os.path.exists(archive_path):
         os.remove(archive_path)
