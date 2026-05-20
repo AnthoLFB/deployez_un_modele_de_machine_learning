@@ -7,7 +7,7 @@ from sqlalchemy.orm import Session
 from ..services.trainer import Trainer
 from typing import Dict, Any, Optional
 from ..services.predictor import Predictor
-from ..schemas.input import PredictionInput
+from ..schemas.input import PredictionInput, TrainInput
 from ..services.model_manager import ModelManager
 from fastapi import APIRouter, Depends, HTTPException, Query, File, UploadFile
 from ..services.meta_service import display_welcome_message, get_health_status
@@ -27,7 +27,13 @@ def health_check():
 
 # Permet d'entrainer le modèle
 @router.post('/train')
-def train_model(force: bool = False, optimize: bool = False, param_grid: Optional[Dict[str, Any]] = None, db: Session = Depends(get_db)):
+def train_model(
+    payload: Optional[TrainInput] = None,
+    force: bool = False, 
+    optimize: bool = False, 
+    db: Session = Depends(get_db)
+):
+    param_grid = payload.param_grid if payload else None
     result = ModelManager.train(force, db, param_grid=param_grid, optimize=optimize)
     
     if result["status"] == "success":

@@ -3,16 +3,22 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
+from sklearn.impute import SimpleImputer
+from sklearn.preprocessing import FunctionTransformer
 from sklearn.model_selection import GridSearchCV, StratifiedKFold
 from sqlalchemy.orm import Session
 from ..db import crud, models
 
+def cast_to_str(X):
+    return X.astype(str)
+
 class Trainer:
 
     DEFAULT_PARAM_GRID = {
-        'n_estimators': [50, 100, 200, 300],
-        'max_depth': [None, 6, 8, 10, 12, 20],
-        'min_samples_split': [2, 5]
+        'n_estimators': [100, 200],
+        'max_depth': [5, 10, None],
+        'min_samples_leaf': [1, 2, 4],
+        'class_weight': ['balanced', 'balanced_subsample']
     }
 
     @staticmethod
@@ -28,10 +34,21 @@ class Trainer:
         print(f"Info: Features catégorielles: {categorical_features}")
 
         # Prétraitement
+        numeric_transformer = Pipeline(steps=[
+            ('imputer', SimpleImputer(strategy='median')),
+            ('scaler', StandardScaler())
+        ])
+
+        categorical_transformer = Pipeline(steps=[
+            ('cast_str', FunctionTransformer(cast_to_str)),
+            ('imputer', SimpleImputer(strategy='constant', fill_value='nan')),
+            ('onehot', OneHotEncoder(handle_unknown='ignore', sparse_output=False))
+        ])
+
         preprocessor = ColumnTransformer(
             transformers=[
-                ('num', StandardScaler(), numeric_features),
-                ('cat', OneHotEncoder(handle_unknown='ignore'), categorical_features)
+                ('num', numeric_transformer, numeric_features),
+                ('cat', categorical_transformer, categorical_features)
             ]
         )
 
@@ -79,25 +96,26 @@ class Trainer:
             df = pd.DataFrame([Trainer._to_dict(d) for d in data])
             
             # On sépare les features et la target
-            if "a_quitte_entreprise" not in df.columns:
+            if "a_quitte_l_entreprise" not in df.columns:
                 return {
                     "status": "error",
-                    "message": "La colonne target 'a_quitte_entreprise' est absente des données.",
+                    "message": "La colonne target 'a_quitte_l_entreprise' est absente des données.",
                     "data": None
                 }
 
-            X = df.drop(columns=["id", "created_at", "a_quitte_entreprise"])
-            y = df["a_quitte_entreprise"]
+            X = df.drop(columns=["id", "created_at", "a_quitte_l_entreprise"])
+            y = df["a_quitte_l_entreprise"]
 
             # Création et entraînement du modèle via la nouvelle fonction
-            base_model = RandomForestClassifier(random_state=42)
+            base_model = RandomForestClassifier(random_state=42, class_weight="balanced")
             
             # Gestion du param_grid par défaut si l'optimisation est demandée
             if optimize and param_grid is None:
                 param_grid = Trainer.DEFAULT_PARAM_GRID
                 print("Info: Utilisation du param_grid par défaut pour l'optimisation.")
 
-            trained_pipeline = Trainer.train_model_pipeline(X, y, base_model, param_grid=param_grid)
+            # Si on veut garantir une meilleure détection des 'True', on peut passer scoring="f1" ou "recall"
+            trained_pipeline = Trainer.train_model_pipeline(X, y, base_model, param_grid=param_grid, scoring="f1")
 
             # Si l'entrainement c'est bien passé on return un succès
             return {
