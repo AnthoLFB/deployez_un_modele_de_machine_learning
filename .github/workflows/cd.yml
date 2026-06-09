@@ -2,7 +2,8 @@ name: "OC | P5 : Déployez un modèle de Machine Learning | Déploiement vers Hu
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "main", "develop" ]
+  workflow_dispatch:
 
 jobs:
   deploy:
@@ -11,26 +12,25 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Git user configuration
+      - name: Set Space Destination
         run: |
-          git config --global user.email "antho.lefebvre@outlook.fr"
-          git config --global user.name "AnthoLFB"
+          if [[ "${{ github.ref }}" == "refs/heads/main" ]]; then
+            echo "HF_SPACE=AnthoLFB/deployez_un_modele_de_machine_learning" >> $GITHUB_ENV
+          else
+            echo "HF_SPACE=AnthoLFB/deployez_un_modele_de_machine_learning-preprod" >> $GITHUB_ENV
+          fi
+
+      - name: Install Hugging Face CLI
+        run: pip install huggingface_hub
 
       - name: Deploy to Hugging Face Space
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-
         run: |
-          git clone https://user:$HF_TOKEN@huggingface.co/spaces/AnthoLFB/deployez_un_modele_de_machine_learning space_repo
-
-          rsync -av --exclude='.git' ./ space_repo/
-
-          cd space_repo
-
-          git config user.email "github-actions@example.com"
-          git config user.name "github-actions"
-
-          git add .
-          git commit -m "Deploy from GitHub Actions" || echo "No changes"
-
-          git push
+          if [ -z "$HF_TOKEN" ]; then
+            echo "Error: HF_TOKEN is not set. Check your GitHub Secrets."
+            exit 1
+          fi
+          echo "Deploying to $HF_SPACE..."
+          # Correction de la commande hf upload pour éviter les erreurs d'arguments
+          hf upload $HF_SPACE . . --repo-type=space --token=$HF_TOKEN --exclude ".git/*" --exclude ".github/*"
