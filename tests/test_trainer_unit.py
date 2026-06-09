@@ -50,7 +50,7 @@ def test_train_from_db_no_target(db_session):
 class MockData:
     def __init__(self, data_dict):
         self.__dict__.update(data_dict)
-        # Mocking SQLAlchemy table structure for _to_dict
+        # Mock de la structure de la table SQLAlchemy pour la fonction _to_dict
         class Column:
             def __init__(self, name):
                 self.name = name
@@ -72,7 +72,7 @@ def test_trainer_to_dict():
 # Vérifie la gestion d'erreur quand une colonne obligatoire est manquante en base
 def test_train_from_db_error_handling(db_session, monkeypatch):
 
-    # Mock crud.get_training_data to return data without target column
+    # Mock crud.get_training_data pour retourner des données sans la cible
     def mock_get_training_data(db):
         return [MockData({'id': 1, 'feature': 10})]
     
@@ -81,7 +81,7 @@ def test_train_from_db_error_handling(db_session, monkeypatch):
     
     result = Trainer.train_from_db(db_session)
     assert result["status"] == "error"
-    assert "La colonne target 'a_quitte_entreprise' est absente" in result["message"]
+    assert "La colonne target 'a_quitte_l_entreprise' est absente" in result["message"]
 
 # Vérifie la gestion des exceptions lors de la récupération des données en base
 def test_train_from_db_exception(db_session, monkeypatch):
