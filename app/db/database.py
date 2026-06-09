@@ -6,6 +6,18 @@ from dotenv import load_dotenv
 # Chargement des variables d'environnement depuis le fichier .env
 load_dotenv("configuration/.env")
 
+# Base pour les modèles SQLAlchemy
+Base = declarative_base()
+
+
+def get_db():
+    db = SessionLocal()
+    try:
+        yield db
+    finally:
+        db.close()
+
+
 try:
     # Récupération de l'environnement
     app_env = os.getenv("APP_ENV", "staging").lower()
@@ -35,18 +47,11 @@ try:
 
     # Création / Ouverture de la session
     SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
-
-    # Base pour les modèles SQLAlchemy
-    Base = declarative_base()
-
-    def get_db():
-        db = SessionLocal()
-        try:
-            yield db
-        finally:
-            db.close()
-
 except Exception as e:
     print(
         f"Une erreur est survenue lors de la récupération des informations de connexion à la base : {e}"
     )
+    # On définit des variables par défaut pour éviter les erreurs d'importation
+    # même si la connexion réelle échouera si on essaie de l'utiliser.
+    engine = None
+    SessionLocal = sessionmaker()
