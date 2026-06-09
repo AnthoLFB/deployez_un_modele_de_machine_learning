@@ -1,7 +1,15 @@
-# Pour lancer l'application  : uvicorn app.main:app
+# Imports
+import os
+from dotenv import load_dotenv
+
+# Récupération des variables d'environnement
+load_dotenv("configuration/.env")
+
+
+# Initialisation du programme
+def main():
+    print(f"Bonjour ! Bienvenue sur le projet : {os.getenv('APP_NAME')}")
+
 
 if __name__ == "__main__":
-    import uvicorn
-    from app.main import app
-
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    main()
