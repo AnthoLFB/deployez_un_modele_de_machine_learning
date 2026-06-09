@@ -1,7 +1,6 @@
 import logging
-import os
 from fastapi import FastAPI, Request
-from fastapi.responses import JSONResponse
+from fastapi.responses import JSONResponse, RedirectResponse
 from .api import routes
 from .db.database import engine, Base
 
@@ -40,12 +39,9 @@ async def global_exception_handler(request: Request, exc: Exception):
 app.include_router(routes.router)
 
 
-@app.get("/")
+@app.get("/", include_in_schema=False)
 async def root():
-    return {
-        "app_name": os.getenv("APP_NAME", "ML Prediction API"),
-        "version": os.getenv("VERSION", "1.0.0"),
-    }
+    return RedirectResponse(url="/docs")
 
 
 if __name__ == "__main__":
