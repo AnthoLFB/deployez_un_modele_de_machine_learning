@@ -32,4 +32,5 @@ jobs:
             exit 1
           fi
           echo "Deploying to $HF_SPACE..."
-          huggingface-cli upload $HF_SPACE ./ . --repo-type=space --token=$HF_TOKEN --exclude ".git/*" ".github/*" --all-commits
+          # Utilisation de la commande hf recommandée par les logs de la CI
+          hf upload $HF_SPACE . . --repo-type=space --token=$HF_TOKEN --exclude ".git/*" ".github/*"
