@@ -1,4 +1,4 @@
-#Imports
+# Imports
 import os
 import joblib
 import shutil
@@ -14,8 +14,8 @@ MODEL_PATH = os.getenv("MODEL_BASE_FILENAME", "model.pkl")
 MODEL_STORAGE = os.getenv("MODEL_BASE_STORAGE_PATH", "storage/history")
 MODEL_HISTORY_STORAGE = os.getenv("MODEL_HISTORY_STORAGE_PATH", "storage/history")
 
-class ModelManager:
 
+class ModelManager:
     def train(force, db, param_grid=None, optimize=False):
         """Orchestre l'entraînement du modèle."""
         try:
@@ -23,7 +23,7 @@ class ModelManager:
             if ModelManager.model_exists() and not force:
                 return {
                     "status": "conflict",
-                    "message": "Le modèle existe déjà. Utilisez force=true pour ré-entraîner."
+                    "message": "Le modèle existe déjà. Utilisez force=true pour ré-entraîner.",
                 }
 
             # Le modèle existe et l'utilisateur souhaite forcer le ré-entrainement
@@ -39,22 +39,16 @@ class ModelManager:
                 print("Info: Sauvegarde du modèle...")
                 ModelManager.save_model(result["data"])
                 print("Info: Sauvegarde réussie...")
-                
-                return {
-                    "status": "success",
-                    "message": result["message"]
-                }
+
+                return {"status": "success", "message": result["message"]}
             else:
-                return {
-                    "status": "error",
-                    "message": result["message"]
-                }
+                return {"status": "error", "message": result["message"]}
 
         except Exception as e:
             print(f"Error: {str(e)}")
             return {
                 "status": "error",
-                "message": f"Erreur interne lors de l'entraînement : {str(e)}"
+                "message": f"Erreur interne lors de l'entraînement : {str(e)}",
             }
 
     @staticmethod
@@ -75,21 +69,21 @@ class ModelManager:
         if os.path.exists(MODEL_PATH):
             if not os.path.exists(MODEL_HISTORY_STORAGE):
                 os.makedirs(MODEL_HISTORY_STORAGE)
-            
+
             timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
             archive_path = os.path.join(MODEL_HISTORY_STORAGE, f"model_{timestamp}.pkl")
-            
+
             # Déplacer le modèle vers l'historique
             shutil.move(MODEL_PATH, archive_path)
             return {
                 "status": "success",
                 "message": f"Modèle archivé avec succès vers {archive_path}",
-                "data": {"archive_path": archive_path}
+                "data": {"archive_path": archive_path},
             }
         return {
             "status": "not_found",
             "message": "Aucun modèle à archiver.",
-            "data": None
+            "data": None,
         }
 
     @staticmethod

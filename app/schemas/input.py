@@ -1,6 +1,7 @@
 from pydantic import BaseModel, Field
 from typing import Optional, List, Dict, Any
 
+
 class TrainInput(BaseModel):
     param_grid: Optional[Dict[str, List[Any]]] = Field(
         default=None,
@@ -14,11 +15,12 @@ class TrainInput(BaseModel):
                     "n_estimators": [100, 200],
                     "max_depth": [None, 10, 20],
                     "min_samples_leaf": [1, 2, 4],
-                    "class_weight": ["balanced", "balanced_subsample"]
+                    "class_weight": ["balanced", "balanced_subsample"],
                 }
             }
         }
     }
+
 
 class PredictionInput(BaseModel):
     revenu_mensuel: float
@@ -74,7 +76,7 @@ class PredictionInput(BaseModel):
                 "frequence_deplacement": "Rare",
                 "annees_depuis_la_derniere_promotion": 2,
                 "annes_sous_responsable_actuel": 3,
-                "tranche_distance_domicile_travail": "10-20km"
+                "tranche_distance_domicile_travail": "10-20km",
             }
         }
     }

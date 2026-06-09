@@ -1,8 +1,19 @@
-from sqlalchemy import Column, Integer, Float, String, DateTime, ForeignKey, Boolean, JSON
+from sqlalchemy import (
+    Column,
+    Integer,
+    Float,
+    String,
+    DateTime,
+    ForeignKey,
+    Boolean,
+    JSON,
+)
+
 # from sqlalchemy.dialects.postgresql import JSONB
 from sqlalchemy.orm import relationship
 from sqlalchemy.sql import func
 from .database import Base
+
 
 class TrainingDataset(Base):
     __tablename__ = "training_dataset"
@@ -34,6 +45,7 @@ class TrainingDataset(Base):
     annes_sous_responsable_actuel = Column(Integer)
     tranche_distance_domicile_travail = Column(String)
     created_at = Column(DateTime(timezone=True), server_default=func.now())
+
 
 class InputData(Base):
     __tablename__ = "inputs"
@@ -69,6 +81,7 @@ class InputData(Base):
     predictions = relationship("PredictionResult", back_populates="input")
     interaction_logs = relationship("InteractionLog", back_populates="input")
 
+
 class PredictionResult(Base):
     __tablename__ = "predictions"
     id = Column(Integer, primary_key=True, index=True)
@@ -78,7 +91,10 @@ class PredictionResult(Base):
 
     # Relations
     input = relationship("InputData", back_populates="predictions")
-    interaction_logs = relationship("InteractionLog", back_populates="prediction_result")
+    interaction_logs = relationship(
+        "InteractionLog", back_populates="prediction_result"
+    )
+
 
 class InteractionLog(Base):
     __tablename__ = "interaction_logs"
@@ -92,4 +108,6 @@ class InteractionLog(Base):
 
     # Relations
     input = relationship("InputData", back_populates="interaction_logs")
-    prediction_result = relationship("PredictionResult", back_populates="interaction_logs")
+    prediction_result = relationship(
+        "PredictionResult", back_populates="interaction_logs"
+    )

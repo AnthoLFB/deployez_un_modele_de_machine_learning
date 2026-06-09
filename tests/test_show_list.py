@@ -1,11 +1,13 @@
 from app.db.models import PredictionResult, InputData
 
+
 # Vérifie que la liste des prédictions est vide au démarrage
 def test_show_list_empty(client):
 
     response = client.get("/show-list")
     assert response.status_code == 200
     assert response.json() == []
+
 
 # Vérifie que les prédictions enregistrées sont correctement retournées par /show-list
 def test_show_list_with_data(client, db_session):
@@ -36,7 +38,7 @@ def test_show_list_with_data(client, db_session):
         frequence_deplacement="Rare",
         annees_depuis_la_derniere_promotion=2,
         annes_sous_responsable_actuel=3,
-        tranche_distance_domicile_travail="10-20km"
+        tranche_distance_domicile_travail="10-20km",
     )
     db_session.add(input_data)
     db_session.commit()
