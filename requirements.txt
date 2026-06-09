@@ -1,14 +1,4 @@
-fastapi
-uvicorn
-pydantic
-sqlalchemy
-psycopg2-binary
-scikit-learn
-pandas
-joblib
-python-dotenv
 pytest
-ruff
-python-multipart
-httpx
-pytest-cov
+python-dotenv
+black
+flake8
