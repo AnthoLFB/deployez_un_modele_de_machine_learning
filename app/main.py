@@ -13,7 +13,9 @@ logger = logging.getLogger(__name__)
 if engine is not None:
     Base.metadata.create_all(bind=engine)
 else:
-    logger.warning("L'engine de la base de données est None. Les tables n'ont pas été créées.")
+    logger.warning(
+        "L'engine de la base de données est None. Les tables n'ont pas été créées."
+    )
 
 app = FastAPI(
     title="ML Prediction API",
