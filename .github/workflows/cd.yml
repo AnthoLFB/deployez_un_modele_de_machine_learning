@@ -3,6 +3,7 @@ name: "OC | P5 : Déployez un modèle de Machine Learning | Déploiement vers Hu
 on:
   push:
     branches: [ "main", "develop" ]
+  workflow_dispatch:
 
 jobs:
   deploy:
@@ -26,4 +27,9 @@ jobs:
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
-          huggingface-cli upload $HF_SPACE ./ . --repo-type=space --token=$HF_TOKEN --exclude ".git/*" ".github/*"
+          if [ -z "$HF_TOKEN" ]; then
+            echo "Error: HF_TOKEN is not set. Check your GitHub Secrets."
+            exit 1
+          fi
+          echo "Deploying to $HF_SPACE..."
+          huggingface-cli upload $HF_SPACE ./ . --repo-type=space --token=$HF_TOKEN --exclude ".git/*" ".github/*" --all-commits
