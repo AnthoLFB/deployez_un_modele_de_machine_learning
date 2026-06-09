@@ -1,5 +1,4 @@
 import logging
-import os
 from fastapi import FastAPI, Request
 from fastapi.responses import JSONResponse, RedirectResponse
 from .api import routes

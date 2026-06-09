@@ -14,6 +14,7 @@ from ..services.meta_service import get_health_status
 # Création et organisation des routes via FastAPI.
 router = APIRouter()
 
+
 # Permte de checker si l'API est accessible
 @router.get("/health")
 def health_check():
