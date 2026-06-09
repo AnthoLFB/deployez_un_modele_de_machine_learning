@@ -1,3 +1,17 @@
+---
+title: Déployez un modele de machine learning
+emoji: 🎓
+colorFrom: purple
+colorTo: indigo
+sdk: gradio
+sdk_version: 6.14.0
+python_version: '3.11'
+app_file: main.py
+pinned: false
+license: mit
+short_description: Projet OC
+---
+
 # Déployez un modèle de machine learning
 
 CI/CD
