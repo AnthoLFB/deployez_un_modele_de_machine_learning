@@ -9,17 +9,10 @@ from ..services.predictor import Predictor
 from ..schemas.input import PredictionInput, TrainInput
 from ..services.model_manager import ModelManager
 from fastapi import APIRouter, Depends, HTTPException, Query, File, UploadFile
-from ..services.meta_service import display_welcome_message, get_health_status
+from ..services.meta_service import get_health_status
 
 # Création et organisation des routes via FastAPI.
 router = APIRouter()
-
-
-# Route de base (message de bienvenu + liste des routes dispo)
-@router.get("/")
-def welcome():
-    return display_welcome_message()
-
 
 # Permte de checker si l'API est accessible
 @router.get("/health")
