@@ -1,26 +1,41 @@
 # Maintenance et Mise à jour
 
-La pérennité d'un modèle de Machine Learning dépend de sa maintenance régulière.
+La pérennité d'un modèle de Machine Learning en production repose sur une surveillance constante et des mises à jour régulières pour éviter la dérive du modèle (*model drift*).
 
-## Protocole de Ré-entraînement
+## Protocole de Mise à jour Régulière
 
-Il est recommandé de ré-entraîner le modèle périodiquement (ex: tous les mois ou après chaque ajout significatif de données de vérité terrain).
+Il est recommandé d'appliquer le protocole suivant tous les mois ou après une modification importante de la structure des effectifs.
 
-### Étapes de mise à jour :
-1.  **Collecte des données** : Charger les nouvelles données d'attrition réelle dans la table `training_dataset`.
-2.  **Appel à l'API** : Envoyer une requête `POST /train?optimize=true&force=true`.
-3.  **Vérification** : Analyser les scores de performance (F1-score) affichés dans les logs.
-4.  **Tests de non-régression** : Vérifier que les prédictions sur un jeu de test de référence restent cohérentes.
+### 1. Collecte et Intégration des Données
+Les nouvelles données de vérité terrain (employés ayant quitté ou étant restés dans l'entreprise après une période donnée) doivent être insérées dans la table `training_dataset` de la base de données.
 
-## Archivage et Versionnage
+### 2. Déclenchement du Ré-entraînement
+Utilisez l'endpoint `/train` avec l'optimisation activée pour garantir la meilleure configuration possible :
+```bash
+curl -X POST "http://votre-api/train?force=true&optimize=true"
+```
 
-Le `ModelManager` gère automatiquement l'archivage :
-*   Le modèle actif est stocké à la racine sous le nom configuré dans `.env`.
-*   Chaque ré-entraînement avec `force=true` déplace l'ancien modèle vers `storage/history/` avec un timestamp.
-*   En cas de dégradation des performances du nouveau modèle, il est possible de restaurer manuellement un ancien fichier `.pkl`.
+### 3. Validation de la Performance
+- Consultez les logs de l'application pour vérifier le **Score F1** et le **Rappel** obtenus.
+- Si le Score F1 est inférieur de plus de 10% par rapport au modèle précédent, analysez la qualité des nouvelles données.
 
-## Monitoring
+## Archivage et Versionnage du "Cerveau"
 
-L'API enregistre les logs d'interaction dans la table `interaction_logs`. 
-*   **Surveillance des erreurs** : Vérifier régulièrement les logs pour détecter des erreurs 400 ou 500.
-*   **Analyse de dérive** : Comparer périodiquement les distributions des entrées dans `inputs` par rapport aux données d'entraînement initiales.
+Le système de gestion des modèles (`ModelManager`) assure la sécurité des opérations :
+- **Rotation automatique** : Lors d'un ré-entraînement forcé, l'ancien modèle est automatiquement déplacé vers `storage/history/` avec un suffixe temporel (ex: `model_20260609_120000.joblib`).
+- **Rollback** : Pour revenir à une version précédente, il suffit de renommer le fichier souhaité dans `storage/history/` et de le replacer à la racine du dossier modèle configuré.
+
+## Monitoring et Santé du Système
+
+### Surveillance des Interactions
+L'API historise chaque prédiction. Cette base de données d'interactions est cruciale pour :
+- **Vérifier la cohérence** : Est-ce que le modèle prédit un taux de départ anormalement élevé ?
+- **Audit** : Pouvoir expliquer a posteriori une prédiction spécifique.
+
+### Alerting et Maintenance préventive
+- **Logs d'erreurs** : Surveillez les erreurs de type `400` (problèmes de format de données clients) et `500` (erreurs internes).
+- **Santé de la DB** : L'endpoint `/health` permet de s'assurer que la connexion à la base de données est toujours active.
+
+## Protocole de Sécurité
+- Assurez-vous que le fichier `.env` est correctement configuré et non exposé publiquement.
+- Limitez l'accès aux endpoints `/train` et `/dump-brain` via une couche de sécurité réseau (VPN, filtrage IP) ou une authentification si l'API est exposée sur le web.
