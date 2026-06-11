@@ -18,3 +18,4 @@ Le projet est conçu pour fournir une interface simple et efficace afin de préd
 * [Documentation de l'API](api.md) : Détails sur les endpoints, requêtes et réponses.
 * [Modèle Technique](model.md) : Analyse du modèle, performances et architecture.
 * [Maintenance & Mise à jour](maintenance.md) : Protocoles de maintenance et ré-entraînement.
+* [Configuration & Environnement](configuration.md) : Gestion des identifiants et accès à la BDD.

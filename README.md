@@ -56,7 +56,8 @@ Le projet suit une architecture modulaire :
    ```
 
 3. **Configurer l'environnement** :
-   Créez un fichier `configuration/.env` (si non existant) avec les variables nécessaires (voir `configuration/.env.example`).
+   Créez un fichier `configuration/.env` (en vous basant sur `configuration/.env.example`) pour gérer les variables d'environnement et les identifiants de connexion à la base de données.
+   Voir la [documentation de configuration](docs/configuration.md) pour plus de détails.
 
 4. **Lancer l'application** :
    ```bash
